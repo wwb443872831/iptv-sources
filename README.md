@@ -25,13 +25,7 @@ EPG Sources are from:
 
 You can also use the services provided by Mirror Sites Matrix! See <https://m3u.ibert.me> for more.
 
-| HTTP Protocol | URL | Auto-update Frequence | Latest Updated | IDC | Provider |
-| ------------- | --- | --------------------- | --- | --- | -------- |
-| https | <https://iptv.b2og.com> | per 2h | Get Updated Failed: **Forbidden** | 腾讯云 | [GrandDuke1106](https://github.com/GrandDuke1106) |
-| https | <https://iptv.helima.net> | per 2.5h | Tue Jan 16 2024 13:30:06 GMT+0000 (Coordinated Universal Time) | Oracle | [DobySAMA](https://github.com/DobySAMA) |
-| https | <https://m3u.002397.xyz> | per 2h | Tue Jan 16 2024 14:03:41 GMT+0000 (Coordinated Universal Time) | CloudFlare Tunnel | [Eternal-Future](https://github.com/Eternal-Future) |
-| https | <https://iptv.002397.xyz> | per 2h | Tue Jan 16 2024 14:00:50 GMT+0000 (Coordinated Universal Time) | Amazon | [Eternal-Future](https://github.com/Eternal-Future) |
-
+<!-- matrix_here -->
 ## Channel
 
 | channel | url | list | count | isRollback |
@@ -67,7 +61,7 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | - |
 | 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | - |
 
-Updated at **Tue Jan 16 2024 14:08:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jan 16 2024 15:47:05 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
