@@ -5250,95 +5250,119 @@
 	<channel id="上视纪实">
 		<display-name lang="zh">上视纪实</display-name>
 	</channel>
-	<programme channel="上视纪实" start="20240117000000 +0800" stop="20240117011500 +0800">
-		<title lang="zh">敦煌乐器2</title>
+	<programme channel="上视纪实" start="20240117000000 +0800" stop="20240117002600 +0800">
+		<title lang="zh">纪实人文</title>
 	</programme>
-	<programme channel="上视纪实" start="20240117011500 +0800" stop="20240117015400 +0800">
-		<title lang="zh">沪明往事1</title>
+	<programme channel="上视纪实" start="20240117002600 +0800" stop="20240117010600 +0800">
+		<title lang="zh">敦煌乐器(下)</title>
 	</programme>
-	<programme channel="上视纪实" start="20240117015400 +0800" stop="20240117030300 +0800">
-		<title lang="zh">海昏侯3</title>
+	<programme channel="上视纪实" start="20240117010600 +0800" stop="20240117011700 +0800">
+		<title lang="zh">如果国宝会说话:虎符</title>
 	</programme>
-	<programme channel="上视纪实" start="20240117030300 +0800" stop="20240117040300 +0800">
-		<title lang="zh">地球脉动第三季9</title>
+	<programme channel="上视纪实" start="20240117011700 +0800" stop="20240117015300 +0800">
+		<title lang="zh">沪明往事(1)</title>
 	</programme>
-	<programme channel="上视纪实" start="20240117040300 +0800" stop="20240117050400 +0800">
-		<title lang="zh">动物园：小海狮断奶</title>
+	<programme channel="上视纪实" start="20240117015300 +0800" stop="20240117024700 +0800">
+		<title lang="zh">海昏侯(3)</title>
 	</programme>
-	<programme channel="上视纪实" start="20240117050400 +0800" stop="20240117060000 +0800">
-		<title lang="zh">动物园秘辛：坦帕第三季：狼群奇迹</title>
+	<programme channel="上视纪实" start="20240117024700 +0800" stop="20240117025400 +0800">
+		<title lang="zh">我是党员:杨戌雷</title>
 	</programme>
-	<programme channel="上视纪实" start="20240117060000 +0800" stop="20240117070000 +0800">
-		<title lang="zh">地球脉动第三季9</title>
+	<programme channel="上视纪实" start="20240117025400 +0800" stop="20240117040000 +0800">
+		<title lang="zh">地球脉动Ⅲ(9)</title>
 	</programme>
-	<programme channel="上视纪实" start="20240117070000 +0800" stop="20240117073000 +0800">
-		<title lang="zh">沪明往事1</title>
+	<programme channel="上视纪实" start="20240117040000 +0800" stop="20240117050100 +0800">
+		<title lang="zh">动物园:小海狮断奶</title>
 	</programme>
-	<programme channel="上视纪实" start="20240117073000 +0800" stop="20240117083000 +0800">
-		<title lang="zh">敦煌乐器2</title>
+	<programme channel="上视纪实" start="20240117050100 +0800" stop="20240117060000 +0800">
+		<title lang="zh">动物园秘辛-坦帕Ⅲ:狼群奇迹</title>
+	</programme>
+	<programme channel="上视纪实" start="20240117060000 +0800" stop="20240117070300 +0800">
+		<title lang="zh">地球脉动Ⅲ(9)</title>
+	</programme>
+	<programme channel="上视纪实" start="20240117070300 +0800" stop="20240117073300 +0800">
+		<title lang="zh">沪明往事(1)</title>
+	</programme>
+	<programme channel="上视纪实" start="20240117073300 +0800" stop="20240117082200 +0800">
+		<title lang="zh">敦煌乐器(下)</title>
+	</programme>
+	<programme channel="上视纪实" start="20240117082200 +0800" stop="20240117083000 +0800">
+		<title lang="zh">如果国宝会说话:虎符</title>
 	</programme>
 	<programme channel="上视纪实" start="20240117083000 +0800" stop="20240117093100 +0800">
-		<title lang="zh">动物园秘辛：坦帕第三季：狼群奇迹</title>
+		<title lang="zh">动物园秘辛-坦帕Ⅲ:狼群奇迹</title>
 	</programme>
 	<programme channel="上视纪实" start="20240117093100 +0800" stop="20240117103000 +0800">
-		<title lang="zh">动物园：小海狮断奶</title>
+		<title lang="zh">动物园:小海狮断奶</title>
 	</programme>
-	<programme channel="上视纪实" start="20240117103000 +0800" stop="20240117113200 +0800">
-		<title lang="zh">海昏侯3</title>
+	<programme channel="上视纪实" start="20240117103000 +0800" stop="20240117112100 +0800">
+		<title lang="zh">海昏侯(3)</title>
 	</programme>
-	<programme channel="上视纪实" start="20240117113200 +0800" stop="20240117122500 +0800">
-		<title lang="zh">地球脉动第三季9</title>
+	<programme channel="上视纪实" start="20240117112100 +0800" stop="20240117112800 +0800">
+		<title lang="zh">我是党员:杨戌雷</title>
 	</programme>
-	<programme channel="上视纪实" start="20240117122500 +0800" stop="20240117130100 +0800">
+	<programme channel="上视纪实" start="20240117112800 +0800" stop="20240117122800 +0800">
+		<title lang="zh">地球脉动Ⅲ(9)</title>
+	</programme>
+	<programme channel="上视纪实" start="20240117122800 +0800" stop="20240117125600 +0800">
 		<title lang="zh">未来塘主</title>
 	</programme>
-	<programme channel="上视纪实" start="20240117130100 +0800" stop="20240117135000 +0800">
-		<title lang="zh">美国国家公园第二季：克拉克湖国家公园</title>
+	<programme channel="上视纪实" start="20240117125600 +0800" stop="20240117134200 +0800">
+		<title lang="zh">美国国家公园Ⅱ</title>
 	</programme>
-	<programme channel="上视纪实" start="20240117135000 +0800" stop="20240117144100 +0800">
-		<title lang="zh">曹雪芹与红楼梦4</title>
+	<programme channel="上视纪实" start="20240117134200 +0800" stop="20240117143800 +0800">
+		<title lang="zh">曹雪芹与红楼梦(4)</title>
 	</programme>
-	<programme channel="上视纪实" start="20240117144100 +0800" stop="20240117154300 +0800">
-		<title lang="zh">手术两百年5</title>
+	<programme channel="上视纪实" start="20240117143800 +0800" stop="20240117152600 +0800">
+		<title lang="zh">手术两百年(5)</title>
 	</programme>
-	<programme channel="上视纪实" start="20240117154300 +0800" stop="20240117163400 +0800">
-		<title lang="zh">地球脉动第三季5</title>
+	<programme channel="上视纪实" start="20240117152600 +0800" stop="20240117152900 +0800">
+		<title lang="zh">我是党员:朱兰</title>
 	</programme>
-	<programme channel="上视纪实" start="20240117163400 +0800" stop="20240117172400 +0800">
-		<title lang="zh">取毒高手：液体黄金</title>
+	<programme channel="上视纪实" start="20240117152900 +0800" stop="20240117154200 +0800">
+		<title lang="zh">申生不息(7)</title>
 	</programme>
-	<programme channel="上视纪实" start="20240117172400 +0800" stop="20240117180000 +0800">
+	<programme channel="上视纪实" start="20240117154200 +0800" stop="20240117164200 +0800">
+		<title lang="zh">地球脉动Ⅲ(5)</title>
+	</programme>
+	<programme channel="上视纪实" start="20240117164200 +0800" stop="20240117173000 +0800">
+		<title lang="zh">取毒高手:液体黄金</title>
+	</programme>
+	<programme channel="上视纪实" start="20240117173000 +0800" stop="20240117175700 +0800">
 		<title lang="zh">未来塘主</title>
+	</programme>
+	<programme channel="上视纪实" start="20240117175700 +0800" stop="20240117180000 +0800">
+		<title lang="zh">逐梦蓝天C919</title>
 	</programme>
 	<programme channel="上视纪实" start="20240117180000 +0800" stop="20240117184500 +0800">
-		<title lang="zh">美国国家公园第二季：大提顿国家公园</title>
+		<title lang="zh">美国国家公园Ⅱ:大提顿国家公园</title>
 	</programme>
 	<programme channel="上视纪实" start="20240117184500 +0800" stop="20240117190000 +0800">
-		<title lang="zh">超级装</title>
+		<title lang="zh">超级装(458)</title>
 	</programme>
 	<programme channel="上视纪实" start="20240117190000 +0800" stop="20240117200000 +0800">
-		<title lang="zh">甜蜜中国1</title>
+		<title lang="zh">甜蜜中国(1)</title>
 	</programme>
-	<programme channel="上视纪实" start="20240117200000 +0800" stop="20240117205300 +0800">
-		<title lang="zh">上甘岭1</title>
+	<programme channel="上视纪实" start="20240117200000 +0800" stop="20240117205200 +0800">
+		<title lang="zh">上甘岭(1)</title>
 	</programme>
-	<programme channel="上视纪实" start="20240117205300 +0800" stop="20240117210800 +0800">
-		<title lang="zh">最家计划</title>
+	<programme channel="上视纪实" start="20240117205200 +0800" stop="20240117205500 +0800">
+		<title lang="zh">我是党员:施净岚</title>
 	</programme>
-	<programme channel="上视纪实" start="20240117210800 +0800" stop="20240117220200 +0800">
-		<title lang="zh">一路前行1</title>
+	<programme channel="上视纪实" start="20240117205500 +0800" stop="20240117211000 +0800">
+		<title lang="zh">最家计划(375)</title>
 	</programme>
-	<programme channel="上视纪实" start="20240117220200 +0800" stop="20240117221700 +0800">
-		<title lang="zh">超级装</title>
+	<programme channel="上视纪实" start="20240117211000 +0800" stop="20240117221400 +0800">
+		<title lang="zh">一路前行(1)</title>
 	</programme>
-	<programme channel="上视纪实" start="20240117221700 +0800" stop="20240117224800 +0800">
-		<title lang="zh">沪明往事2</title>
+	<programme channel="上视纪实" start="20240117221400 +0800" stop="20240117222900 +0800">
+		<title lang="zh">超级装(462)</title>
 	</programme>
-	<programme channel="上视纪实" start="20240117224800 +0800" stop="20240117233300 +0800">
-		<title lang="zh">动物园：土拨鼠大使</title>
+	<programme channel="上视纪实" start="20240117222900 +0800" stop="20240117230000 +0800">
+		<title lang="zh">沪明往事(2)</title>
 	</programme>
-	<programme channel="上视纪实" start="20240117233300 +0800" stop="20240117235900 +0800">
-		<title lang="zh">美国国家公园第二季：大提顿国家公园</title>
+	<programme channel="上视纪实" start="20240117230000 +0800" stop="20240117235100 +0800">
+		<title lang="zh">动物园:土拨鼠大使</title>
 	</programme>
 	<channel id="世界地理">
 		<display-name lang="zh">世界地理</display-name>
@@ -12549,59 +12573,80 @@
 	<channel id="卡酷少儿">
 		<display-name lang="zh">卡酷少儿</display-name>
 	</channel>
-	<programme channel="卡酷少儿" start="20240117000000 +0800" stop="20240117002000 +0800">
-		<title lang="zh">喜羊羊与灰太狼之羊村守护者(7)</title>
+	<programme channel="卡酷少儿" start="20240117000000 +0800" stop="20240117001100 +0800">
+		<title lang="zh">喜羊羊与灰太狼之羊村守护者Ⅶ</title>
+	</programme>
+	<programme channel="卡酷少儿" start="20240117001100 +0800" stop="20240117002000 +0800">
+		<title lang="zh">广宣时段</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117002000 +0800" stop="20240117004000 +0800">
-		<title lang="zh">猪猪侠之超星五灵侠3(1)</title>
+		<title lang="zh">猪猪侠之超星五灵侠Ⅲ(1)</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117004000 +0800" stop="20240117010000 +0800">
-		<title lang="zh">猪猪侠之超星五灵侠3(2)</title>
+		<title lang="zh">猪猪侠之超星五灵侠Ⅲ(2)</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117010000 +0800" stop="20240117012000 +0800">
-		<title lang="zh">猪猪侠之超星五灵侠3(3)</title>
+		<title lang="zh">猪猪侠之超星五灵侠Ⅲ(3)</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117012000 +0800" stop="20240117014000 +0800">
-		<title lang="zh">猪猪侠之超星五灵侠3(4)</title>
+		<title lang="zh">猪猪侠之超星五灵侠Ⅲ(4)</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117014000 +0800" stop="20240117020000 +0800">
-		<title lang="zh">猪猪侠之超星五灵侠3(5)</title>
+		<title lang="zh">猪猪侠之超星五灵侠Ⅲ(5)</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117020000 +0800" stop="20240117022000 +0800">
-		<title lang="zh">猪猪侠之超星五灵侠3(6)</title>
+		<title lang="zh">猪猪侠之超星五灵侠Ⅲ(6)</title>
 	</programme>
-	<programme channel="卡酷少儿" start="20240117022000 +0800" stop="20240117024600 +0800">
-		<title lang="zh">猪猪侠之超星五灵侠3(7)</title>
+	<programme channel="卡酷少儿" start="20240117022000 +0800" stop="20240117024000 +0800">
+		<title lang="zh">猪猪侠之超星五灵侠Ⅲ(7)</title>
+	</programme>
+	<programme channel="卡酷少儿" start="20240117024000 +0800" stop="20240117024600 +0800">
+		<title lang="zh">广宣时段</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117024600 +0800" stop="20240117030600 +0800">
-		<title lang="zh">猪猪侠之超星五灵侠4(1)</title>
+		<title lang="zh">猪猪侠之超星五灵侠Ⅳ(1)</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117030600 +0800" stop="20240117032600 +0800">
-		<title lang="zh">猪猪侠之超星五灵侠4(2)</title>
+		<title lang="zh">猪猪侠之超星五灵侠Ⅳ(2)</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117032600 +0800" stop="20240117034600 +0800">
-		<title lang="zh">猪猪侠之超星五灵侠4(3)</title>
+		<title lang="zh">猪猪侠之超星五灵侠Ⅳ(3)</title>
 	</programme>
-	<programme channel="卡酷少儿" start="20240117034600 +0800" stop="20240117040600 +0800">
-		<title lang="zh">猪猪侠之超星五灵侠4(4)</title>
+	<programme channel="卡酷少儿" start="20240117034600 +0800" stop="20240117040000 +0800">
+		<title lang="zh">猪猪侠之超星五灵侠Ⅳ(4)</title>
+	</programme>
+	<programme channel="卡酷少儿" start="20240117040000 +0800" stop="20240117040600 +0800">
+		<title lang="zh">猪猪侠之超星五灵侠Ⅳ(4)</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117040600 +0800" stop="20240117042600 +0800">
-		<title lang="zh">猪猪侠之超星五灵侠4(5)</title>
+		<title lang="zh">猪猪侠之超星五灵侠Ⅳ(5)</title>
 	</programme>
-	<programme channel="卡酷少儿" start="20240117042600 +0800" stop="20240117045200 +0800">
-		<title lang="zh">猪猪侠之超星五灵侠4(6)</title>
+	<programme channel="卡酷少儿" start="20240117042600 +0800" stop="20240117044600 +0800">
+		<title lang="zh">猪猪侠之超星五灵侠Ⅳ(6)</title>
 	</programme>
-	<programme channel="卡酷少儿" start="20240117045200 +0800" stop="20240117060000 +0800">
-		<title lang="zh">喜羊羊与灰太狼之羊村守护者(6)</title>
+	<programme channel="卡酷少儿" start="20240117044600 +0800" stop="20240117045200 +0800">
+		<title lang="zh">广宣时段</title>
+	</programme>
+	<programme channel="卡酷少儿" start="20240117045200 +0800" stop="20240117051200 +0800">
+		<title lang="zh">喜羊羊与灰太狼之羊村守护者Ⅵ</title>
+	</programme>
+	<programme channel="卡酷少儿" start="20240117051200 +0800" stop="20240117053600 +0800">
+		<title lang="zh">喜羊羊与灰太狼之羊村守护者Ⅵ</title>
+	</programme>
+	<programme channel="卡酷少儿" start="20240117053600 +0800" stop="20240117060000 +0800">
+		<title lang="zh">喜羊羊与灰太狼之羊村守护者Ⅵ</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117060000 +0800" stop="20240117062000 +0800">
-		<title lang="zh">猪猪侠之竞速小英雄7(6)</title>
+		<title lang="zh">猪猪侠之竞速小英雄Ⅶ(6)</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117062000 +0800" stop="20240117064000 +0800">
-		<title lang="zh">猪猪侠之竞速小英雄7(7)</title>
+		<title lang="zh">猪猪侠之竞速小英雄Ⅶ(7)</title>
 	</programme>
-	<programme channel="卡酷少儿" start="20240117064000 +0800" stop="20240117071000 +0800">
-		<title lang="zh">猪猪侠之竞速小英雄7(8)</title>
+	<programme channel="卡酷少儿" start="20240117064000 +0800" stop="20240117070000 +0800">
+		<title lang="zh">猪猪侠之竞速小英雄Ⅶ(8)</title>
+	</programme>
+	<programme channel="卡酷少儿" start="20240117070000 +0800" stop="20240117071000 +0800">
+		<title lang="zh">广宣时段</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117071000 +0800" stop="20240117073100 +0800">
 		<title lang="zh">熊熊帮帮团(9)</title>
@@ -12609,7 +12654,10 @@
 	<programme channel="卡酷少儿" start="20240117073100 +0800" stop="20240117075500 +0800">
 		<title lang="zh">熊熊帮帮团(10)</title>
 	</programme>
-	<programme channel="卡酷少儿" start="20240117075500 +0800" stop="20240117081900 +0800">
+	<programme channel="卡酷少儿" start="20240117075500 +0800" stop="20240117080000 +0800">
+		<title lang="zh">熊熊帮帮团(11)</title>
+	</programme>
+	<programme channel="卡酷少儿" start="20240117080000 +0800" stop="20240117081900 +0800">
 		<title lang="zh">熊熊帮帮团(11)</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117081900 +0800" stop="20240117084000 +0800">
@@ -12624,7 +12672,16 @@
 	<programme channel="卡酷少儿" start="20240117092200 +0800" stop="20240117092800 +0800">
 		<title lang="zh">卡酷幼儿园</title>
 	</programme>
-	<programme channel="卡酷少儿" start="20240117092800 +0800" stop="20240117105500 +0800">
+	<programme channel="卡酷少儿" start="20240117092800 +0800" stop="20240117094900 +0800">
+		<title lang="zh">熊出没之重返地球</title>
+	</programme>
+	<programme channel="卡酷少儿" start="20240117094900 +0800" stop="20240117101300 +0800">
+		<title lang="zh">熊出没之重返地球</title>
+	</programme>
+	<programme channel="卡酷少儿" start="20240117101300 +0800" stop="20240117103400 +0800">
+		<title lang="zh">熊出没之重返地球</title>
+	</programme>
+	<programme channel="卡酷少儿" start="20240117103400 +0800" stop="20240117105500 +0800">
 		<title lang="zh">熊出没之重返地球</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117105500 +0800" stop="20240117111600 +0800">
@@ -12634,40 +12691,40 @@
 		<title lang="zh">闪亮闪亮太伶美(3)</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117113800 +0800" stop="20240117120000 +0800">
-		<title lang="zh">猪猪侠之竞速小英雄7(7)</title>
+		<title lang="zh">猪猪侠之竞速小英雄Ⅶ(7)</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117120000 +0800" stop="20240117122200 +0800">
-		<title lang="zh">猪猪侠之竞速小英雄7(8)</title>
+		<title lang="zh">猪猪侠之竞速小英雄Ⅶ(8)</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117122200 +0800" stop="20240117124400 +0800">
-		<title lang="zh">猪猪侠之竞速小英雄7(9)</title>
+		<title lang="zh">猪猪侠之竞速小英雄Ⅶ(9)</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117124400 +0800" stop="20240117130600 +0800">
-		<title lang="zh">熊出没之怪兽计划2(19)</title>
+		<title lang="zh">熊出没之怪兽计划Ⅱ(19)</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117130600 +0800" stop="20240117132700 +0800">
-		<title lang="zh">熊出没之怪兽计划2(20)</title>
+		<title lang="zh">熊出没之怪兽计划Ⅱ(20)</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117132700 +0800" stop="20240117134900 +0800">
-		<title lang="zh">熊出没之怪兽计划2(21)</title>
+		<title lang="zh">熊出没之怪兽计划Ⅱ(21)</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117134900 +0800" stop="20240117140900 +0800">
-		<title lang="zh">熊出没之怪兽计划2(22)</title>
+		<title lang="zh">熊出没之怪兽计划Ⅱ(22)</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117140900 +0800" stop="20240117143000 +0800">
-		<title lang="zh">熊出没之怪兽计划2(23)</title>
+		<title lang="zh">熊出没之怪兽计划Ⅱ(23)</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117143000 +0800" stop="20240117145100 +0800">
-		<title lang="zh">熊出没之怪兽计划2(24)</title>
+		<title lang="zh">熊出没之怪兽计划Ⅱ(24)</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117145100 +0800" stop="20240117151200 +0800">
-		<title lang="zh">熊出没之怪兽计划2(25)</title>
+		<title lang="zh">熊出没之怪兽计划Ⅱ(25)</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117151200 +0800" stop="20240117153300 +0800">
-		<title lang="zh">熊出没之怪兽计划2(26)</title>
+		<title lang="zh">熊出没之怪兽计划Ⅱ(26)</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117153300 +0800" stop="20240117155400 +0800">
-		<title lang="zh">熊出没之怪兽计划2(1)</title>
+		<title lang="zh">熊出没之怪兽计划Ⅱ(1)</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117155400 +0800" stop="20240117161600 +0800">
 		<title lang="zh">开心超人联盟之平行时空大冒险</title>
@@ -12676,25 +12733,22 @@
 		<title lang="zh">布鲁可战队之源星石守卫(2)</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117163800 +0800" stop="20240117170000 +0800">
-		<title lang="zh">猪猪侠之竞速小英雄7(8)</title>
+		<title lang="zh">猪猪侠之竞速小英雄Ⅶ(8)</title>
 	</programme>
-	<programme channel="卡酷少儿" start="20240117170000 +0800" stop="20240117172700 +0800">
+	<programme channel="卡酷少儿" start="20240117170000 +0800" stop="20240117173300 +0800">
 		<title lang="zh">天籁新声纯享版</title>
 	</programme>
-	<programme channel="卡酷少儿" start="20240117172700 +0800" stop="20240117173300 +0800">
-		<title lang="zh">大玩家周间版(上)</title>
-	</programme>
 	<programme channel="卡酷少儿" start="20240117173300 +0800" stop="20240117175600 +0800">
-		<title lang="zh">熊熊帮帮团2(9)</title>
+		<title lang="zh">熊熊帮帮团Ⅱ(9)</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117175600 +0800" stop="20240117181700 +0800">
-		<title lang="zh">熊熊帮帮团2(10)</title>
+		<title lang="zh">熊熊帮帮团Ⅱ(10)</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117181700 +0800" stop="20240117183900 +0800">
-		<title lang="zh">熊熊帮帮团2(11)</title>
+		<title lang="zh">熊熊帮帮团Ⅱ(11)</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117183900 +0800" stop="20240117190200 +0800">
-		<title lang="zh">熊熊帮帮团2(12)</title>
+		<title lang="zh">熊熊帮帮团Ⅱ(12)</title>
 	</programme>
 	<programme channel="卡酷少儿" start="20240117190200 +0800" stop="20240117200200 +0800">
 		<title lang="zh">卡卡牛剧场(上)</title>
@@ -12705,11 +12759,32 @@
 	<programme channel="卡酷少儿" start="20240117201000 +0800" stop="20240117205400 +0800">
 		<title lang="zh">卡卡牛剧场(下)</title>
 	</programme>
-	<programme channel="卡酷少儿" start="20240117205400 +0800" stop="20240117224800 +0800">
+	<programme channel="卡酷少儿" start="20240117205400 +0800" stop="20240117211500 +0800">
 		<title lang="zh">熊出没之伴我熊芯</title>
 	</programme>
-	<programme channel="卡酷少儿" start="20240117224800 +0800" stop="20240117235900 +0800">
-		<title lang="zh">喜羊羊与灰太狼之羊村守护者(7)</title>
+	<programme channel="卡酷少儿" start="20240117211500 +0800" stop="20240117213600 +0800">
+		<title lang="zh">熊出没之伴我熊芯</title>
+	</programme>
+	<programme channel="卡酷少儿" start="20240117213600 +0800" stop="20240117215600 +0800">
+		<title lang="zh">熊出没之伴我熊芯</title>
+	</programme>
+	<programme channel="卡酷少儿" start="20240117215600 +0800" stop="20240117220200 +0800">
+		<title lang="zh">广宣时段</title>
+	</programme>
+	<programme channel="卡酷少儿" start="20240117220200 +0800" stop="20240117222600 +0800">
+		<title lang="zh">熊出没之伴我熊芯</title>
+	</programme>
+	<programme channel="卡酷少儿" start="20240117222600 +0800" stop="20240117224800 +0800">
+		<title lang="zh">熊出没之伴我熊芯</title>
+	</programme>
+	<programme channel="卡酷少儿" start="20240117224800 +0800" stop="20240117230800 +0800">
+		<title lang="zh">喜羊羊与灰太狼之羊村守护者Ⅶ</title>
+	</programme>
+	<programme channel="卡酷少儿" start="20240117230800 +0800" stop="20240117233100 +0800">
+		<title lang="zh">喜羊羊与灰太狼之羊村守护者Ⅶ</title>
+	</programme>
+	<programme channel="卡酷少儿" start="20240117233100 +0800" stop="20240117235100 +0800">
+		<title lang="zh">喜羊羊与灰太狼之羊村守护者Ⅶ</title>
 	</programme>
 	<channel id="卫生健康">
 		<display-name lang="zh">卫生健康</display-name>
@@ -14760,95 +14835,575 @@
 	<channel id="四川经济">
 		<display-name lang="zh">四川经济</display-name>
 	</channel>
-	<programme channel="四川经济" start="20240117000000 +0800" stop="20240117000500 +0800">
-		<title lang="zh">麻辣烫</title>
+	<programme channel="四川经济" start="20240117000000 +0800" stop="20240117003000 +0800">
+		<title lang="zh">纪录之窗</title>
 	</programme>
-	<programme channel="四川经济" start="20240117000500 +0800" stop="20240117005000 +0800">
-		<title lang="zh">纪录之窗:远方的家</title>
+	<programme channel="四川经济" start="20240117003000 +0800" stop="20240117010500 +0800">
+		<title lang="zh">消费新观察</title>
 	</programme>
-	<programme channel="四川经济" start="20240117005000 +0800" stop="20240117012000 +0800">
-		<title lang="zh">吃八方</title>
+	<programme channel="四川经济" start="20240117010500 +0800" stop="20240117012000 +0800">
+		<title lang="zh">小店故事</title>
 	</programme>
-	<programme channel="四川经济" start="20240117012000 +0800" stop="20240117014500 +0800">
+	<programme channel="四川经济" start="20240117012000 +0800" stop="20240117015500 +0800">
+		<title lang="zh">今日视点</title>
+	</programme>
+	<programme channel="四川经济" start="20240117015500 +0800" stop="20240117022000 +0800">
 		<title lang="zh">四川文旅报道</title>
 	</programme>
-	<programme channel="四川经济" start="20240117014500 +0800" stop="20240117022000 +0800">
-		<title lang="zh">文旅大视界</title>
-	</programme>
-	<programme channel="四川经济" start="20240117022000 +0800" stop="20240117031000 +0800">
-		<title lang="zh">好戏天天看</title>
-	</programme>
-	<programme channel="四川经济" start="20240117031000 +0800" stop="20240117034000 +0800">
+	<programme channel="四川经济" start="20240117022000 +0800" stop="20240117025000 +0800">
 		<title lang="zh">吃八方</title>
 	</programme>
-	<programme channel="四川经济" start="20240117034000 +0800" stop="20240117040000 +0800">
-		<title lang="zh">四川文旅报道</title>
+	<programme channel="四川经济" start="20240117025000 +0800" stop="20240117032500 +0800">
+		<title lang="zh">消费新观察</title>
 	</programme>
-	<programme channel="四川经济" start="20240117040000 +0800" stop="20240117044000 +0800">
-		<title lang="zh">文旅大视界</title>
+	<programme channel="四川经济" start="20240117032500 +0800" stop="20240117033500 +0800">
+		<title lang="zh">小店故事</title>
+	</programme>
+	<programme channel="四川经济" start="20240117033500 +0800" stop="20240117040000 +0800">
+		<title lang="zh">消费主张</title>
+	</programme>
+	<programme channel="四川经济" start="20240117040000 +0800" stop="20240117040500 +0800">
+		<title lang="zh">消费主张</title>
+	</programme>
+	<programme channel="四川经济" start="20240117040500 +0800" stop="20240117044000 +0800">
+		<title lang="zh">今日视点</title>
 	</programme>
 	<programme channel="四川经济" start="20240117044000 +0800" stop="20240117053000 +0800">
-		<title lang="zh">麻辣烫</title>
-	</programme>
-	<programme channel="四川经济" start="20240117053000 +0800" stop="20240117061000 +0800">
-		<title lang="zh">好戏天天看</title>
-	</programme>
-	<programme channel="四川经济" start="20240117061000 +0800" stop="20240117071000 +0800">
-		<title lang="zh">运动+</title>
-	</programme>
-	<programme channel="四川经济" start="20240117071000 +0800" stop="20240117081000 +0800">
-		<title lang="zh">好戏天天看</title>
-	</programme>
-	<programme channel="四川经济" start="20240117081000 +0800" stop="20240117091000 +0800">
 		<title lang="zh">天天耍大牌</title>
 	</programme>
-	<programme channel="四川经济" start="20240117091000 +0800" stop="20240117101800 +0800">
-		<title lang="zh">红海滩(32)</title>
+	<programme channel="四川经济" start="20240117053000 +0800" stop="20240117060500 +0800">
+		<title lang="zh">消费新观察</title>
 	</programme>
-	<programme channel="四川经济" start="20240117101800 +0800" stop="20240117112700 +0800">
-		<title lang="zh">红海滩(33)</title>
+	<programme channel="四川经济" start="20240117060500 +0800" stop="20240117061500 +0800">
+		<title lang="zh">小店故事</title>
 	</programme>
-	<programme channel="四川经济" start="20240117112700 +0800" stop="20240117123600 +0800">
-		<title lang="zh">红海滩(34)</title>
-	</programme>
-	<programme channel="四川经济" start="20240117123600 +0800" stop="20240117134500 +0800">
-		<title lang="zh">红海滩(35)</title>
-	</programme>
-	<programme channel="四川经济" start="20240117134500 +0800" stop="20240117143800 +0800">
-		<title lang="zh">红海滩(36)</title>
-	</programme>
-	<programme channel="四川经济" start="20240117143800 +0800" stop="20240117153100 +0800">
-		<title lang="zh">红海滩(37)</title>
-	</programme>
-	<programme channel="四川经济" start="20240117153100 +0800" stop="20240117162500 +0800">
-		<title lang="zh">红海滩(38)</title>
-	</programme>
-	<programme channel="四川经济" start="20240117162500 +0800" stop="20240117180000 +0800">
-		<title lang="zh">乱世豪情(1)</title>
-	</programme>
-	<programme channel="四川经济" start="20240117180000 +0800" stop="20240117183500 +0800">
-		<title lang="zh">文旅大视界</title>
-	</programme>
-	<programme channel="四川经济" start="20240117183500 +0800" stop="20240117190000 +0800">
-		<title lang="zh">四川文旅报道</title>
-	</programme>
-	<programme channel="四川经济" start="20240117190000 +0800" stop="20240117193000 +0800">
+	<programme channel="四川经济" start="20240117061500 +0800" stop="20240117064500 +0800">
 		<title lang="zh">吃八方</title>
 	</programme>
-	<programme channel="四川经济" start="20240117193000 +0800" stop="20240117202500 +0800">
-		<title lang="zh">麻辣烫</title>
+	<programme channel="四川经济" start="20240117064500 +0800" stop="20240117072000 +0800">
+		<title lang="zh">今日视点</title>
 	</programme>
-	<programme channel="四川经济" start="20240117202500 +0800" stop="20240117212300 +0800">
-		<title lang="zh">雪在烧(9)</title>
+	<programme channel="四川经济" start="20240117072000 +0800" stop="20240117075000 +0800">
+		<title lang="zh">消费主张</title>
 	</programme>
-	<programme channel="四川经济" start="20240117212300 +0800" stop="20240117222100 +0800">
-		<title lang="zh">雪在烧(10)</title>
+	<programme channel="四川经济" start="20240117075000 +0800" stop="20240117080000 +0800">
+		<title lang="zh">四川文旅报道</title>
 	</programme>
-	<programme channel="四川经济" start="20240117222100 +0800" stop="20240117232000 +0800">
-		<title lang="zh">雪在烧(11)</title>
+	<programme channel="四川经济" start="20240117080000 +0800" stop="20240117081500 +0800">
+		<title lang="zh">四川文旅报道</title>
 	</programme>
-	<programme channel="四川经济" start="20240117232000 +0800" stop="20240117235900 +0800">
-		<title lang="zh">麻辣烫</title>
+	<programme channel="四川经济" start="20240117081500 +0800" stop="20240117085000 +0800">
+		<title lang="zh">消费新观察</title>
+	</programme>
+	<programme channel="四川经济" start="20240117085000 +0800" stop="20240117094000 +0800">
+		<title lang="zh">小店故事</title>
+	</programme>
+	<programme channel="四川经济" start="20240117094000 +0800" stop="20240117104200 +0800">
+		<title lang="zh">红海滩(13)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117104200 +0800" stop="20240117114500 +0800">
+		<title lang="zh">红海滩(14)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117114500 +0800" stop="20240117124700 +0800">
+		<title lang="zh">红海滩(15)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117124700 +0800" stop="20240117135000 +0800">
+		<title lang="zh">红海滩(16)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117135000 +0800" stop="20240117145200 +0800">
+		<title lang="zh">红海滩(17)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117145200 +0800" stop="20240117155500 +0800">
+		<title lang="zh">红海滩(18)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117155500 +0800" stop="20240117165700 +0800">
+		<title lang="zh">红海滩(19)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117165700 +0800" stop="20240117180000 +0800">
+		<title lang="zh">红海滩(20)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117180000 +0800" stop="20240117184500 +0800">
+		<title lang="zh">隋唐英雄Ⅲ(55)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117184500 +0800" stop="20240117193000 +0800">
+		<title lang="zh">隋唐英雄Ⅲ(56)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117193000 +0800" stop="20240117200500 +0800">
+		<title lang="zh">消费新观察</title>
+	</programme>
+	<programme channel="四川经济" start="20240117200500 +0800" stop="20240117202000 +0800">
+		<title lang="zh">小店故事</title>
+	</programme>
+	<programme channel="四川经济" start="20240117202000 +0800" stop="20240117204000 +0800">
+		<title lang="zh">四川文旅报道</title>
+	</programme>
+	<programme channel="四川经济" start="20240117204000 +0800" stop="20240117213000 +0800">
+		<title lang="zh">金牌调解</title>
+	</programme>
+	<programme channel="四川经济" start="20240117213000 +0800" stop="20240117220000 +0800">
+		<title lang="zh">吃八方</title>
+	</programme>
+	<programme channel="四川经济" start="20240117220000 +0800" stop="20240117230000 +0800">
+		<title lang="zh">天天耍大牌</title>
+	</programme>
+	<programme channel="四川经济" start="20240117230000 +0800" stop="20240117233000 +0800">
+		<title lang="zh">今日视点</title>
+	</programme>
+	<programme channel="四川经济" start="20240117000000 +0800" stop="20240117003000 +0800">
+		<title lang="zh">纪录之窗</title>
+	</programme>
+	<programme channel="四川经济" start="20240117003000 +0800" stop="20240117010500 +0800">
+		<title lang="zh">消费新观察</title>
+	</programme>
+	<programme channel="四川经济" start="20240117010500 +0800" stop="20240117012000 +0800">
+		<title lang="zh">小店故事</title>
+	</programme>
+	<programme channel="四川经济" start="20240117012000 +0800" stop="20240117015500 +0800">
+		<title lang="zh">今日视点</title>
+	</programme>
+	<programme channel="四川经济" start="20240117015500 +0800" stop="20240117022000 +0800">
+		<title lang="zh">四川文旅报道</title>
+	</programme>
+	<programme channel="四川经济" start="20240117022000 +0800" stop="20240117025000 +0800">
+		<title lang="zh">吃八方</title>
+	</programme>
+	<programme channel="四川经济" start="20240117025000 +0800" stop="20240117032500 +0800">
+		<title lang="zh">消费新观察</title>
+	</programme>
+	<programme channel="四川经济" start="20240117032500 +0800" stop="20240117033500 +0800">
+		<title lang="zh">小店故事</title>
+	</programme>
+	<programme channel="四川经济" start="20240117033500 +0800" stop="20240117040000 +0800">
+		<title lang="zh">消费主张</title>
+	</programme>
+	<programme channel="四川经济" start="20240117040000 +0800" stop="20240117040500 +0800">
+		<title lang="zh">消费主张</title>
+	</programme>
+	<programme channel="四川经济" start="20240117040500 +0800" stop="20240117044000 +0800">
+		<title lang="zh">今日视点</title>
+	</programme>
+	<programme channel="四川经济" start="20240117044000 +0800" stop="20240117053000 +0800">
+		<title lang="zh">天天耍大牌</title>
+	</programme>
+	<programme channel="四川经济" start="20240117053000 +0800" stop="20240117060500 +0800">
+		<title lang="zh">消费新观察</title>
+	</programme>
+	<programme channel="四川经济" start="20240117060500 +0800" stop="20240117061500 +0800">
+		<title lang="zh">小店故事</title>
+	</programme>
+	<programme channel="四川经济" start="20240117061500 +0800" stop="20240117064500 +0800">
+		<title lang="zh">吃八方</title>
+	</programme>
+	<programme channel="四川经济" start="20240117064500 +0800" stop="20240117072000 +0800">
+		<title lang="zh">今日视点</title>
+	</programme>
+	<programme channel="四川经济" start="20240117072000 +0800" stop="20240117075000 +0800">
+		<title lang="zh">消费主张</title>
+	</programme>
+	<programme channel="四川经济" start="20240117075000 +0800" stop="20240117080000 +0800">
+		<title lang="zh">四川文旅报道</title>
+	</programme>
+	<programme channel="四川经济" start="20240117080000 +0800" stop="20240117081500 +0800">
+		<title lang="zh">四川文旅报道</title>
+	</programme>
+	<programme channel="四川经济" start="20240117081500 +0800" stop="20240117085000 +0800">
+		<title lang="zh">消费新观察</title>
+	</programme>
+	<programme channel="四川经济" start="20240117085000 +0800" stop="20240117094000 +0800">
+		<title lang="zh">小店故事</title>
+	</programme>
+	<programme channel="四川经济" start="20240117094000 +0800" stop="20240117104200 +0800">
+		<title lang="zh">红海滩(13)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117104200 +0800" stop="20240117114500 +0800">
+		<title lang="zh">红海滩(14)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117114500 +0800" stop="20240117124700 +0800">
+		<title lang="zh">红海滩(15)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117124700 +0800" stop="20240117135000 +0800">
+		<title lang="zh">红海滩(16)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117135000 +0800" stop="20240117145200 +0800">
+		<title lang="zh">红海滩(17)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117145200 +0800" stop="20240117155500 +0800">
+		<title lang="zh">红海滩(18)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117155500 +0800" stop="20240117165700 +0800">
+		<title lang="zh">红海滩(19)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117165700 +0800" stop="20240117180000 +0800">
+		<title lang="zh">红海滩(20)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117180000 +0800" stop="20240117184500 +0800">
+		<title lang="zh">隋唐英雄Ⅲ(55)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117184500 +0800" stop="20240117193000 +0800">
+		<title lang="zh">隋唐英雄Ⅲ(56)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117193000 +0800" stop="20240117200500 +0800">
+		<title lang="zh">消费新观察</title>
+	</programme>
+	<programme channel="四川经济" start="20240117200500 +0800" stop="20240117202000 +0800">
+		<title lang="zh">小店故事</title>
+	</programme>
+	<programme channel="四川经济" start="20240117202000 +0800" stop="20240117204000 +0800">
+		<title lang="zh">四川文旅报道</title>
+	</programme>
+	<programme channel="四川经济" start="20240117204000 +0800" stop="20240117213000 +0800">
+		<title lang="zh">金牌调解</title>
+	</programme>
+	<programme channel="四川经济" start="20240117213000 +0800" stop="20240117220000 +0800">
+		<title lang="zh">吃八方</title>
+	</programme>
+	<programme channel="四川经济" start="20240117220000 +0800" stop="20240117230000 +0800">
+		<title lang="zh">天天耍大牌</title>
+	</programme>
+	<programme channel="四川经济" start="20240117230000 +0800" stop="20240117233000 +0800">
+		<title lang="zh">今日视点</title>
+	</programme>
+	<programme channel="四川经济" start="20240117000000 +0800" stop="20240117003000 +0800">
+		<title lang="zh">纪录之窗</title>
+	</programme>
+	<programme channel="四川经济" start="20240117003000 +0800" stop="20240117010500 +0800">
+		<title lang="zh">消费新观察</title>
+	</programme>
+	<programme channel="四川经济" start="20240117010500 +0800" stop="20240117012000 +0800">
+		<title lang="zh">小店故事</title>
+	</programme>
+	<programme channel="四川经济" start="20240117012000 +0800" stop="20240117015500 +0800">
+		<title lang="zh">今日视点</title>
+	</programme>
+	<programme channel="四川经济" start="20240117015500 +0800" stop="20240117022000 +0800">
+		<title lang="zh">四川文旅报道</title>
+	</programme>
+	<programme channel="四川经济" start="20240117022000 +0800" stop="20240117025000 +0800">
+		<title lang="zh">吃八方</title>
+	</programme>
+	<programme channel="四川经济" start="20240117025000 +0800" stop="20240117032500 +0800">
+		<title lang="zh">消费新观察</title>
+	</programme>
+	<programme channel="四川经济" start="20240117032500 +0800" stop="20240117033500 +0800">
+		<title lang="zh">小店故事</title>
+	</programme>
+	<programme channel="四川经济" start="20240117033500 +0800" stop="20240117040000 +0800">
+		<title lang="zh">消费主张</title>
+	</programme>
+	<programme channel="四川经济" start="20240117040000 +0800" stop="20240117040500 +0800">
+		<title lang="zh">消费主张</title>
+	</programme>
+	<programme channel="四川经济" start="20240117040500 +0800" stop="20240117044000 +0800">
+		<title lang="zh">今日视点</title>
+	</programme>
+	<programme channel="四川经济" start="20240117044000 +0800" stop="20240117053000 +0800">
+		<title lang="zh">天天耍大牌</title>
+	</programme>
+	<programme channel="四川经济" start="20240117053000 +0800" stop="20240117060500 +0800">
+		<title lang="zh">消费新观察</title>
+	</programme>
+	<programme channel="四川经济" start="20240117060500 +0800" stop="20240117061500 +0800">
+		<title lang="zh">小店故事</title>
+	</programme>
+	<programme channel="四川经济" start="20240117061500 +0800" stop="20240117064500 +0800">
+		<title lang="zh">吃八方</title>
+	</programme>
+	<programme channel="四川经济" start="20240117064500 +0800" stop="20240117072000 +0800">
+		<title lang="zh">今日视点</title>
+	</programme>
+	<programme channel="四川经济" start="20240117072000 +0800" stop="20240117075000 +0800">
+		<title lang="zh">消费主张</title>
+	</programme>
+	<programme channel="四川经济" start="20240117075000 +0800" stop="20240117080000 +0800">
+		<title lang="zh">四川文旅报道</title>
+	</programme>
+	<programme channel="四川经济" start="20240117080000 +0800" stop="20240117081500 +0800">
+		<title lang="zh">四川文旅报道</title>
+	</programme>
+	<programme channel="四川经济" start="20240117081500 +0800" stop="20240117085000 +0800">
+		<title lang="zh">消费新观察</title>
+	</programme>
+	<programme channel="四川经济" start="20240117085000 +0800" stop="20240117094000 +0800">
+		<title lang="zh">小店故事</title>
+	</programme>
+	<programme channel="四川经济" start="20240117094000 +0800" stop="20240117104200 +0800">
+		<title lang="zh">红海滩(13)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117104200 +0800" stop="20240117114500 +0800">
+		<title lang="zh">红海滩(14)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117114500 +0800" stop="20240117124700 +0800">
+		<title lang="zh">红海滩(15)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117124700 +0800" stop="20240117135000 +0800">
+		<title lang="zh">红海滩(16)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117135000 +0800" stop="20240117145200 +0800">
+		<title lang="zh">红海滩(17)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117145200 +0800" stop="20240117155500 +0800">
+		<title lang="zh">红海滩(18)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117155500 +0800" stop="20240117165700 +0800">
+		<title lang="zh">红海滩(19)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117165700 +0800" stop="20240117180000 +0800">
+		<title lang="zh">红海滩(20)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117180000 +0800" stop="20240117184500 +0800">
+		<title lang="zh">隋唐英雄Ⅲ(55)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117184500 +0800" stop="20240117193000 +0800">
+		<title lang="zh">隋唐英雄Ⅲ(56)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117193000 +0800" stop="20240117200500 +0800">
+		<title lang="zh">消费新观察</title>
+	</programme>
+	<programme channel="四川经济" start="20240117200500 +0800" stop="20240117202000 +0800">
+		<title lang="zh">小店故事</title>
+	</programme>
+	<programme channel="四川经济" start="20240117202000 +0800" stop="20240117204000 +0800">
+		<title lang="zh">四川文旅报道</title>
+	</programme>
+	<programme channel="四川经济" start="20240117204000 +0800" stop="20240117213000 +0800">
+		<title lang="zh">金牌调解</title>
+	</programme>
+	<programme channel="四川经济" start="20240117213000 +0800" stop="20240117220000 +0800">
+		<title lang="zh">吃八方</title>
+	</programme>
+	<programme channel="四川经济" start="20240117220000 +0800" stop="20240117230000 +0800">
+		<title lang="zh">天天耍大牌</title>
+	</programme>
+	<programme channel="四川经济" start="20240117230000 +0800" stop="20240117233000 +0800">
+		<title lang="zh">今日视点</title>
+	</programme>
+	<programme channel="四川经济" start="20240117000000 +0800" stop="20240117003000 +0800">
+		<title lang="zh">纪录之窗</title>
+	</programme>
+	<programme channel="四川经济" start="20240117003000 +0800" stop="20240117010500 +0800">
+		<title lang="zh">消费新观察</title>
+	</programme>
+	<programme channel="四川经济" start="20240117010500 +0800" stop="20240117012000 +0800">
+		<title lang="zh">小店故事</title>
+	</programme>
+	<programme channel="四川经济" start="20240117012000 +0800" stop="20240117015500 +0800">
+		<title lang="zh">今日视点</title>
+	</programme>
+	<programme channel="四川经济" start="20240117015500 +0800" stop="20240117022000 +0800">
+		<title lang="zh">四川文旅报道</title>
+	</programme>
+	<programme channel="四川经济" start="20240117022000 +0800" stop="20240117025000 +0800">
+		<title lang="zh">吃八方</title>
+	</programme>
+	<programme channel="四川经济" start="20240117025000 +0800" stop="20240117032500 +0800">
+		<title lang="zh">消费新观察</title>
+	</programme>
+	<programme channel="四川经济" start="20240117032500 +0800" stop="20240117033500 +0800">
+		<title lang="zh">小店故事</title>
+	</programme>
+	<programme channel="四川经济" start="20240117033500 +0800" stop="20240117040000 +0800">
+		<title lang="zh">消费主张</title>
+	</programme>
+	<programme channel="四川经济" start="20240117040000 +0800" stop="20240117040500 +0800">
+		<title lang="zh">消费主张</title>
+	</programme>
+	<programme channel="四川经济" start="20240117040500 +0800" stop="20240117044000 +0800">
+		<title lang="zh">今日视点</title>
+	</programme>
+	<programme channel="四川经济" start="20240117044000 +0800" stop="20240117053000 +0800">
+		<title lang="zh">天天耍大牌</title>
+	</programme>
+	<programme channel="四川经济" start="20240117053000 +0800" stop="20240117060500 +0800">
+		<title lang="zh">消费新观察</title>
+	</programme>
+	<programme channel="四川经济" start="20240117060500 +0800" stop="20240117061500 +0800">
+		<title lang="zh">小店故事</title>
+	</programme>
+	<programme channel="四川经济" start="20240117061500 +0800" stop="20240117064500 +0800">
+		<title lang="zh">吃八方</title>
+	</programme>
+	<programme channel="四川经济" start="20240117064500 +0800" stop="20240117072000 +0800">
+		<title lang="zh">今日视点</title>
+	</programme>
+	<programme channel="四川经济" start="20240117072000 +0800" stop="20240117075000 +0800">
+		<title lang="zh">消费主张</title>
+	</programme>
+	<programme channel="四川经济" start="20240117075000 +0800" stop="20240117080000 +0800">
+		<title lang="zh">四川文旅报道</title>
+	</programme>
+	<programme channel="四川经济" start="20240117080000 +0800" stop="20240117081500 +0800">
+		<title lang="zh">四川文旅报道</title>
+	</programme>
+	<programme channel="四川经济" start="20240117081500 +0800" stop="20240117085000 +0800">
+		<title lang="zh">消费新观察</title>
+	</programme>
+	<programme channel="四川经济" start="20240117085000 +0800" stop="20240117094000 +0800">
+		<title lang="zh">小店故事</title>
+	</programme>
+	<programme channel="四川经济" start="20240117094000 +0800" stop="20240117104200 +0800">
+		<title lang="zh">红海滩(13)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117104200 +0800" stop="20240117114500 +0800">
+		<title lang="zh">红海滩(14)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117114500 +0800" stop="20240117124700 +0800">
+		<title lang="zh">红海滩(15)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117124700 +0800" stop="20240117135000 +0800">
+		<title lang="zh">红海滩(16)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117135000 +0800" stop="20240117145200 +0800">
+		<title lang="zh">红海滩(17)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117145200 +0800" stop="20240117155500 +0800">
+		<title lang="zh">红海滩(18)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117155500 +0800" stop="20240117165700 +0800">
+		<title lang="zh">红海滩(19)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117165700 +0800" stop="20240117180000 +0800">
+		<title lang="zh">红海滩(20)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117180000 +0800" stop="20240117184500 +0800">
+		<title lang="zh">隋唐英雄Ⅲ(55)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117184500 +0800" stop="20240117193000 +0800">
+		<title lang="zh">隋唐英雄Ⅲ(56)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117193000 +0800" stop="20240117200500 +0800">
+		<title lang="zh">消费新观察</title>
+	</programme>
+	<programme channel="四川经济" start="20240117200500 +0800" stop="20240117202000 +0800">
+		<title lang="zh">小店故事</title>
+	</programme>
+	<programme channel="四川经济" start="20240117202000 +0800" stop="20240117204000 +0800">
+		<title lang="zh">四川文旅报道</title>
+	</programme>
+	<programme channel="四川经济" start="20240117204000 +0800" stop="20240117213000 +0800">
+		<title lang="zh">金牌调解</title>
+	</programme>
+	<programme channel="四川经济" start="20240117213000 +0800" stop="20240117220000 +0800">
+		<title lang="zh">吃八方</title>
+	</programme>
+	<programme channel="四川经济" start="20240117220000 +0800" stop="20240117230000 +0800">
+		<title lang="zh">天天耍大牌</title>
+	</programme>
+	<programme channel="四川经济" start="20240117230000 +0800" stop="20240117233000 +0800">
+		<title lang="zh">今日视点</title>
+	</programme>
+	<programme channel="四川经济" start="20240117000000 +0800" stop="20240117003000 +0800">
+		<title lang="zh">纪录之窗</title>
+	</programme>
+	<programme channel="四川经济" start="20240117003000 +0800" stop="20240117010500 +0800">
+		<title lang="zh">消费新观察</title>
+	</programme>
+	<programme channel="四川经济" start="20240117010500 +0800" stop="20240117012000 +0800">
+		<title lang="zh">小店故事</title>
+	</programme>
+	<programme channel="四川经济" start="20240117012000 +0800" stop="20240117015500 +0800">
+		<title lang="zh">今日视点</title>
+	</programme>
+	<programme channel="四川经济" start="20240117015500 +0800" stop="20240117022000 +0800">
+		<title lang="zh">四川文旅报道</title>
+	</programme>
+	<programme channel="四川经济" start="20240117022000 +0800" stop="20240117025000 +0800">
+		<title lang="zh">吃八方</title>
+	</programme>
+	<programme channel="四川经济" start="20240117025000 +0800" stop="20240117032500 +0800">
+		<title lang="zh">消费新观察</title>
+	</programme>
+	<programme channel="四川经济" start="20240117032500 +0800" stop="20240117033500 +0800">
+		<title lang="zh">小店故事</title>
+	</programme>
+	<programme channel="四川经济" start="20240117033500 +0800" stop="20240117040000 +0800">
+		<title lang="zh">消费主张</title>
+	</programme>
+	<programme channel="四川经济" start="20240117040000 +0800" stop="20240117040500 +0800">
+		<title lang="zh">消费主张</title>
+	</programme>
+	<programme channel="四川经济" start="20240117040500 +0800" stop="20240117044000 +0800">
+		<title lang="zh">今日视点</title>
+	</programme>
+	<programme channel="四川经济" start="20240117044000 +0800" stop="20240117053000 +0800">
+		<title lang="zh">天天耍大牌</title>
+	</programme>
+	<programme channel="四川经济" start="20240117053000 +0800" stop="20240117060500 +0800">
+		<title lang="zh">消费新观察</title>
+	</programme>
+	<programme channel="四川经济" start="20240117060500 +0800" stop="20240117061500 +0800">
+		<title lang="zh">小店故事</title>
+	</programme>
+	<programme channel="四川经济" start="20240117061500 +0800" stop="20240117064500 +0800">
+		<title lang="zh">吃八方</title>
+	</programme>
+	<programme channel="四川经济" start="20240117064500 +0800" stop="20240117072000 +0800">
+		<title lang="zh">今日视点</title>
+	</programme>
+	<programme channel="四川经济" start="20240117072000 +0800" stop="20240117075000 +0800">
+		<title lang="zh">消费主张</title>
+	</programme>
+	<programme channel="四川经济" start="20240117075000 +0800" stop="20240117080000 +0800">
+		<title lang="zh">四川文旅报道</title>
+	</programme>
+	<programme channel="四川经济" start="20240117080000 +0800" stop="20240117081500 +0800">
+		<title lang="zh">四川文旅报道</title>
+	</programme>
+	<programme channel="四川经济" start="20240117081500 +0800" stop="20240117085000 +0800">
+		<title lang="zh">消费新观察</title>
+	</programme>
+	<programme channel="四川经济" start="20240117085000 +0800" stop="20240117094000 +0800">
+		<title lang="zh">小店故事</title>
+	</programme>
+	<programme channel="四川经济" start="20240117094000 +0800" stop="20240117104200 +0800">
+		<title lang="zh">红海滩(13)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117104200 +0800" stop="20240117114500 +0800">
+		<title lang="zh">红海滩(14)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117114500 +0800" stop="20240117124700 +0800">
+		<title lang="zh">红海滩(15)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117124700 +0800" stop="20240117135000 +0800">
+		<title lang="zh">红海滩(16)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117135000 +0800" stop="20240117145200 +0800">
+		<title lang="zh">红海滩(17)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117145200 +0800" stop="20240117155500 +0800">
+		<title lang="zh">红海滩(18)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117155500 +0800" stop="20240117165700 +0800">
+		<title lang="zh">红海滩(19)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117165700 +0800" stop="20240117180000 +0800">
+		<title lang="zh">红海滩(20)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117180000 +0800" stop="20240117184500 +0800">
+		<title lang="zh">隋唐英雄Ⅲ(55)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117184500 +0800" stop="20240117193000 +0800">
+		<title lang="zh">隋唐英雄Ⅲ(56)</title>
+	</programme>
+	<programme channel="四川经济" start="20240117193000 +0800" stop="20240117200500 +0800">
+		<title lang="zh">消费新观察</title>
+	</programme>
+	<programme channel="四川经济" start="20240117200500 +0800" stop="20240117202000 +0800">
+		<title lang="zh">小店故事</title>
+	</programme>
+	<programme channel="四川经济" start="20240117202000 +0800" stop="20240117204000 +0800">
+		<title lang="zh">四川文旅报道</title>
+	</programme>
+	<programme channel="四川经济" start="20240117204000 +0800" stop="20240117213000 +0800">
+		<title lang="zh">金牌调解</title>
+	</programme>
+	<programme channel="四川经济" start="20240117213000 +0800" stop="20240117220000 +0800">
+		<title lang="zh">吃八方</title>
+	</programme>
+	<programme channel="四川经济" start="20240117220000 +0800" stop="20240117230000 +0800">
+		<title lang="zh">天天耍大牌</title>
+	</programme>
+	<programme channel="四川经济" start="20240117230000 +0800" stop="20240117233000 +0800">
+		<title lang="zh">今日视点</title>
 	</programme>
 	<channel id="国学">
 		<display-name lang="zh">国学</display-name>
