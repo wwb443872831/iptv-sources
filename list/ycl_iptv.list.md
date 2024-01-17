@@ -24,7 +24,7 @@
 | 18 | CCTV-17 | [CCTV-17](http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8) |
 | 19 | CCTV-4K | [CCTV-4K](http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8) |
 | 20 | CCTV-8K | [CCTV-8K](http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8) |
-| 21 | CNN新闻 | [CNN新闻](https://epg.pw/stream/27aaa9d35423911e978ef192c255791ce03c68b6ac1560e64838534c83119007.ctv) |
+| 21 | CNN新闻 | [CNN新闻](http://38.96.178.201:80/live/CNNHD/index.m3u8) |
 | 22 | BBC新闻 | [BBC新闻](https://epg.pw/stream/a6cbddde9b44bf2d5c0d0b08a4b48dc86da793a9bef40c18b1f616782744db4c.m3u8) |
 | 23 | 台视新闻 | [台视新闻](http://livetv.skycf.eu.org/live.m3u8?c=4) |
 | 24 | 中视新闻 | [中视新闻](http://livetv.skycf.eu.org/live.m3u8?c=6) |
@@ -132,4 +132,4 @@
 | 126 | 高清电影 | [高清电影](http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com) |
 | 127 | 华数超清 | [华数超清](http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId) |
 
-Updated at **Wed Jan 17 2024 08:21:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jan 17 2024 10:17:21 GMT+0000 (Coordinated Universal Time)**
