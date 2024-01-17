@@ -33,7 +33,7 @@
 | 27 | 历史频道 | [历史频道](http://38.96.178.201:80/live/History/index.m3u8) |
 | 28 | TNT | [TNT](http://38.96.178.201:80/live/TNTHD/index.m3u8) |
 | 29 | USA | [USA](http://38.96.178.201:80/live/USA/index.m3u8) |
-| 30 | CNN新闻 | [CNN新闻](http://38.96.178.201:80/live/Discovery/index.m3u8) |
+| 30 | NBA | [NBA](http://38.96.178.201/live/NBA/index.m3u8) |
 | 31 | KBS世界 | [KBS世界](https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8) |
 | 32 | FoodNetwork | [FoodNetwork](http://38.96.178.201:80/live/FoodNetwork/index.m3u8) |
 | 33 | ESPN新闻 | [ESPN新闻](http://38.96.178.201:80/live/ESPNews/index.m3u8) |
@@ -148,4 +148,4 @@
 | 142 | 高清电影 | [高清电影](http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com) |
 | 143 | 华数超清 | [华数超清](http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId) |
 
-Updated at **Wed Jan 17 2024 14:15:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Jan 17 2024 16:21:04 GMT+0000 (Coordinated Universal Time)**
