@@ -1692,4 +1692,4 @@
 | 1686 | [HD]龙华洋片 | [HD 龙华洋片](https://epg.pw/stream/4ac2f4bc4f4018d48b0294276c674a203e117dec77869ae93ea37ad299b41325.ctv) |
 | 1687 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Sat Jan 20 2024 18:18:43 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jan 20 2024 20:16:02 GMT+0000 (Coordinated Universal Time)**
