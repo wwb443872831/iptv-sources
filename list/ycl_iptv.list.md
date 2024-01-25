@@ -47,7 +47,7 @@
 | 41 | 贵州卫视 | [贵州卫视](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8) |
 | 42 | 辽宁卫视 | [辽宁卫视](http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226201/1.m3u8) |
 | 43 | 重庆卫视 | [重庆卫视](http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226202/1.m3u8) |
-| 44 | 黑龙江卫视 | [黑龙江卫视](http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226010/1.m3u8) |
+| 44 | 龙江卫视 | [龙江卫视](http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226010/1.m3u8) |
 | 45 | 吉林卫视 | [吉林卫视](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8) |
 | 46 | 三沙卫视 | [三沙卫视](http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?) |
 | 47 | 金色学堂 | [金色学堂](http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8) |
@@ -110,6 +110,5 @@
 | 104 | 明星大片 | [明星大片](http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw2856695654_946966165/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8) |
 | 105 | 东北热剧 | [东北热剧](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8) |
 | 106 | 欢乐剧场 | [欢乐剧场](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8) |
-| 107 | 游戏风云 | [游戏风云](http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/1.m3u8) |
 
-Updated at **Thu Jan 25 2024 16:21:22 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jan 25 2024 18:20:53 GMT+0000 (Coordinated Universal Time)**
