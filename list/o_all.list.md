@@ -4497,4 +4497,4 @@
 | 4491 | Ю | [Ю](http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8) |
 | 4492 | Առաջին ալիք (1080p) | [Առաջին ալիք (1080p)](https://amtv1.livestreamingcdn.com/am2abr/index.m3u8) |
 
-Updated at **Fri Jan 26 2024 18:18:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jan 26 2024 20:15:24 GMT+0000 (Coordinated Universal Time)**
