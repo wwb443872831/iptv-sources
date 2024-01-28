@@ -52,13 +52,13 @@
 | 46 | 新疆卫视 | [新疆卫视](http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3) |
 | 47 | 青海卫视 | [青海卫视](http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw1221605145_-1738716276/ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8?icpid=3&RTS=1668600311&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3) |
 | 48 | 甘肃卫视 | [甘肃卫视](http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1400573680_-1979013462/ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8?icpid=3&RTS=1668600490&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3) |
-| 49 | 地方经视 | [地方经视](http://175.0.51.26:8899/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 50 | 地方都市 | [地方都市](http://175.0.51.26:8899/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 51 | 地方爱晚 | [地方爱晚](http://175.0.51.26:8899/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 52 | 地方国际 | [地方国际](http://175.0.51.26:8899/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 53 | 地方娱乐 | [地方娱乐](http://175.0.51.26:8899/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 54 | 地方电影 | [地方电影](http://175.0.51.26:8899/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 55 | 地方电视剧 | [地方电视剧](http://175.0.51.26:8899/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0) |
+| 49 | 湖南经视 | [湖南经视](http://175.0.51.26:8899/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0) |
+| 50 | 湖南都市 | [湖南都市](http://175.0.51.26:8899/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0) |
+| 51 | 湖南爱晚 | [湖南爱晚](http://175.0.51.26:8899/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0) |
+| 52 | 湖南国际 | [湖南国际](http://175.0.51.26:8899/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0) |
+| 53 | 湖南娱乐 | [湖南娱乐](http://175.0.51.26:8899/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0) |
+| 54 | 湖南电影 | [湖南电影](http://175.0.51.26:8899/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0) |
+| 55 | 湖南视剧 | [湖南视剧](http://175.0.51.26:8899/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0) |
 | 56 | 金色学堂 | [金色学堂](http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8) |
 | 57 | 纪实人文 | [纪实人文](http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8) |
 | 58 | 第一财经 | [第一财经](http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8) |
@@ -120,4 +120,4 @@
 | 114 | 东北热剧 | [东北热剧](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8) |
 | 115 | 欢乐剧场 | [欢乐剧场](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8) |
 
-Updated at **Sun Jan 28 2024 01:10:11 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jan 28 2024 02:22:03 GMT+0000 (Coordinated Universal Time)**
