@@ -201,7 +201,7 @@
 | 195 | [HD]ESPNNEWS | [HD ESPNNEWS](https://epg.pw/stream/609f9e6336669d7fe6e4030ea9d5bd0b73d926dc1afaf8f23bc151cdc2f2187f.ctv) |
 | 196 | [BD]eztv1台 | [BD eztv1台](https://epg.pw/stream/3a926e192de7a12933f1ee51ef9a94bda57ca0af654ba37abed529211e06a5d3.m3u8) |
 | 197 | [BD]eztv6台 | [BD eztv6台](https://epg.pw/stream/eaaac2cdfae843ba2fa71bffef7d5f812aadca69f44b55fc1c862a7e5328b625.m3u8) |
-| 198 | [VGA]euronews serbia | [VGA euronews serbia](https://epg.pw/stream/b92bf5a339c247279a7f1833afb7a2f8968a9dcfde51feaaa0537b19a55e594c.m3u8) |
+| 198 | [BD]euronews serbia | [BD euronews serbia](https://epg.pw/stream/b92bf5a339c247279a7f1833afb7a2f8968a9dcfde51feaaa0537b19a55e594c.m3u8) |
 | 199 | [SD]extreme sports | [SD extreme sports](https://epg.pw/stream/59bad09d296881a1686bb1374b3c6536cb161c0cc87671f260293737ab577324.m3u8) |
 | 200 | [BD]code fashion | [BD code fashion](https://epg.pw/stream/a1be0d5b186b429656e63036825a7a691f591e3f59c187f719ab96488679b5c8.m3u8) |
 | 201 | [VGA]FASHIONTV | [VGA FASHIONTV](https://epg.pw/stream/5b182da8504cb290406541a5edbb4faaedd02760ad17c1beb4ea2cfe3cc7aef7.m3u8) |
@@ -332,7 +332,7 @@
 | 326 | [HD]rai 3 | [HD rai 3](https://epg.pw/stream/0b0031dd4e75e2266f77af6f679c16ddb22002a3054516596081ebee218a6880.m3u8) |
 | 327 | [SD]rai movie (576p) [geo-blocked] | [SD rai movie (576p)  geo-blocked](https://epg.pw/stream/ce83245019caa75d1657e06b8135bb439965b1590f79a24d863223ffe9e03d46.ctv) |
 | 328 | [HD]runtime ação | [HD runtime ação](https://epg.pw/stream/b9c6bde401b0710f5fa17c65fb6ddaa6203d4be784324bcc746cc6a631392a3e.m3u8) |
-| 329 | [VGA]qs24.tv | [VGA qs24.tv](https://epg.pw/stream/0c4a4c6521c39d24a64a8f2fe10f6a2515e90314489ae7bdbf6eec911b7695c4.m3u8) |
+| 329 | [BD]qs24.tv | [BD qs24.tv](https://epg.pw/stream/0c4a4c6521c39d24a64a8f2fe10f6a2515e90314489ae7bdbf6eec911b7695c4.m3u8) |
 | 330 | [BD]sbs | [BD sbs](https://epg.pw/stream/9ad973e2cc77208d65cbb937822f92566f2357ce2e9d85a775a96b2ec15ac2a2.m3u8) |
 | 331 | [BD]sctv15 | [BD sctv15](https://epg.pw/stream/6441dd73831bb37ceaad3da713d234033e9b1e47db4b9b5501adbd6966eb9d22.m3u8) |
 | 332 | [HD]SKY CINEMA ACTION HD | [HD SKY CINEMA ACTION HD](https://epg.pw/stream/bcc4291cdb5b7ae5d577641867bdc944cd6122a8ac6aa0fd05c1b256969d7d4f.ctv) |
@@ -430,7 +430,7 @@
 | 424 | [BD]wbc tv | [BD wbc tv](https://epg.pw/stream/f0280f1f0b047f8988304fdde8439131a27b1452555b8bd5ae37655a012fd738.m3u8) |
 | 425 | [SD]wowowシネマ | [SD wowowシネマ](https://epg.pw/stream/be57cc2ee9483ce657ec77eb8bd158c8b1447e0d9c4520423790912f9541d74c.m3u8) |
 | 426 | [HD]wowowプライム | [HD wowowプライム](https://epg.pw/stream/0c4b041cc14461ee375860e338092ff394ea852ffe540354b63d2cb38c9e5ca2.m3u8) |
-| 427 | [HD]wowowライブ | [HD wowowライブ](https://epg.pw/stream/eb6ab4fd9224fcef306b61e71e37ebb197bc6c5a80e334ff53f7ee864c2d56ba.m3u8) |
+| 427 | [VGA]wowowライブ | [VGA wowowライブ](https://epg.pw/stream/eb6ab4fd9224fcef306b61e71e37ebb197bc6c5a80e334ff53f7ee864c2d56ba.m3u8) |
 | 428 | [HD]WWE | [HD WWE](https://epg.pw/stream/737ba83ac0850b8a9415d09ba83e1ed832d1aefcc55c79da61335d00c453eb9b.ctv) |
 | 429 | [HD]waar tv | [HD waar tv](https://epg.pw/stream/39133453b70cb5184adf4da07a9ed2b89adcbc3d618caee8907aec907e5520bb.m3u8) |
 | 430 | [BD]Weathernews | [BD Weathernews](https://epg.pw/stream/0cf0120f7e30d48181a59c493ca9c540280027bccd530ecae51486fcfd81c606.m3u8) |
@@ -584,7 +584,7 @@
 | 578 | [HD]canale italia | [HD canale italia](https://epg.pw/stream/010b14c3e078605a17842743507d2fc6ec4441186a241502b8ae100e5b647dc5.m3u8) |
 | 579 | [HD]canela kids | [HD canela kids](https://epg.pw/stream/9f45985fb4fba0d736a9305d5ad433e1bb79018deead8215f260c9ca4427446a.m3u8) |
 | 580 | [VGA]capital tv | [VGA capital tv](https://epg.pw/stream/dc1166504303e87cb8edec04abf453fe5c03b45ff578474019e31365533137c9.m3u8) |
-| 581 | [HD]caracol tv | [HD caracol tv](https://epg.pw/stream/913dc3c902e2f6e66274945a12dc39dd3d7d7167eb23c4f0ebd966029d3c23ab.m3u8) |
+| 581 | [BD]caracol tv | [BD caracol tv](https://epg.pw/stream/913dc3c902e2f6e66274945a12dc39dd3d7d7167eb23c4f0ebd966029d3c23ab.m3u8) |
 | 582 | [HD]cartoonito freelive latam | [HD cartoonito freelive latam](https://epg.pw/stream/8c073eef0a8f52f62acb56d50fddfd626c026fa54cf8cd14406ef91b7a9a1e8b.m3u8) |
 | 583 | [HD]catholic tv | [HD catholic tv](https://epg.pw/stream/5cf197ea062993452fe142adea0d967929ecb7ec73db8547bafc5313314e2282.m3u8) |
 | 584 | [HD]cbsn | [HD cbsn](https://epg.pw/stream/35377604e986b8344ed511800fb3b647b0132fd862df4067029af8d834585e49.m3u8) |
@@ -1125,7 +1125,7 @@
 | 1119 | [SD]toyor aljanah | [SD toyor aljanah](https://epg.pw/stream/a28eba5adffb67bab46e0d22ff9257833ce252b19a3995c7f745cd7bad6d2e85.ctv) |
 | 1120 | [SD]tpa 7 | [SD tpa 7](https://epg.pw/stream/b76c09eb360a5c68b9518728f071bb60ea5ed85074e0c43492f9c9ae18519e98.m3u8) |
 | 1121 | [BD]trace sport stars (1080p) [geo-blocked][geo-blocked] | [BD trace sport stars (1080p)  geo-blocked  geo-blocked](https://epg.pw/stream/886ce48c2c239f372b0852d71022784d3a2d1766410408aa9dd8a2ef1e29c7a0.m3u8) |
-| 1122 | [BD]trace sports stars | [BD trace sports stars](https://epg.pw/stream/b87c074835b09476fe36f575a20aa0c8da12677d93ad2f4d0980263b90f4ef0f.m3u8) |
+| 1122 | [VGA]trace sports stars | [VGA trace sports stars](https://epg.pw/stream/b87c074835b09476fe36f575a20aa0c8da12677d93ad2f4d0980263b90f4ef0f.m3u8) |
 | 1123 | [BD]trace urban | [BD trace urban](https://epg.pw/stream/dfa77ea576a7acdcd203ec9c9964ed378f1658738d12e4c9e2f7e1003bf110ff.m3u8) |
 | 1124 | [HD]trans 7 | [HD trans 7](https://epg.pw/stream/a6a9e6f99880781e598533ef7d38ee8ce59bb40c78b54333b548ab51fe58d2e2.m3u8) |
 | 1125 | [HD]trans7 (720p) | [HD trans7 (720p)](https://epg.pw/stream/196d314acae51091578fa7bc675470de88056cd1be12a123492c67644ca5fa62.m3u8) |
@@ -1557,7 +1557,7 @@
 | 1551 | [HD]澳视葡文 | [HD 澳视葡文](https://epg.pw/stream/230d718383bedd8c9757fbfe8589a51c9ecf4131fbfb7a22f462ddf17fa1435e.m3u8) |
 | 1552 | [HD]澳视体育 | [HD 澳视体育](https://epg.pw/stream/884e30417dbba8371867ed310d37bbf1a636a9ca75a4de69cc471c116494bf85.m3u8) |
 | 1553 | [HD]烟台新闻综合 | [HD 烟台新闻综合](https://epg.pw/stream/4fbcd538c44b23d63f3c88bba1e939cee177a31f2e33c6501753192885716b62.m3u8) |
-| 1554 | [BD]无线新闻 | [BD 无线新闻](https://epg.pw/stream/61f17fbba48271a6195cb5969b4207d5b152993ad4f225b88ec13c630863bb84.ctv) |
+| 1554 | [BD]无线新闻台 | [BD 无线新闻台](https://epg.pw/stream/24ad86b6b170c8279e4b2961c998b8f0837e3217812ead12388ec930f2cb4ca8.ctv) |
 | 1555 | [BD]无线财经 | [BD 无线财经](https://epg.pw/stream/9a5717216f8e5e6563211d66d2867374bfdfdd8a9ee8c48b0de2ddcb3a1f9b0d.ctv) |
 | 1556 | [BD]熊猫频道 | [BD 熊猫频道](https://epg.pw/stream/1b477de2aff814d6b317b2b9e462342ec6a27006810376ab97580aa29d886f90.m3u8) |
 | 1557 | [VGA]吉林新闻综合 | [VGA 吉林新闻综合](https://epg.pw/stream/04ac8c4edbe52123a87086c280432bedc30a94e45ba312eca7fc80f16bfee3c7.m3u8) |
@@ -1647,7 +1647,7 @@
 | 1641 | [HD]韩国电影3 | [HD 韩国电影3](https://epg.pw/stream/8283baa9c305ecec457631b92ee1c01f25b4d6b8cf19e284d9efbd8de0789eb5.m3u8) |
 | 1642 | [HD]香港国际财经台 | [HD 香港国际财经台](https://epg.pw/stream/d7d42738d28d82242956de378400f29c137bb4844173f1517b19bad0dd5c95d5.m3u8) |
 | 1643 | [HD]香港有线新闻 | [HD 香港有线新闻](https://epg.pw/stream/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv) |
-| 1644 | [SD]香港卫视文旅 | [SD 香港卫视文旅](https://epg.pw/stream/ba73bee0ff70c645c56f02c90b6f25d1f35dd3f2048282d55f0662631f850fad.m3u8) |
+| 1644 | [VGA]香港卫视文旅 | [VGA 香港卫视文旅](https://epg.pw/stream/ba73bee0ff70c645c56f02c90b6f25d1f35dd3f2048282d55f0662631f850fad.m3u8) |
 | 1645 | [BD]5+体育赛事 | [BD 5+体育赛事](https://epg.pw/stream/086db2bb0313ea69b64e6c5241778b8b5933b629e4bd09ecab5e744b122ed865.m3u8) |
 | 1646 | [BD]魅力足球 | [BD 魅力足球](https://epg.pw/stream/100f8d10fb39d11544e9f834c30dd5a57e92915f801d8e9bf50bf0f01345bef7.m3u8) |
 | 1647 | [BD]凤凰美洲 | [BD 凤凰美洲](https://epg.pw/stream/62f237b63da87af8fbb5082e97a53fd7ee94b9bc10b95e2baf575507285077a1.ctv) |
@@ -1667,4 +1667,4 @@
 | 1661 | [VGA]龙祥电影台 | [VGA 龙祥电影台](https://epg.pw/stream/2b3cd7837810fc1db41fef2ff391b68aecffb09d57febe61d20bde39187865e7.ctv) |
 | 1662 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Thu Feb 01 2024 18:18:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 01 2024 20:15:13 GMT+0000 (Coordinated Universal Time)**
