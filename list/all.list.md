@@ -75,7 +75,7 @@
 | 69 | [HD]ASSP2 | [HD ASSP2](https://epg.pw/stream/088e72a007a4a23dee20d484996fddfc5ad3e244c3f90e23ed903a4f8ef6bf02.ctv) |
 | 70 | [BD]astro super sport | [BD astro super sport](https://epg.pw/stream/39060f9bfe60804a980a47bb05a4c7bdfe874769952da20077fa7a104d9fac4a.ctv) |
 | 71 | [SD]Astro Supersports 2 | [SD Astro Supersports 2](https://epg.pw/stream/84d8e734020c28dc21d52bbea9a47bd371bbf6e3f5bfe0e3d09f2112de4814bc.ctv) |
-| 72 | [BD]AstroSupersports3 | [BD AstroSupersports3](https://epg.pw/stream/53ce35424326fa1d9c1646dff50928fc7917991857b2372723a1c92bfc13a9f8.ctv) |
+| 72 | [BD]Astro Supersports 3 | [BD Astro Supersports 3](https://epg.pw/stream/ab6c0d5761dd5c00e3faaf431b15badb576c54f87f8deacc6ecc87204088fa68.ctv) |
 | 73 | [SD]astrotv | [SD astrotv](https://epg.pw/stream/61b47eb5e7551f99a32454d3ba9b9baf0f579ea58e697ed0e65db4983302caa5.m3u8) |
 | 74 | [HD]Astro??? | [HD Astro???](https://epg.pw/stream/51cc19e15b26f6b95c3eb75a506073564a58bc51152b9357cdb836e9cff3e27c.ctv) |
 | 75 | [BD]al quran | [BD al quran](https://epg.pw/stream/ee520004e36040c3d9c2d7f635ddd931f9c6ab949c55ea78dcc202b3d643738d.ctv) |
@@ -300,8 +300,8 @@
 | 294 | [HD]NICKELODEON | [HD NICKELODEON](https://epg.pw/stream/419d7cb5715494a23e54517591c80b0e09903c7b20a874c777ef37fd4bbada5f.ctv) |
 | 295 | [VGA]now新闻台 | [VGA now新闻台](https://epg.pw/stream/2c5cd39ab3b2274e97f37a1711a56db2f00cafe21b977befc22cd0fb05f3c12b.ctv) |
 | 296 | [HD]NTV7 | [HD NTV7](https://epg.pw/stream/66c5158f13068ed80fda9a87b3e7f1fce8488c70d18cd930a006af2eb3dd3376.ctv) |
-| 297 | [HD]NatGeoHD | [HD NatGeoHD](https://epg.pw/stream/ba8147aee0841997e0211fe6652e5b7fbb8d91015d03e4698972d666214d4991.ctv) |
-| 298 | [HD]NatGeoWildHD | [HD NatGeoWildHD](https://epg.pw/stream/46a954b22eea0c9d68a768334cd77590c4c182e6b9b98b7b9c3378bcf47582cd.ctv) |
+| 297 | [HD]NatGeo Wild HD | [HD NatGeo Wild HD](https://epg.pw/stream/f8412475df56a098d47ae55cb6a2abc6b4eca6387f76794e5e5bf7685b151782.ctv) |
+| 298 | [HD]NatGeoHD | [HD NatGeoHD](https://epg.pw/stream/ba8147aee0841997e0211fe6652e5b7fbb8d91015d03e4698972d666214d4991.ctv) |
 | 299 | [HD]Net. | [HD Net.](https://epg.pw/stream/6974a6ce2048a5cc56675f98842ceb8e485607e115618ad161a2bc7a2d541ffd.ctv) |
 | 300 | [BD]newtv超级电影[ipv6] | [BD newtv超级电影 ipv6](https://epg.pw/stream/38f48223d9233cdb32e6aa34a1e80835aaed997071bcdea5b4325f92697148fe.m3u8) |
 | 301 | [BD]newsmaxtv | [BD newsmaxtv](https://epg.pw/stream/ed041d6d05c3dbb7adeace1332768b5e6f323d6a7a1c15bed90cb5e6c9731ee8.m3u8) |
@@ -324,7 +324,7 @@
 | 318 | [HD]runtime ação | [HD runtime ação](https://epg.pw/stream/b9c6bde401b0710f5fa17c65fb6ddaa6203d4be784324bcc746cc6a631392a3e.m3u8) |
 | 319 | [VGA]qs24.tv | [VGA qs24.tv](https://epg.pw/stream/0c4a4c6521c39d24a64a8f2fe10f6a2515e90314489ae7bdbf6eec911b7695c4.m3u8) |
 | 320 | [BD]sbs | [BD sbs](https://epg.pw/stream/9ad973e2cc77208d65cbb937822f92566f2357ce2e9d85a775a96b2ec15ac2a2.m3u8) |
-| 321 | [BD]sctv15 | [BD sctv15](https://epg.pw/stream/6441dd73831bb37ceaad3da713d234033e9b1e47db4b9b5501adbd6966eb9d22.m3u8) |
+| 321 | [BD]sctv15 hd | [BD sctv15 hd](https://epg.pw/stream/4e80e330d2b724e6c3167e5ad30ed21b10872c292550dc075ba9d96a3b6bc7ed.m3u8) |
 | 322 | [HD]SKY CINEMA ACTION HD | [HD SKY CINEMA ACTION HD](https://epg.pw/stream/bcc4291cdb5b7ae5d577641867bdc944cd6122a8ac6aa0fd05c1b256969d7d4f.ctv) |
 | 323 | [HD]SKY CINEMA SCI-FI | [HD SKY CINEMA SCI-FI](https://epg.pw/stream/d146b93d0bc2faf8a786a28b99081ab07e1f7657cfc71886ba7faf93d9346eba.ctv) |
 | 324 | [HD]SKY CINEMA SELECT HD | [HD SKY CINEMA SELECT HD](https://epg.pw/stream/7d3b4b3bba1a831e2287e2b417467db5fbee348727e5b9ebc0d2aae23707b224.ctv) |
@@ -708,7 +708,7 @@
 | 702 | [BD]france 24 english | [BD france 24 english](https://epg.pw/stream/17974cddcc3998fb78a274c78843a41844e9582c9eabac27c7a930eba1453427.m3u8) |
 | 703 | [BD]franken fernsehen | [BD franken fernsehen](https://epg.pw/stream/82b2f926f6c8c31c749af6ec5e790ca1d7ba24521960a246fd0fb86339bb8d20.m3u8) |
 | 704 | [BD]freedom (freeдom) (uatv) (720p) | [BD freedom (freeдom) (uatv) (720p)](https://epg.pw/stream/f158ecf6a3a28bcf51aca7fc4273121ede59c16db76cb1d5b5dfbf7fe9f24297.m3u8) |
-| 705 | [HD]frenchlover | [HD frenchlover](https://epg.pw/stream/5a26b68c75fb825addf8df0264db67729fe4d464a4101b55ebaa4ebd6c9d8f50.m3u8) |
+| 705 | [HD]french lover | [HD french lover](https://epg.pw/stream/05a6207965aed3400d9b648e51da83dda363f6ef1607bc44821608ad3eb33fc6.m3u8) |
 | 706 | [HD]fresh (720p) | [HD fresh (720p)](https://epg.pw/stream/b6b92f839830c390d9993d50373c9c129f5ca5df860a215269e5e4c611fffea8.m3u8) |
 | 707 | [HD]galicia tv américa (720p) | [HD galicia tv américa (720p)](https://epg.pw/stream/790404d0677d600372644f616b09b9d86812cd019c4922a20b14fc4710d20925.m3u8) |
 | 708 | [HD]game show central | [HD game show central](https://epg.pw/stream/967b5fce1469aed98c1de217ebf7d9bfb8947caf9a3803d320d55295cff04c4c.m3u8) |
@@ -1075,7 +1075,7 @@
 | 1069 | [BD]takarazuka sky stage | [BD takarazuka sky stage](https://epg.pw/stream/35da31035d2a832bde931da160bc9ddf987fb7f29a013c48c3faf554e74151cb.m3u8) |
 | 1070 | [HD]tastemade deutschland (720p) | [HD tastemade deutschland (720p)](https://epg.pw/stream/372cec4602bcfa4de18c42f1f3782bd24a0cf2d1a0f8576c107ad162780349e4.m3u8) |
 | 1071 | [BD]tastemade france (1080p) | [BD tastemade france (1080p)](https://epg.pw/stream/4da55c2279dcf16334309193828f9ca32e93c90e773f9f126cf2274bf3d7eaf9.m3u8) |
-| 1072 | [SD]tbs | [SD tbs](https://epg.pw/stream/e8ccebbc1069e326bc149004c884ddfe2d761d3fd0208f565bf5efc5c8a9eb8e.m3u8) |
+| 1072 | [SD]tbs | [SD tbs](https://epg.pw/stream/8203aee77eb237d792d70b4819599175397e6d79a48c6715f01cb272897861d4.m3u8) |
 | 1073 | [HD]tbs news dig | [HD tbs news dig](https://epg.pw/stream/6c7b466e2f487886f1c085bc7c301b242a8caa9edf672cc7aa713d227a23993e.m3u8) |
 | 1074 | [SD]tbsニュース | [SD tbsニュース](https://epg.pw/stream/fbf9f8e67f8ea2d096e2fdad6ffbbf3c715602e92645386193a260af7d5b0e33.m3u8) |
 | 1075 | [BD]tele 1 (1080p) | [BD tele 1 (1080p)](https://epg.pw/stream/a7a6f052408a8080e6557650ff2c5b9ba76d63b31bfd793db173c60c9acda3cb.m3u8) |
@@ -1660,4 +1660,4 @@
 | 1654 | [BD]龙江卫视[ipv6] | [BD 龙江卫视 ipv6](https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8) |
 | 1655 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Sun Feb 04 2024 04:16:52 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Feb 04 2024 06:17:59 GMT+0000 (Coordinated Universal Time)**
