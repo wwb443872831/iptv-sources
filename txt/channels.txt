@@ -1687,7 +1687,7 @@ Test,#genre#
 [BD]黑莓动画[ipv6],https://epg.pw/stream/89e7b1ef96dda539de25777630876882df0b78804426054f09f3a2aa677a868e.m3u8
 
 综合,#genre#
-[BD]cctv1,https://epg.pw/stream/cf3b93b28e08650d90b7c20d478e36b2bd2090749acead858b4a98553c2f0f39.m3u8
+[BD]cctv1[ipv6],https://epg.pw/stream/5674233683f0498e4271ddbeb345ec29c0eba703c988e6962595550dc1af7b9a.m3u8
 [BD]cctv12,https://epg.pw/stream/06025da15ba23cad6264166f6216c1cfb7f9bd2e1e759e6eab92ed6fb62f7daa.m3u8
 [BD]cctv4k超高清[ipv6],https://epg.pw/stream/14061ea886df6edfb76d8015ef8df852acbce8d4d862909db2279d3b3387cd9c.m3u8
 [BD]cctv-4 中文国际 美洲,https://epg.pw/stream/f155e7f2ec34213eaa80c93835daa2ed7d05733a20cecc56042f3ad6c130525c.ctv
@@ -1985,6 +1985,7 @@ Music,#genre#
 
 运动,#genre#
 [BD]cctv风云足球[ipv6],https://epg.pw/stream/122835fa915406615737ceb261f638f27e4101526191b85c281580274a185862.m3u8
+[BD]高尔夫网球[ipv6],https://epg.pw/stream/7d237fe94a86f6d01862aa57ac2436a9a64b921bc220468be1a4c9d958e3ff3f.m3u8
 
 综艺,#genre#
 [BD]cctv风云音乐[ipv6],https://epg.pw/stream/1fb1205c93c4029eeebd219d3dc6898df1514b4dc5df4562e3748dbda97f82be.m3u8
@@ -1994,13 +1995,13 @@ Music,#genre#
 [BD]中国交通,https://epg.pw/stream/b64ee710ab0a22e28a389293610912b764d52f39b0a4bb0f3bd4706567b138b8.ctv
 综合,#genre#
 [SD]内蒙古卫视,https://epg.pw/stream/198b7f254d7c0007c10522bdd003db9a5a4940ded56f9f3d997f876f1fb069f8.ctv
-[BD]北京卫视[ipv6],https://epg.pw/stream/ed16a4cd210c9f9d6204ddc6fb5def63a1c54b60114fb61679e61363edea068b.m3u8
+[BD]北京卫视,https://epg.pw/stream/cda7c4b88dacb6176794416673b481491e36101e865efc5c29b972fcded01773.m3u8
 [BD]吉林卫视[ipv6],https://epg.pw/stream/657b3cc8f2106d0e0b52d0bc7f0e15db544b37b3e86bf5f486f351b9db61fa2e.m3u8
 [VGA]四川卫视,https://epg.pw/stream/c1d7aa9fdbe369ae7c3242d0dade547b7987e1e37e7e2098a45e794c3296f862.m3u8
 [BD]天津卫视,https://epg.pw/stream/5130db2a0db7213cccda6a66743eccb8ca7db6b5b8c54e87636fdd0b694ce979.m3u8
 [BD]安徽卫视,https://epg.pw/stream/3fdaf3a98c295cd079cac64bfbe2a0d85c46a1952da530d3b17c9133ee8af610.ctv
 [BD]山东卫视,https://epg.pw/stream/4a343c7c4de4157d46c357cae28382364d74d1884942cf09bd212bfce4beeb7b.ctv
-[SD]山西卫视,https://epg.pw/stream/26bc11f19d981a15cde7badbe86ce9030af5cb1f8a4bf8c8e454c2b11e14f962.m3u8
+[SD]山西卫视[ipv6],https://epg.pw/stream/2f538e8c3c3dc60b99799fb3331f5f05b5a9c3c574544b4178a57a7de78f6884.m3u8
 [SD]厦门卫视,https://epg.pw/stream/323e6ce17313134e899100bd11b4029fdc609e7539e22465f60470841b30fae0.m3u8
 [BD]广东卫视[ipv6],https://epg.pw/stream/79202aa439fc4fb94a8304f8608737f7cff1626f2b42aa6d5552ecfc2bcacbaf.m3u8
 [BD]广西卫视,https://epg.pw/stream/3899ee96bfc51a8e53baa9d48c86b9b9a52907112fffcb33e94df2c05cc02d3c.m3u8
@@ -2009,12 +2010,12 @@ Music,#genre#
 [BD]东南卫视[ipv6],https://epg.pw/stream/d3a633f9603e282ecb78c53b3220a5cc6d4ae302a789711407a0794bc0c79c00.m3u8
 [BD]东方卫视,https://epg.pw/stream/96fb4677915219a69c151563855a231f0b7d6e7392e403e66e40af920843cb68.m3u8
 [BD]江苏卫视,https://epg.pw/stream/8803542d7a49d90fc141b3373ac76d8caca473c22cd4e19370f290989600b03f.m3u8
-[BD]江西卫视,https://epg.pw/stream/bc4d49bde015fc24aafb924423536d9ec2f09ad3d55313e4a482ba85ae48b175.ctv
+[BD]江西卫视[ipv6],https://epg.pw/stream/712a9501771f77767d38d69d884e87056ee0cb44e57bb3f4e75f50d3d0ab05fb.m3u8
 [BD]河北卫视[ipv6],https://epg.pw/stream/3d72ae947c8d574411b9d26bc49ef1b6e8c2c5bf3a55c97df0b37f0af5080a99.m3u8
-[BD]河南卫视[ipv6],https://epg.pw/stream/ea842ab34e6da31e0eae5bd8be6c4b7d67f0b0c214efaca7ff2c5a1718f7fe55.m3u8
-[BD]浙江卫视[ipv6],https://epg.pw/stream/52e4843605cfcef08b1f545c6196ae40253869e76a0f398e617fe35a0b8e9576.m3u8
+[SD]河南卫视,https://epg.pw/stream/7331faf4032e9de329e2c041cd9fa6f95fad0683ef1937a7bbbb76322856b9eb.ctv
+[BD]浙江卫视,https://epg.pw/stream/c1a4d029c808a7e0bffa4f5faee17ea8e22006d85305be6026578c3ff77f044d.m3u8
 [SD]海南卫视,https://epg.pw/stream/55e62d831217f1412d58379dd9b23176a814d8d68d681e96be98fdd0d13e8949.m3u8
-[BD]深圳卫视,https://epg.pw/stream/20ecf771d6a0c9c6e7099a283186488d8baa598db43ae7e64ada39622eeb930a.ctv
+[BD]深圳卫视[ipv6],https://epg.pw/stream/d379428ff38217ba5212dcd1949647ac1e4382f306b14a380bf60b7b056b4a2b.m3u8
 [BD]湖北卫视,https://epg.pw/stream/a168d5ee9a5535ed5d363fe5b921fc96b8e59faeb98d0a1780505ad1384b0a00.m3u8
 [BD]湖南卫视,https://epg.pw/stream/ef71867a8644735b09f5399278a3ce67b0cd46e1100159c789b9240a5bf4c2bb.m3u8
 [SD]甘肃卫视,https://epg.pw/stream/df47da8d115daca32d54247cd2e5f5c19f42753ef11dafd4ac8b627d19446904.ctv
@@ -9533,6 +9534,26 @@ Zhejiang TV International,https://hw-m-l.cztv.com/channels/lantian/channel10/108
 龙口新闻综合 (576p),http://yslk.chinashadt.com:1635/live/stream:di1.stream/playlist.m3u8
 龙口生活 (576p),http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8
 龙岩综合 (540p),http://stream.lytv.net.cn/2/sd/live.m3u8
+Ankang TV-1 News,http://124.47.34.186/PLTV/88888888/224/3221225855/index.m3u8
+Beijing Traffic Radio TV,http://123.56.24.28:1935/live/fm1039/96K/tzwj_video.m3u8
+Beijing Youth Radio,http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
+Binchow News TV,http://stream.bzcm.net/2/sd/live.m3u8
+Binchow Public TV,http://stream.bzcm.net/1/sd/live.m3u8
+Binhai Life TV,http://60.30.52.41/live/bhtv2/playlist.m3u8
+Binhai News TV,http://60.30.52.41/live/bhtv1/playlist.m3u8
+Fengtai Culture & Life TV,http://60.175.115.119:1935/live/wenhua/playlist.m3u8
+Fengtai News TV,http://60.175.115.119:1935/live/zonghe/playlist.m3u8
+Foochow Children TV,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+Foochow TV-1,http://111.75.179.195:30767/video/live_vide.m3u8
+Foochow TV-1 News,http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
+Foochow TV-2 TV Series,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+Foochow TV-3 Life,http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
+Fooshun Public TV,http://pili-live-rtmp.145.i2863.com/i2863-145/fsggpd.m3u8
+Foshan News TV,http://dslive.grtn.cn/fszh/sd/live.m3u8
+Fuling TV,http://pili-live-hls.cqfl.tianma3600.com/wxfl/flds.m3u8
+Fuping TV-1,http://124.47.34.189:80/wh7f454c46tw749339647_705237419/PLTV/88888888/224/3221225905/index.m3u8?icpid=88888888&RTS=1640046896&from=1&hms_devid=203
+Fuping TV-2,http://124.47.34.188:80/wh7f454c46tw1412774635_659925561/PLTV/88888888/224/3221225906/index.m3u8?icpid=88888888&RTS=1640099099&from=1&hms_devid=203
+Fusung News TV,http://stream8.jlntv.cn/fs/sd/live.m3u8
 Undefined,#genre#
 douyu8,http://epg.112114.xyz/douyu/4332
 douyu9,http://epg.112114.xyz/douyu/6140589
