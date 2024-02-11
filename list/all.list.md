@@ -164,7 +164,7 @@
 | 158 | [VGA]mv channel | [VGA mv channel](https://epg.pw/stream/5d330f8d3177bdc0461a96ccb8065b39c684d6ae4475e646a19dac0ac11b6eb2.m3u8) |
 | 159 | [SD]channel s (576p) [not 24/7] | [SD channel s (576p)  not 24/7](https://epg.pw/stream/1440fa5cbe9eac43673cd5f87876993311929e1c0c90a61e21b885ceb4fa4887.m3u8) |
 | 160 | [HD]CINEMAWORLD | [HD CINEMAWORLD](https://epg.pw/stream/7506e1994d0f220b646fc28c88df3724b7154aea454aa98a48c5f17f1c08314a.ctv) |
-| 161 | [BD]CINEMAX | [BD CINEMAX](https://epg.pw/stream/75636d3f1ab012f645c415ba4ff2d4db77710f0e78d512fa9913c4aa31f13ff6.ctv) |
+| 161 | [BD]CINEMAX | [BD CINEMAX](https://epg.pw/stream/89635c187084bdb3c95202d43e832cea4fa3e1bfcc1ae3094598347fc4af7ec3.ctv) |
 | 162 | [BD]ACTIONMAX | [BD ACTIONMAX](https://epg.pw/stream/5d1a31d6e3245f926fd47fac25ac8c3bb49f655cda1c7c3197bac83126a51a8e.ctv) |
 | 163 | [BD]Cinestar 2 | [BD Cinestar 2](https://epg.pw/stream/3dd79508ed5f112ea5613233106e5bdccd3d5b5dfe1ee60b41d6498c2531588b.ctv) |
 | 164 | [HD]Cinestar1 | [HD Cinestar1](https://epg.pw/stream/addb5d2a5a46f580f21102f3402ae46831892903138ae4ec1dc1a76e5fdb0629.ctv) |
@@ -219,7 +219,7 @@
 | 213 | [SD]gulli | [SD gulli](https://epg.pw/stream/4ef73b8311b85f3bb99d77504e48d27a6484dc8aae192c20a8157411616147aa.m3u8) |
 | 214 | [HD]HALLMARKMOVIES&MORE | [HD HALLMARKMOVIES&MORE](https://epg.pw/stream/d82971c86603549d7391d5075611971a595dedb636e47182f4120dcf7986f0af.ctv) |
 | 215 | [BD]HBO 2 | [BD HBO 2](https://epg.pw/stream/d4c36db08c1c05462ae132973ffdb9ac08f68571f5400f5db750fe27a2c50cc4.ctv) |
-| 216 | [BD]HBO 2 HD USA | [BD HBO 2 HD USA](https://epg.pw/stream/d695ba4233eb01f414307c6d064704e8a41cbba732c76bfa6a7b7cec4a8374db.ctv) |
+| 216 | [BD]HBO 2 HD USA | [BD HBO 2 HD USA](https://epg.pw/stream/53371b54b68729635fb7a1a08a0da5a22bb7ba5c5fabf9d167fd66caf2003e80.ctv) |
 | 217 | [BD]HBO 3 | [BD HBO 3](https://epg.pw/stream/15fb1aa4e40c8c729aa87d937d35f438b19c906f6db99c82e3c2abd7202bb1eb.ctv) |
 | 218 | [BD]HBO Comedy | [BD HBO Comedy](https://epg.pw/stream/4fa573a607f8542600e15f04d97ac385d490912e9a16c28368b9691231286a29.ctv) |
 | 219 | [BD]HBO East | [BD HBO East](https://epg.pw/stream/b40fb8a8fbd9310417b175a9ca468b4371793dc86cb6c9953c93cf124ae661ff.ctv) |
@@ -1653,4 +1653,4 @@
 | 1647 | [BD]龙江卫视[ipv6] | [BD 龙江卫视 ipv6](https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8) |
 | 1648 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Sun Feb 11 2024 01:10:03 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Feb 11 2024 02:22:58 GMT+0000 (Coordinated Universal Time)**
