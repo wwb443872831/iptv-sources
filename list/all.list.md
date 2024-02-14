@@ -292,7 +292,7 @@
 | 286 | [BD]NHK BSP4K | [BD NHK BSP4K](https://epg.pw/stream/cc8ac6c9ab845a3eb79d64cab1160c9bd4f728fa1eb51ea55239141aa49953c7.m3u8) |
 | 287 | [SD]nhk e | [SD nhk e](https://epg.pw/stream/acbfe60565f05de278fc8bac630f3a02741e84176dfa39577476f84f3eee4bea.m3u8) |
 | 288 | [BD][日本]nhkworldjapan(720p) | [BD  日本 nhkworldjapan(720p)](https://epg.pw/stream/43dbb8d242d38ff4b85fffdd18c1f1b37206a864569ae31e788ff76ce703ef75.m3u8) |
-| 289 | [HD]NICKELODEON | [HD NICKELODEON](https://epg.pw/stream/d1bc7e223569ae98ce307a104bf0099955d1046f063505155ee8ecf8a2897ab4.ctv) |
+| 289 | [HD]NICKELODEON | [HD NICKELODEON](https://epg.pw/stream/747e891c46170a581cf018271fa8f641feeb06cef1c9f2afb86cb1ff942a9fc5.ctv) |
 | 290 | [BD]NICKJR.USA | [BD NICKJR.USA](https://epg.pw/stream/e1ac5eaadaf1fefc2b6357f20037a8e5c35cecdd5631bffec56aac4a10f2ee9e.ctv) |
 | 291 | [VGA]now新闻台 | [VGA now新闻台](https://epg.pw/stream/2c5cd39ab3b2274e97f37a1711a56db2f00cafe21b977befc22cd0fb05f3c12b.ctv) |
 | 292 | [HD]NTV NEWS 24 | [HD NTV NEWS 24](https://epg.pw/stream/293259a13176bce43dc1ebe4fa6c1edbf5967ab22130996ea34a151030c4cc32.m3u8) |
@@ -720,7 +720,7 @@
 | 714 | [SD]france 24 french | [SD france 24 french](https://epg.pw/stream/0d8c0fb4d80987b70b107b9c3b2a95deace4aff2d3dfa3dc62866db9ac8decd2.ctv) |
 | 715 | [BD]franken fernsehen | [BD franken fernsehen](https://epg.pw/stream/82b2f926f6c8c31c749af6ec5e790ca1d7ba24521960a246fd0fb86339bb8d20.m3u8) |
 | 716 | [VGA]freedom (freeдom) (uatv) (720p) | [VGA freedom (freeдom) (uatv) (720p)](https://epg.pw/stream/7afd9e457ff760bf73b40d866e27ae281b27f6cda3ea37e3d3fe44341abf80e9.m3u8) |
-| 717 | [HD]french lover | [HD french lover](https://epg.pw/stream/05a6207965aed3400d9b648e51da83dda363f6ef1607bc44821608ad3eb33fc6.m3u8) |
+| 717 | [HD]frenchlover | [HD frenchlover](https://epg.pw/stream/5a26b68c75fb825addf8df0264db67729fe4d464a4101b55ebaa4ebd6c9d8f50.m3u8) |
 | 718 | [HD]fresh (720p) | [HD fresh (720p)](https://epg.pw/stream/b6b92f839830c390d9993d50373c9c129f5ca5df860a215269e5e4c611fffea8.m3u8) |
 | 719 | [HD]ftv | [HD ftv](https://epg.pw/stream/00d25df75bb592b225d06aad88a657603241eca0997cbbbdb463cd373e29a970.m3u8) |
 | 720 | [HD]fx hd | [HD fx hd](https://epg.pw/stream/679b4cfa11d38fc35c34904274d91c20570dce914b3cb9f79b1c180f70510f0e.ctv) |
@@ -1230,7 +1230,7 @@
 | 1224 | [SD]usee sport 2 | [SD usee sport 2](https://epg.pw/stream/cce65c76dc0407c5337adc0cc1263eea25b5707e956f15e197b73ade9b8eca32.m3u8) |
 | 1225 | [BD]utv | [BD utv](https://epg.pw/stream/6c59da3acfc2a335cb2ef290db3611cd6b2e83e5ee9c061852f96365f2afb28d.m3u8) |
 | 1226 | [BD]v news | [BD v news](https://epg.pw/stream/7818c241157463ae250e86f1d7773366428fcf0e5c4daf0c6b27a6fd60b4b756.m3u8) |
-| 1227 | [HD]venus hd | [HD venus hd](https://epg.pw/stream/e8d511f83acc920b1818cd55d2c33a2d125a72f0ee98a5c16962fdefde86b97d.m3u8) |
+| 1227 | [HD]venus | [HD venus](https://epg.pw/stream/c8287a225b5d575751638449ae0a61f60c99c6f276d127120a1f727907c992f2.m3u8) |
 | 1228 | [HD]vevo 2k | [HD vevo 2k](https://epg.pw/stream/33346b737bb3b9a93a22b2f7aee621fe26415b7d2312e4fd129b3a0a1e3f6b0d.m3u8) |
 | 1229 | [HD]vevo 8 | [HD vevo 8](https://epg.pw/stream/7d1270907a9369c1c46cbd972ef41312098169d0a7cef483e5bac3cbcdb29f55.m3u8) |
 | 1230 | [HD]vevo country | [HD vevo country](https://epg.pw/stream/7893dad7edd6610c885ea7d9b913961a05cd4c9477bab1b0e8c5c92464c48eff.m3u8) |
@@ -1664,4 +1664,4 @@
 | 1658 | [BD]龙江卫视[ipv6] | [BD 龙江卫视 ipv6](https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8) |
 | 1659 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Wed Feb 14 2024 02:20:45 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Feb 14 2024 04:18:24 GMT+0000 (Coordinated Universal Time)**
