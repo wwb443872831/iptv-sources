@@ -4800,4 +4800,4 @@
 | 4794 | Ю | [Ю](https://cdn-01.bonus-tv.ru/u/playlist.m3u8) |
 | 4795 | Առաջին ալիք (1080p) | [Առաջին ալիք (1080p)](https://amtv1.livestreamingcdn.com/am2abr/index.m3u8) |
 
-Updated at **Wed Feb 14 2024 12:27:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Feb 14 2024 14:14:34 GMT+0000 (Coordinated Universal Time)**
