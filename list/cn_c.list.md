@@ -106,4 +106,4 @@
 | 100 | [BD]金鹰纪实 | [BD 金鹰纪实](https://epg.pw/stream/77c41a196d48b4bfa1ffa38e86fe2f8facd6968d4d6404d81209c4a38077646c.m3u8) |
 | 101 | [BD]魅力足球 | [BD 魅力足球](https://epg.pw/stream/100f8d10fb39d11544e9f834c30dd5a57e92915f801d8e9bf50bf0f01345bef7.m3u8) |
 
-Updated at **Tue Feb 20 2024 08:18:32 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Feb 20 2024 10:15:27 GMT+0000 (Coordinated Universal Time)**
