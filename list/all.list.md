@@ -286,11 +286,11 @@
 | 280 | [HD]momo购物2 | [HD momo购物2](https://epg.pw/stream/b658e772883312717d1b7aee42b94fdfa284cb6a7021dfdbebdcc2ca162ed23f.m3u8) |
 | 281 | [SD]MTV BASE | [SD MTV BASE](https://epg.pw/stream/f7f1b62288c9f28bb99937563a4210e262c63a05a00a17d9d93540be0867ebde.ctv) |
 | 282 | [BD]MTV HD | [BD MTV HD](https://epg.pw/stream/2a5e536da37a3e8a625b92de2a46b3a884c8733837a9ce74a6fa24fbe7f792ee.ctv) |
-| 283 | [SD]mtv japan | [SD mtv japan](https://epg.pw/stream/54fa803999659caa34cf50eb8a6790cbb0464e81a4b72ea5d8b3958bcae15758.m3u8) |
-| 284 | [HD]MTV LIVE | [HD MTV LIVE](https://epg.pw/stream/e2cd2f9285e39c05f8acf792965f999ea295e1c13eba73479bdfe3f68a504e57.ctv) |
-| 285 | [HD]MTV ROCKS | [HD MTV ROCKS](https://epg.pw/stream/7b76d92b1449ded5e52c3490c4477309404141b22b3f802d5d463c98370df240.ctv) |
-| 286 | [HD]MTV UK | [HD MTV UK](https://epg.pw/stream/2461a62b1c56fe97b7e15c55bb7683ae059e21fa4ad43df12b7da9209c6eca52.ctv) |
-| 287 | [SD]MTVHITS | [SD MTVHITS](https://epg.pw/stream/778fec92595d888410763812c0d27649b7f14aaaffee514ee74f5a34f018371e.ctv) |
+| 283 | [SD]MTV HITS | [SD MTV HITS](https://epg.pw/stream/8a3e5d8e9cfe0a573c2d7d9a9a14e1610bae864402cc842fd1a40ecb10b3f61e.ctv) |
+| 284 | [SD]mtv japan | [SD mtv japan](https://epg.pw/stream/54fa803999659caa34cf50eb8a6790cbb0464e81a4b72ea5d8b3958bcae15758.m3u8) |
+| 285 | [HD]MTV LIVE | [HD MTV LIVE](https://epg.pw/stream/e2cd2f9285e39c05f8acf792965f999ea295e1c13eba73479bdfe3f68a504e57.ctv) |
+| 286 | [HD]MTV ROCKS | [HD MTV ROCKS](https://epg.pw/stream/7b76d92b1449ded5e52c3490c4477309404141b22b3f802d5d463c98370df240.ctv) |
+| 287 | [HD]MTV UK | [HD MTV UK](https://epg.pw/stream/349359afbb6c7aae1046a370329618bcdc8747e371315c1fb6cd09be8fa0ca21.ctv) |
 | 288 | [HD]maah tv (720p) [not 24/7] | [HD maah tv (720p)  not 24/7](https://epg.pw/stream/5a69c10da4e4327ff29632cfd63b1a3c4e1142c5596056d702550769e0b2c270.m3u8) |
 | 289 | [HD]car magazine tv | [HD car magazine tv](https://epg.pw/stream/877792832be9172f4d3e12486f03184eed411e14bb86b07f2ce4ff30e17005dd.m3u8) |
 | 290 | [BD]metro globe network | [BD metro globe network](https://epg.pw/stream/6d24fb801015b56a72c611d7abbfaa16c03383a282ef0939354cd453ee0b1f30.m3u8) |
@@ -1742,4 +1742,4 @@
 | 1736 | [BD]龙江卫视[ipv6] | [BD 龙江卫视 ipv6](https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8) |
 | 1737 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 
-Updated at **Wed Feb 21 2024 02:20:05 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Feb 21 2024 04:17:58 GMT+0000 (Coordinated Universal Time)**
