@@ -263,4 +263,4 @@
 | 257 | [BD]黑龙江卫视 | [BD 黑龙江卫视](https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.m3u8) |
 | 258 | [BD]龙江卫视[ipv6] | [BD 龙江卫视 ipv6](https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8) |
 
-Updated at **Sun Feb 25 2024 16:18:21 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Feb 25 2024 18:17:53 GMT+0000 (Coordinated Universal Time)**
