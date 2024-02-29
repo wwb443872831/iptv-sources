@@ -518,4 +518,4 @@
 | 512 | Lasa TV | [Lasa TV](http://220.182.45.198:20088/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0) |
 | 513 | Xizang TV Tibetan | [Xizang TV Tibetan](http://220.182.45.198:20088/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0) |
 
-Updated at **Thu Feb 29 2024 20:16:52 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Feb 29 2024 22:14:00 GMT+0000 (Coordinated Universal Time)**
