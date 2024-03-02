@@ -130,7 +130,7 @@
 | 124 | [BD]文物宝库 | [BD 文物宝库](https://epg.pw/stream/e8a4d9f6d3ba5e1e6ff4c1a48e190d72f245bd2afedb8ee0cca017934c8e2830.m3u8) |
 | 125 | [BD]三新动漫 | [BD 三新动漫](https://epg.pw/stream/3db55b1054c684fb8a548a10a0d6cb7855c453b8786c8716dbb2c27c917a8c6d.ctv) |
 | 126 | [BD]新昌新闻综合 | [BD 新昌新闻综合](https://epg.pw/stream/7f856c798f5a5167cf5966b25d0ab5d352c40c5975d4a78d25e6a92c0251cb89.m3u8) |
-| 127 | [SD]新疆卫视 | [SD 新疆卫视](https://epg.pw/stream/ba74609f5ff97c464ff3140e1e89d4a2696465ab07503a47a8f5dc1607fba7d6.m3u8) |
+| 127 | [SD]新疆卫视 | [SD 新疆卫视](https://epg.pw/stream/0723d03126108bc85e530dbb12b7d72c5f6e863378e0dbc5881bc4a096b322d2.m3u8) |
 | 128 | [BD]旅游卫视 | [BD 旅游卫视](https://epg.pw/stream/ec4acebcc3eb66ea9f23a8f9024848115d27c6d85681b6142fe5b7359851b2bb.m3u8) |
 | 129 | [BD]早期教育 | [BD 早期教育](https://epg.pw/stream/700e053a177a2edf245bc06b20b07efc7c8467d1a0d7acd6662cce25ef1fe633.ctv) |
 | 130 | [BD]东南卫视 | [BD 东南卫视](https://epg.pw/stream/d3a633f9603e282ecb78c53b3220a5cc6d4ae302a789711407a0794bc0c79c00.m3u8) |
@@ -246,4 +246,4 @@
 | 240 | [BD]黑龙江卫视 | [BD 黑龙江卫视](https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.m3u8) |
 | 241 | [BD]龙江卫视[ipv6] | [BD 龙江卫视 ipv6](https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8) |
 
-Updated at **Sat Mar 02 2024 16:17:48 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 02 2024 18:18:42 GMT+0000 (Coordinated Universal Time)**
