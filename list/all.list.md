@@ -180,7 +180,7 @@
 | 174 | [BD]dijlah tarab | [BD dijlah tarab](https://epg.pw/stream/6a1c81a66a7b8f56a6ddd0ce57ba81e9c42cf7c46f5ecf9f670e5f9dbdcef0ce.m3u8) |
 | 175 | [HD]DISCOVERY HD | [HD DISCOVERY HD](https://epg.pw/stream/02c62a8368814f191e3a06459aa83cbc7c6ac6b426bdb3b763483188a45333f0.ctv) |
 | 176 | [HD]Discovery Science | [HD Discovery Science](https://epg.pw/stream/6c78021cb9454f42913410db828d723a93b309673cf27af2bacc327241cf7d81.ctv) |
-| 177 | [HD]DISNEY CHANNEL | [HD DISNEY CHANNEL](https://epg.pw/stream/4cb203f611cede1a498d2b94743bc62a80ead4c653da9cbb4be0331e3a690b64.ctv) |
+| 177 | [HD]DISNEY CHANNEL | [HD DISNEY CHANNEL](https://epg.pw/stream/fff28877504254859cd1b02d43c2288cf1d27cf4acf2061fad17d647568fe127.ctv) |
 | 178 | [HD]DISNEY XD | [HD DISNEY XD](https://epg.pw/stream/445c52401117b58ec19d88f6d045eade4dae394795a46575eaee1604acf62ac9.ctv) |
 | 179 | [HD]dreamworks | [HD dreamworks](https://epg.pw/stream/ad88982ed14451da4c47551f1d7635ce5e5251530fdad37370860a520d6efc3c.m3u8) |
 | 180 | [BD]E! ENTERTAINMENT | [BD E! ENTERTAINMENT](https://epg.pw/stream/31eef34b810c8bc4eeb27e3b55cf5e3997e87b220693e0f1ffbe3ee13f8cd448.ctv) |
@@ -410,7 +410,7 @@
 | 404 | [BD]viutv | [BD viutv](https://epg.pw/stream/e3b6ef61296cb3a88c8940bf8d296959a56b9ab06d5299f75dd9334205ec9d14.ctv) |
 | 405 | [BD]vivo tv (1080p) | [BD vivo tv (1080p)](https://epg.pw/stream/f61319c17f397fbffb9e750ce09b94843a6dd6f3e82fcc8a4225342a0c613254.m3u8) |
 | 406 | [HD]Vtm | [HD Vtm](https://epg.pw/stream/3f7283fa869c25941161a01044501bf18640041ca0e303e0f05c9cc47cccb63d.m3u8) |
-| 407 | [HD]WARNER TV | [HD WARNER TV](https://epg.pw/stream/a6d9cbe6928caa7ac3d00d842aae58ac0a779163f51b702fb965480c567beb93.ctv) |
+| 407 | [HD]WARNER TV | [HD WARNER TV](https://epg.pw/stream/f3c04cc24987ff08c937236383fe0d5cdcef2bd3f9a0022e85c6e33fc4615e25.ctv) |
 | 408 | [SD]ww tv | [SD ww tv](https://epg.pw/stream/0fced3b83531dfd0e9206b6e062ba8473701ffaeef3127c0b1046d9b6dc98a5b.m3u8) |
 | 409 | [BD]wbc tv | [BD wbc tv](https://epg.pw/stream/f0280f1f0b047f8988304fdde8439131a27b1452555b8bd5ae37655a012fd738.m3u8) |
 | 410 | [SD]wowow cinema | [SD wowow cinema](https://epg.pw/stream/19d98683885096b9ef293ea47ab7ca7409044ee58f6fe0b5f8b17fde6d1e9067.m3u8) |
@@ -1899,4 +1899,4 @@
 | 1893 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 | 1894 | [HD]현대홈쇼핑+샵 • hyundai mall+ | [HD 현대홈쇼핑+샵 • hyundai mall+](https://epg.pw/stream/465ee8a818546e1fd09de6bcef86844fe564733706c781ac932e2a66c4409db4.ctv) |
 
-Updated at **Sat Mar 02 2024 02:18:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 02 2024 04:17:17 GMT+0000 (Coordinated Universal Time)**
