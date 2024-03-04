@@ -201,7 +201,7 @@
 | 195 | [BD]石家庄都市 | [BD 石家庄都市](https://epg.pw/stream/05aa42fbc9d722e77cf7250a2f50f9ec5e485e92fef15182116acfeb636af4f1.m3u8) |
 | 196 | [BD]石家庄都市1 | [BD 石家庄都市1](https://epg.pw/stream/de65f82aee82beb140a0d077456efbf1cf0aa8927b52f107acc45775c4f8d471.m3u8) |
 | 197 | [SD]福建漳浦综合 | [SD 福建漳浦综合](https://epg.pw/stream/56eb02707eb276bcf6a207859256e48ffb2e9e03fab764bcce746f4bf6b5a8bb.m3u8) |
-| 198 | [SD]精彩电视剧 | [SD 精彩电视剧](https://epg.pw/stream/93ffd63d2d18ebb1e9cb628d9028325d54f2e18dd7c3e69095aa2ccc9e03121f.m3u8) |
+| 198 | [HD]精彩电视剧 | [HD 精彩电视剧](https://epg.pw/stream/93ffd63d2d18ebb1e9cb628d9028325d54f2e18dd7c3e69095aa2ccc9e03121f.m3u8) |
 | 199 | [HD]绍兴公共频道 | [HD 绍兴公共频道](https://epg.pw/stream/d7fd5957e80850e238154295e9e8de9d2ff44b78ef37cc3357e8ca4b56d996cf.m3u8) |
 | 200 | [HD]绍兴文化影院 | [HD 绍兴文化影院](https://epg.pw/stream/69e2feb3fc54896357a380d344242de12ee1bd360a98ab33d465e8688593081e.m3u8) |
 | 201 | [SD]绍兴新闻综合 | [SD 绍兴新闻综合](https://epg.pw/stream/0c479cc20f3eb20b09af243763f3f347b95748ccf86126cf662483e9a75c2e3c.m3u8) |
@@ -243,4 +243,4 @@
 | 237 | [BD]黑龙江卫视 | [BD 黑龙江卫视](https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.m3u8) |
 | 238 | [BD]龙江卫视[ipv6] | [BD 龙江卫视 ipv6](https://epg.pw/stream/1521d4946027d551c4131aa8a20e3b00b0984dd0011ae390d133b525896deab9.m3u8) |
 
-Updated at **Mon Mar 04 2024 18:18:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Mar 04 2024 20:15:49 GMT+0000 (Coordinated Universal Time)**
