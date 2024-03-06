@@ -103,7 +103,7 @@
 | 97 | [HD]canal 24 horas (720p) | [HD canal 24 horas (720p)](https://epg.pw/stream/40adc10287958a96b105faae6ecb3ea85c5f3e18f28ed4d271e4a67cbe78e05e.m3u8) |
 | 98 | [HD]24/7 canal de noticias | [HD 24/7 canal de noticias](https://epg.pw/stream/fa954b61bcfb59cc422d4f2f883d5020982e4c6bad61ae1aba2ff77f9689dd7d.m3u8) |
 | 99 | [HD]cbc news | [HD cbc news](https://epg.pw/stream/ae86121ce2929cde3584f1535de29149adf5063e2a12e616564fc49cf57061e3.m3u8) |
-| 100 | [VGA]CBEEBIES | [VGA CBEEBIES](https://epg.pw/stream/b4cfd8b64eee572911d81d8ee137271b7faba09f5709877f5098b62bef822d57.ctv) |
+| 100 | [VGA]CBEEBIES | [VGA CBEEBIES](https://epg.pw/stream/443a720676172e6d52a126020dcd9219047cdb3b078ce0871a52343d44b14dc6.ctv) |
 | 101 | [HD]cbs news | [HD cbs news](https://epg.pw/stream/f4680dcdd8a1b34bb30bc8e53e809bfceac32458bba5a7c556cef711b747bc51.m3u8) |
 | 102 | [SD]CBS Reality | [SD CBS Reality](https://epg.pw/stream/58a758f9d61acfe2663ad2193441d316736664d4f6795be6a9467bf007b6ffbe.ctv) |
 | 103 | [HD]fubo sports network (720p) | [HD fubo sports network (720p)](https://epg.pw/stream/604ddc6809052ab8ef1d0efb806f35b815b7d40aea4ff74120dae94ec1f899b6.m3u8) |
@@ -185,7 +185,7 @@
 | 179 | [HD]ASTRO小太阳 | [HD ASTRO小太阳](https://epg.pw/stream/18675d29ea1a9b9f7735631c4abee6ae2e322e0c2f38642dfcb8de8d7b4d678d.ctv) |
 | 180 | [HD]rakuten action movies | [HD rakuten action movies](https://epg.pw/stream/2573f60c82a1dc3900c58c9cf171475351c0c788a5a5ea3d63e47964515ce3d2.m3u8) |
 | 181 | [HD]ช่อง rakuten family movies | [HD ช่อง rakuten family movies](https://epg.pw/stream/cb941d80cf6f4cf188e1349de966121c817bf6f42389cd56df0b62d713adc6cf.m3u8) |
-| 182 | [VGA]FOX NEWS | [VGA FOX NEWS](https://epg.pw/stream/e4a79b2d82670a448a6ffdee6de561f78f6900657e69123a21b15111e66dabc2.ctv) |
+| 182 | [VGA]FOX NEWS | [VGA FOX NEWS](https://epg.pw/stream/3f658f6e47f126e0e1f675a028bbe2dc2afba1632a47ebeacad0a386903451e1.ctv) |
 | 183 | [HD]fox newsnow | [HD fox newsnow](https://epg.pw/stream/516cd8fec2b2c85c5d66b50e360a503ccde03570a6701514765b03e42443d43a.m3u8) |
 | 184 | [BD]fox sports 2 | [BD fox sports 2](https://epg.pw/stream/c8acfc50c21a5ce9604c4de5efda74fc26d2f063ac6efa3251e2ad4456629b7d.ctv) |
 | 185 | [SD]fuji tv next | [SD fuji tv next](https://epg.pw/stream/398311c3161e761c6fcdea9a00d06875e72e234f5c585cf68719d7f0a3ab83c9.m3u8) |
@@ -1848,4 +1848,4 @@
 | 1842 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 | 1843 | [BD]연합뉴스tv | [BD 연합뉴스tv](https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8) |
 
-Updated at **Wed Mar 06 2024 04:17:28 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Mar 06 2024 06:20:59 GMT+0000 (Coordinated Universal Time)**
