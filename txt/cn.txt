@@ -180,7 +180,7 @@
 [VGA]亳州新闻频道,https://epg.pw/stream/cf7447d98fc73c8791cfc7032f6c35ba0dd41c3fcce500284f242c23fe55eb19.m3u8
 [BD]北京新闻,https://epg.pw/stream/df5f291b3e91d85d43f12c1253c789da96a06b0263fd5ccd662fd90514379fda.ctv
 [BD]黔南新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
-[VGA]太原新闻综合,https://epg.pw/stream/359eb3ce750ac7e6f69e70a838dbb87a1abcb2f1d2b1ae6bc0603f57e96af45b.ctv
+[BD]太原新闻综合,https://epg.pw/stream/359eb3ce750ac7e6f69e70a838dbb87a1abcb2f1d2b1ae6bc0603f57e96af45b.ctv
 [BD]宿州新闻综合,https://epg.pw/stream/241171224fda0ca651365ac3e52e9762b114e9fa2176bd37c17a85eba975b6c8.m3u8
 [HD]平湖新闻综合,https://epg.pw/stream/42b48170548b6a57776c7592ecda1c9f326f0ed39dc0631337d1e8961aa97486.m3u8
 [SD]承德新闻综合,https://epg.pw/stream/5c0dfe6a3638b82d0c95726c165ac0cadb25c696589666af56eecdfe71226435.m3u8

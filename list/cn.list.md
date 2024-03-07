@@ -98,7 +98,7 @@
 | 92 | [BD]天津卫视 | [BD 天津卫视](https://epg.pw/stream/5130db2a0db7213cccda6a66743eccb8ca7db6b5b8c54e87636fdd0b694ce979.ctv) |
 | 93 | [VGA]太原影视 | [VGA 太原影视](https://epg.pw/stream/1c126c689d4bae18d88b54f99c232b264d6b44736bc852ab7ed1eabb307956d6.ctv) |
 | 94 | [VGA]太原文体 | [VGA 太原文体](https://epg.pw/stream/66483273ae5f9116d09786e942388b1b41354e56c41560d538885387c5c156ba.ctv) |
-| 95 | [VGA]太原新闻综合 | [VGA 太原新闻综合](https://epg.pw/stream/359eb3ce750ac7e6f69e70a838dbb87a1abcb2f1d2b1ae6bc0603f57e96af45b.ctv) |
+| 95 | [BD]太原新闻综合 | [BD 太原新闻综合](https://epg.pw/stream/359eb3ce750ac7e6f69e70a838dbb87a1abcb2f1d2b1ae6bc0603f57e96af45b.ctv) |
 | 96 | [HD]安多卫视 | [HD 安多卫视](https://epg.pw/stream/290a71e47606fa713caa0f79a0812e332e24e5ec6d51610020d3031c34fb2857.m3u8) |
 | 97 | [BD]安徽导视 | [BD 安徽导视](https://epg.pw/stream/a7246583550aa4f39c3c5c71f7aaee412061387be1b7e5b57ad7c11513507106.m3u8) |
 | 98 | [BD]安徽影视 | [BD 安徽影视](https://epg.pw/stream/a34aa2b2f8b89143f5d1d219d14e07aff3a540dcee1a8827a7493d54a6dbe218.ctv) |
@@ -235,4 +235,4 @@
 | 229 | [BD]黑龙江卫视 | [BD 黑龙江卫视](https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.m3u8) |
 | 230 | [VGA]黑龙卫视 | [VGA 黑龙卫视](https://epg.pw/stream/e8c2bbc78da7ade48859fcff9ce2ecce3b97f1ed6213f5020b1729ec5c4173d8.m3u8) |
 
-Updated at **Thu Mar 07 2024 20:15:07 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Mar 07 2024 22:13:52 GMT+0000 (Coordinated Universal Time)**
