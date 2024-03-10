@@ -228,4 +228,4 @@
 | 222 | [BD]黑龙江卫视 | [BD 黑龙江卫视](https://epg.pw/stream/bba30e5caaeffff57cecd7e3145d77937bb135028de2be19ffe2f644858124ca.m3u8) |
 | 223 | [VGA]黑龙卫视 | [VGA 黑龙卫视](https://epg.pw/stream/e8c2bbc78da7ade48859fcff9ce2ecce3b97f1ed6213f5020b1729ec5c4173d8.m3u8) |
 
-Updated at **Sun Mar 10 2024 12:24:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Mar 10 2024 14:13:40 GMT+0000 (Coordinated Universal Time)**
