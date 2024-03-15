@@ -74,7 +74,7 @@
 | 68 | [SD]astro cricket | [SD astro cricket](https://epg.pw/stream/bf38672390dade7640265fcf4e434a04e33408ff8f22977013267f8cc6f75360.ctv) |
 | 69 | [HD]ASTRO OASIS | [HD ASTRO OASIS](https://epg.pw/stream/eec84990db19c307be0663b9f89c3cc59cb8c5c5918b077de94e35e0e8b00550.ctv) |
 | 70 | [HD]ASTRO RANIA | [HD ASTRO RANIA](https://epg.pw/stream/71e0e319240759d84dae8c597c3606aae0ec89e821b0f92fa4554d09142b7297.ctv) |
-| 71 | [VGA]ASTRO WARNA | [VGA ASTRO WARNA](https://epg.pw/stream/617818009b9a2b2f14470b20c4a366e166bfa6910ba37ad9999d4b9fa59c1509.ctv) |
+| 71 | [VGA]ASTRO WARNA | [VGA ASTRO WARNA](https://epg.pw/stream/72fc91817947f8a49cebfb940fb68d32f0543515431095a4bb934163c2c45bdd.ctv) |
 | 72 | [HD]ASTRO 华丽台 | [HD ASTRO 华丽台](https://epg.pw/stream/f9164afa8e2b8ed648cb3d903dbc547ed2035f3dd210c1dada7a0f8a4ba7a867.ctv) |
 | 73 | [HD]at-x | [HD at-x](https://epg.pw/stream/99e95248c600e9fd618843ad55bcf8d982ffcf5d962252abb7c4e6410fdbe1aa.m3u8) |
 | 74 | [HD]tvri world | [HD tvri world](https://epg.pw/stream/08f572e03fb04a0e394febb2e2d08082cedc4ecba339019008f471731e6a8f88.m3u8) |
@@ -248,7 +248,7 @@
 | 242 | [SD]discovery science | [SD discovery science](https://epg.pw/stream/035902f8b3b563e0b5a7cd2ef2ade48b6c805f0d378d4265059b9948e469c036.m3u8) |
 | 243 | [HD]DISNEY JR | [HD DISNEY JR](https://epg.pw/stream/83911c1d2b5b3afc3161bfbd6fcb496194f648bb54e8e6a0978f98e2c34df98a.ctv) |
 | 244 | [HD]DISNEY JUNIOR | [HD DISNEY JUNIOR](https://epg.pw/stream/32b6a5c5369e4fae2ee5831d6b220c54de3c3948a4ab6b98027b5443587505e2.ctv) |
-| 245 | [HD]DISNEYXD | [HD DISNEYXD](https://epg.pw/stream/f5590673639fb21011d778eb4b3c511308b41ed02cc44141d1e788a83bf614ed.ctv) |
+| 245 | [HD]DISNEYXD | [HD DISNEYXD](https://epg.pw/stream/1307ab22baa8e818dc42e8d5ada4e477c1406aef6ee9eb406d680e2541528b07.ctv) |
 | 246 | [HD]DMAX | [HD DMAX](https://epg.pw/stream/77945188c341729e1436f936cfba234dab8a239f2a3462fd41dfaa0c2ef1bf32.ctv) |
 | 247 | [SD]da vinci | [SD da vinci](https://epg.pw/stream/5ab8582de6e170a3fba0e34d7f4b5fb597e5bb23bad8618e86a1a8468f6ce16a.m3u8) |
 | 248 | [BD]deportv | [BD deportv](https://epg.pw/stream/4c6b63680f7c1f2530f67883477237bb200d6339b533fa34ee155a6a7ef2bb25.m3u8) |
@@ -315,7 +315,7 @@
 | 309 | [BD]HBO 2 HD USA | [BD HBO 2 HD USA](https://epg.pw/stream/fb8cc7ff3880c739362d855154e936fd4fdd220f4f73e44936ed2f890e5d7c0f.ctv) |
 | 310 | [HD]HBO3 | [HD HBO3](https://epg.pw/stream/9b2e0393e13d6bf982f4e4939826ba5318d91f421d8865bba4e432f010b2e909.ctv) |
 | 311 | [BD]hbo comedy (east) us | [BD hbo comedy (east) us](https://epg.pw/stream/b22bb43371abb918962c7e40dd0a7429de32083e3b8aead0678cdb188d089f36.m3u8) |
-| 312 | [BD]HBO East | [BD HBO East](https://epg.pw/stream/f773f4a42540ce5585286d86b6da72c50a73403740657565afe0a0cfbc861aba.ctv) |
+| 312 | [BD]HBO East | [BD HBO East](https://epg.pw/stream/c4ec19582a57f402ad93b0a7aff987de72d6cea1e5e69ac487241b0ea4dd8e5b.ctv) |
 | 313 | [BD]hbo family (east) us | [BD hbo family (east) us](https://epg.pw/stream/104bdb81b12cb7fca728b0f61f3e9b014cc81b200420d5b049f28a56a4767263.m3u8) |
 | 314 | [BD]hbo family hd | [BD hbo family hd](https://epg.pw/stream/0523d475e9854119cbad8edc9b13670318bf741986da24ed5099e9dab6c4d30d.ctv) |
 | 315 | [BD]HBOFAMILYUSA | [BD HBOFAMILYUSA](https://epg.pw/stream/e8b239c98b36e891129b6f9bd7664c1308f595872fcd6e6aef263ba0a00958ea.ctv) |
@@ -762,7 +762,7 @@
 | 756 | [SD]bandamax | [SD bandamax](https://epg.pw/stream/458399b26f53209ef7532be41479ffaff50f97452af62a0eb9fc24f6b70cde9b.m3u8) |
 | 757 | [BD]baynounah tv | [BD baynounah tv](https://epg.pw/stream/cf2e59882276372e0181b6d8fff54eb098b504f42d2a832bf62caa02410669a4.m3u8) |
 | 758 | [VGA]bayyinat tv | [VGA bayyinat tv](https://epg.pw/stream/f7c644492ac13092c98bfc5fb91f87ec8b5ab737d6a3d750026afd629afaa373.m3u8) |
-| 759 | [BD]bbc america | [BD bbc america](https://epg.pw/stream/50dc62cff2ea89948900324dde3a65a672db9b96f0f645ab6db7da864364a471.m3u8) |
+| 759 | [BD]bbc america east | [BD bbc america east](https://epg.pw/stream/ae1568836be4c9562e802e5fa069e17ace53756caace0f8c38725b4a44fad30b.m3u8) |
 | 760 | [HD]bbc drama | [HD bbc drama](https://epg.pw/stream/49ad9324651393a0225343e4ae5d1b18cfacbf25586b4486fc8fb456426af8db.m3u8) |
 | 761 | [BD]bbc earth | [BD bbc earth](https://epg.pw/stream/7ab314dffe41c2c850533b7b9aa28c97704b751eee651e6c7c57aac886707985.ctv) |
 | 762 | [HD]bbc travel | [HD bbc travel](https://epg.pw/stream/52310c262d05e033a98439cabd0ead8bb65aed162692bd8279c812771f94c3f7.m3u8) |
@@ -2477,7 +2477,7 @@
 | 2471 | [BD]华视 | [BD 华视](https://epg.pw/stream/56dbce1b745f36ee11ae844cd00728290dfc3ada50d7c42255989683cdd1189e.m3u8) |
 | 2472 | [BD]华语电视3 | [BD 华语电视3](https://epg.pw/stream/353082a76519c026043f3911199f07e25f3c51e7ace07e1b37312dbe35ffb4ab.m3u8) |
 | 2473 | [VGA]华语电视2 | [VGA 华语电视2](https://epg.pw/stream/d4dcd98906fba0a18eb76bb7f65475dc66f810649b9cf99e37b4b1e0c30a1593.m3u8) |
-| 2474 | [SD]万州影视文艺 | [SD 万州影视文艺](https://epg.pw/stream/4fbd9d1e44a192a1b593a0448e0ea3705f04408928e1c1a962c431988503c156.m3u8) |
+| 2474 | [SD]万州影视文艺 | [SD 万州影视文艺](https://epg.pw/stream/0db1fe6d9f439ccf06fa6ffcec21201991d909523dcf02f59828ee836c1f226b.m3u8) |
 | 2475 | [BD]蓬安新闻综合 | [BD 蓬安新闻综合](https://epg.pw/stream/b0caa04ca1cdfdb7bd7ac07b9290e9055df283c1e5188dc024dea18640e15d30.m3u8) |
 | 2476 | [SD]卫星剧场 | [SD 卫星剧场](https://epg.pw/stream/6a2cb8f7acc767af9e589606e4c938421de9c4735ce941f38ee7a2a042f0a5dd.m3u8) |
 | 2477 | [BD]卫生健康 | [BD 卫生健康](https://epg.pw/stream/d5c601a33b8ea414c6135c95a37c8a8a1ae768ccae63abd9a78934c2a114d13a.m3u8) |
@@ -2581,4 +2581,4 @@
 | 2575 | [BD]연합뉴스tv | [BD 연합뉴스tv](https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8) |
 | 2576 | [HD]현대홈쇼핑+샵 • hyundai mall+ | [HD 현대홈쇼핑+샵 • hyundai mall+](https://epg.pw/stream/465ee8a818546e1fd09de6bcef86844fe564733706c781ac932e2a66c4409db4.ctv) |
 
-Updated at **Fri Mar 15 2024 14:14:27 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 15 2024 16:19:36 GMT+0000 (Coordinated Universal Time)**
