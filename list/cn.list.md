@@ -21,7 +21,7 @@
 | 15 | [BD]cctv3[ipv6] | [BD cctv3 ipv6](https://epg.pw/stream/c7020b88aea35cfa13268ae17e657ef8e234ba0f8d3c87045520f9f12bb9355f.m3u8) |
 | 16 | [BD]cctv4[ipv6] | [BD cctv4 ipv6](https://epg.pw/stream/43229ec03f2ba5352c33770df9061aa26a5624068b51b1c1ed9ab98c9109acf6.m3u8) |
 | 17 | [SD]cctv-4中文国际 | [SD cctv-4中文国际](https://epg.pw/stream/5ecf26f2e60ac62579cd196934377718114f8d8a41503e8354c446c72f1b09b7.m3u8) |
-| 18 | [BD]cctv5[ipv6] | [BD cctv5 ipv6](https://epg.pw/stream/1ffe16d61d03c294d0c96913c0e50a55ddd1d62dc7bf0875851dfcc54f19ff51.m3u8) |
+| 18 | [BD]cctv5 | [BD cctv5](https://epg.pw/stream/a07086d0420ac12b7d34e0461250f43bfc467adc0cd59c7cc4121e7d06c26684.m3u8) |
 | 19 | [BD]cctv5+ | [BD cctv5+](https://epg.pw/stream/688fb057c2c815f9044512662e6f3992c1930c3658fdba899f5c4c30dbc70043.m3u8) |
 | 20 | [BD]cctv6 | [BD cctv6](https://epg.pw/stream/753fe6b20478c17a39f0c17d3c8d98a74cd5890a6e40f4ce011380f2dd185285.m3u8) |
 | 21 | [BD]cctv7[ipv6] | [BD cctv7 ipv6](https://epg.pw/stream/085cc8320b47039f91c89f261b3bde134c04438bf58155988cdd2120c8ae5c1c.m3u8) |
@@ -369,7 +369,7 @@
 | 363 | [BD]精彩体育 4m1080[ipv6] | [BD 精彩体育 4m1080 ipv6](https://epg.pw/stream/4bf3b369136edd530ec6493d4683a85d609d0b8ab56ae93e97bd70a821da5d75.m3u8) |
 | 364 | [BD]精彩影视 | [BD 精彩影视](https://epg.pw/stream/d307c9cd8ca9bfccb256d05361a226e8186b4a7096856d7c699a3d7ce7214269.m3u8) |
 | 365 | [BD]精彩电影 10m1080[ipv6] | [BD 精彩电影 10m1080 ipv6](https://epg.pw/stream/09ca0b7acc616a9f4328cd6e887bab3c0a7415041e7ee31db71ee27886647bcf.m3u8) |
-| 366 | [HD]精彩电视剧 | [HD 精彩电视剧](https://epg.pw/stream/93ffd63d2d18ebb1e9cb628d9028325d54f2e18dd7c3e69095aa2ccc9e03121f.m3u8) |
+| 366 | [SD]精彩电视剧 | [SD 精彩电视剧](https://epg.pw/stream/93ffd63d2d18ebb1e9cb628d9028325d54f2e18dd7c3e69095aa2ccc9e03121f.m3u8) |
 | 367 | [BD]精彩综艺 10m1080[ipv6] | [BD 精彩综艺 10m1080 ipv6](https://epg.pw/stream/39d64dac8565e2aa61beaaddcecd2886a4f137a4b36aa4d8ee45d8c9d404d735.m3u8) |
 | 368 | [HD]绍兴公共频道 | [HD 绍兴公共频道](https://epg.pw/stream/d7fd5957e80850e238154295e9e8de9d2ff44b78ef37cc3357e8ca4b56d996cf.m3u8) |
 | 369 | [HD]绍兴文化影院 | [HD 绍兴文化影院](https://epg.pw/stream/69e2feb3fc54896357a380d344242de12ee1bd360a98ab33d465e8688593081e.m3u8) |
@@ -421,7 +421,7 @@
 | 415 | [BD]金川新闻综合 | [BD 金川新闻综合](https://epg.pw/stream/0d60b10a833214165e584c5860475388bb1ffcb0fb9d622cd3a43408a4dd2883.m3u8) |
 | 416 | [BD]金色学堂[ipv6] | [BD 金色学堂 ipv6](https://epg.pw/stream/303d79304fb4c6e23c320315de037e71f67a6ee8866d45e994b896d07eede2bb.m3u8) |
 | 417 | [BD]金鹰卡通 | [BD 金鹰卡通](https://epg.pw/stream/1c8b5cf46200851398c52c4355d49b4ef49fab78c2a0f0c0b69d1669f4792080.m3u8) |
-| 418 | [BD]金鹰纪实 | [BD 金鹰纪实](https://epg.pw/stream/77c41a196d48b4bfa1ffa38e86fe2f8facd6968d4d6404d81209c4a38077646c.m3u8) |
+| 418 | [BD]金鹰纪实 | [BD 金鹰纪实](https://epg.pw/stream/94fdc1fe964eedfca734045a102891491f6f105422ffa1916e973dee7b5e9294.m3u8) |
 | 419 | [BD]镇江新闻 | [BD 镇江新闻](https://epg.pw/stream/3b8fa0a822e57a8e0b880f0bd3a83b5960853e886eaf3f6c897d3df81d594fcd.m3u8) |
 | 420 | [BD]长沙县新闻 | [BD 长沙县新闻](https://epg.pw/stream/4b3fe351a37dba16c4b4168f92089857fab30562c2a1f581ed53754c272a86a2.m3u8) |
 | 421 | [SD]陕西七套 | [SD 陕西七套](https://epg.pw/stream/adfeeed3fd4d4a546cd250d8670493d46d76dc870e79de2ed7862b022c09ee69.m3u8) |
@@ -466,4 +466,4 @@
 | 460 | [VGA]黑龙江影 | [VGA 黑龙江影](https://epg.pw/stream/b1e87c5318118574ee4080e897630a936b1dd9113e95ea0c0d41c4072d32a0d1.m3u8) |
 | 461 | [HD]点掌财经 | [HD 点掌财经](https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8) |
 
-Updated at **Mon Mar 18 2024 14:15:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Mar 18 2024 16:19:50 GMT+0000 (Coordinated Universal Time)**
