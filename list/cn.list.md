@@ -319,7 +319,7 @@
 | 313 | [VGA]湖南娱乐 | [VGA 湖南娱乐](https://epg.pw/stream/beb9587d88489e70e201873d98421bfb236759d0ee3f5a09437e5f23085bdad0.ctv) |
 | 314 | [VGA]湖南爱晚 | [VGA 湖南爱晚](https://epg.pw/stream/883c914486770e67a9c9f2333d5a9d4a2bd3eed69af1ae129a4bf2973f0ac911.ctv) |
 | 315 | [VGA]湖南经视 | [VGA 湖南经视](https://epg.pw/stream/083dd83573e39b2be5781d200c5bf2e046f39104e90d3bbca658d5a40d53d5f0.ctv) |
-| 316 | [BD]湖南卫视 | [BD 湖南卫视](https://epg.pw/stream/98483d49b7664cad39569fa5fe740d789fc54ce26dda630432eefd8647a9885b.m3u8) |
+| 316 | [BD]湖南卫视[ipv6] | [BD 湖南卫视 ipv6](https://epg.pw/stream/ceb0350bf607e7de789758adb0ee3a1e5e0de91b7de8c1a05f86e2dd6f4916ab.m3u8) |
 | 317 | [VGA]湖南都市 | [VGA 湖南都市](https://epg.pw/stream/273149edd9c5e4a0cad66a4316e20e4572e3133d86491170c9ab274bfa32eb2b.ctv) |
 | 318 | [VGA]湖南电影 | [VGA 湖南电影](https://epg.pw/stream/84314710068d51088a7fac2dcac4032ce649b5dd9b8659b4e5b1781cc7ca5dc0.ctv) |
 | 319 | [VGA]湖南电视剧 | [VGA 湖南电视剧](https://epg.pw/stream/b120df2d0fb5b5673337708c5554944f75b32425d7b685d47b53a5305dbee9a7.ctv) |
@@ -459,4 +459,4 @@
 | 453 | [VGA]黑龙江影 | [VGA 黑龙江影](https://epg.pw/stream/b1e87c5318118574ee4080e897630a936b1dd9113e95ea0c0d41c4072d32a0d1.m3u8) |
 | 454 | [HD]点掌财经 | [HD 点掌财经](https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8) |
 
-Updated at **Thu Mar 21 2024 02:22:31 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Mar 21 2024 04:20:50 GMT+0000 (Coordinated Universal Time)**
