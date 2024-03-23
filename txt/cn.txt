@@ -52,7 +52,7 @@
 [SD]万州影视文艺,https://epg.pw/stream/0db1fe6d9f439ccf06fa6ffcec21201991d909523dcf02f59828ee836c1f226b.m3u8
 [BD]都市剧场,https://epg.pw/stream/2eabe02805b061c8bec403738aa242cadc769f72b5711c5b2567abd96b669815.m3u8
 [SD]陕西影视频道[ipv6],https://epg.pw/stream/f3cdf1ddc40c4b8cd8aa92f65945ddb3254a343538aeb01352dee51896b6af1e.m3u8
-[BD]陕西影视,https://epg.pw/stream/a0dc949f3e65da9ebc2c1d93a1e2fb33cb21e3b4a3c41f2632dcb77f1a80b608.ctv
+[SD]陕西影视[ipv6],https://epg.pw/stream/abddcc2f98be0b3773febd9d99f492c0aa95a2a401669f46192bac65dad00098.m3u8
 [HD]陕西西部电影[ipv6],https://epg.pw/stream/89302a48c6f6873757539ee8a9ae69975e8e58609b000b205af6aa35b59e9240.m3u8
 [BD]黑莓电影[ipv6],https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8
 [BD]黑龙江影视[ipv6],https://epg.pw/stream/6186d8420f7e86d3337615a008072538610d9e9a20c1d01d4087add26fcbe019.m3u8
@@ -176,7 +176,7 @@
 [SD]陕西六套,https://epg.pw/stream/c125cbb2a0628901f7975a29c0dc9eba78c56d9026b008791be39a844ddde5f1.m3u8
 [BD]陕西二套[ipv6],https://epg.pw/stream/9a48327a328bf09def0788dad3314ddaf272f2e80a6914928c05b5191d1aff51.m3u8
 [SD]陕西公共[ipv6],https://epg.pw/stream/ade712a234bfc10daf07002f83b11cfb44ec3e8c885cb7567b322dbec3e0e4ed.m3u8
-[SD]陕西四套,https://epg.pw/stream/fa6efa87bbba360739569897295e1af744919e841c8ce806821a46ddd59dcd2a.m3u8
+[VGA]陕西四套,https://epg.pw/stream/fa6efa87bbba360739569897295e1af744919e841c8ce806821a46ddd59dcd2a.m3u8
 [SD]陕西生活频道[ipv6],https://epg.pw/stream/2c12e28e6ba573eac012df36133e12fe61903c6c7e5f145618471794e7adf5e1.m3u8
 [SD]陕西卫视[ipv6],https://epg.pw/stream/eb1d7157459fe4c37bbfad23252b85ab628f4e3d14d81aea7b4a014d2658ae41.m3u8
 [HD]云南康旅,https://epg.pw/stream/6b179f8058c63a37624e915473dd2db178df841b3e4ca66d92292f4a45664313.m3u8
@@ -399,7 +399,7 @@
 [BD]cctv5,https://epg.pw/stream/a07086d0420ac12b7d34e0461250f43bfc467adc0cd59c7cc4121e7d06c26684.m3u8
 [BD]cctv5+,https://epg.pw/stream/688fb057c2c815f9044512662e6f3992c1930c3658fdba899f5c4c30dbc70043.m3u8
 [BD]cctv央视台球,https://epg.pw/stream/fcd995b82f8bed167a7f794e79f1e159e832dd277bab3a4e8a3b537a77b954da.ctv
-[BD]cctv风云足球[ipv6],https://epg.pw/stream/f5984a4a5c2d0b153f783bfe5878209ce03902d76521ede65c4c52f54d50284b.m3u8
+[VGA]cctv风云足球[ipv6],https://epg.pw/stream/f5984a4a5c2d0b153f783bfe5878209ce03902d76521ede65c4c52f54d50284b.m3u8
 [HD]marsh tv,https://epg.pw/stream/97aa3bb3b334481fe5c7c9673cd145b446995ab8e18f2b736c6842602ee70703.m3u8
 [BD]newtv精品体育[ipv6],https://epg.pw/stream/2cfc18c6a4d620f42d5c58a51226bda61f721ac7de982c9380f89674efc6e951.m3u8
 [VGA]五星体育[ipv6],https://epg.pw/stream/031acdbb137226f0c022242be1f31a039d40acf487f2c4b6fa6b40d6eb55f3f4.m3u8
