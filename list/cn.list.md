@@ -11,7 +11,7 @@
 | 5 | [BD]cctv12[ipv6] | [BD cctv12 ipv6](https://epg.pw/stream/aedb71e61961cd2a5a5b9a8a83b8ae489c9408e6b420593aecb92cc36de628fe.m3u8) |
 | 6 | [BD]cctv-13 | [BD cctv-13](https://epg.pw/stream/7ec9008065dc4c2791cee0a27514d283edd9f0c92bdf4b642525ff6a14e323b1.m3u8) |
 | 7 | [BD]cctv14[ipv6] | [BD cctv14 ipv6](https://epg.pw/stream/81b7797c31f3ca9a91e207b707f88027d93cf50d35999fc2e33c24e9bf30d709.m3u8) |
-| 8 | [BD]cctv15 | [BD cctv15](https://epg.pw/stream/80ca73f2c897789d5b01da2ef9190e08f5f87741309ce017c6e20a99b3b20ef1.ctv) |
+| 8 | [BD]cctv15 | [BD cctv15](https://epg.pw/stream/6a5426bb4a07d1f8b9b2dc3b053ea722ac96e0ebabe07d4a0c2fd8c040866b2c.m3u8) |
 | 9 | [BD]cctv16 | [BD cctv16](https://epg.pw/stream/3d549f839d8441032ab1a90e8897e7384687d7b39cced4f60ea3e14e436868e9.m3u8) |
 | 10 | [BD]cctv17[ipv6] | [BD cctv17 ipv6](https://epg.pw/stream/f552024dc7f521d901bfbfb6c4b2f4c8f0fe0e81615e947a846f894591f0c9ff.m3u8) |
 | 11 | [BD]cctv2 | [BD cctv2](https://epg.pw/stream/9ae57cd4c14b62284d1867572b5c6d0eb610112cb78cb6bbc286e29f765cc7a5.m3u8) |
@@ -430,4 +430,4 @@
 | 424 | [VGA]黑龙江影 | [VGA 黑龙江影](https://epg.pw/stream/b1e87c5318118574ee4080e897630a936b1dd9113e95ea0c0d41c4072d32a0d1.m3u8) |
 | 425 | [HD]点掌财经 | [HD 点掌财经](https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8) |
 
-Updated at **Tue Mar 26 2024 08:18:44 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Mar 26 2024 10:17:16 GMT+0000 (Coordinated Universal Time)**
