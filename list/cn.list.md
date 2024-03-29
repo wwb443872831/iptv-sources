@@ -36,7 +36,7 @@
 | 30 | [BD]cctv风云剧场[ipv6] | [BD cctv风云剧场 ipv6](https://epg.pw/stream/8c5ede6ea5578a0a7f3971a31ff8043098e43268eeb2af377ed3c17b2ad7377d.m3u8) |
 | 31 | [BD]cctv风云音乐[ipv6] | [BD cctv风云音乐 ipv6](https://epg.pw/stream/c5cdf98a2ec7cc0b65f33cdf0f06ab09297ea13408e63416e671eb3e8ae1ae9f.m3u8) |
 | 32 | [SD]cgtn | [SD cgtn](https://epg.pw/stream/a6e1495fc04816b640c3b82afe49e1518bcda37b4a3ecaa6b228bd9e114ead4d.ctv) |
-| 33 | [BD]chc动作电影[ipv6] | [BD chc动作电影 ipv6](https://epg.pw/stream/3d2b74eab95aa8de5cd4eb1567bd92f7bd993f838ccf9bf7322c488140235363.m3u8) |
+| 33 | [BD]chc动作电影[ipv6] | [BD chc动作电影 ipv6](https://epg.pw/stream/a9542ff7b5a5dd601d5614edf37cd70c1941c9ac7b61dc3798bc2b2ddb851013.m3u8) |
 | 34 | [BD]chc家庭影院 | [BD chc家庭影院](https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.ctv) |
 | 35 | [BD]chc高清电影[ipv6] | [BD chc高清电影 ipv6](https://epg.pw/stream/3b471ad5f1aa57bac299045428922c098b2f6204a72ef8428b398db14eaa5c96.m3u8) |
 | 36 | [BD]rkb news 24 | [BD rkb news 24](https://epg.pw/stream/5c0a5e9b24538982f2adc32190019a57ce3b22128142d163af46657413602453.m3u8) |
@@ -409,4 +409,4 @@
 | 403 | [BD]黑龙江公共农村[ipv6] | [BD 黑龙江公共农村 ipv6](https://epg.pw/stream/0623fcc677362013baa7bcc326f1d7758f1cdfea016987c2a11ca28a5eb289f2.m3u8) |
 | 404 | [HD]点掌财经 | [HD 点掌财经](https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8) |
 
-Updated at **Fri Mar 29 2024 06:19:20 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Mar 29 2024 08:18:36 GMT+0000 (Coordinated Universal Time)**
