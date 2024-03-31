@@ -40,7 +40,7 @@
 | 34 | 凤凰资讯 | [凤凰资讯](http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8) |
 | 35 | 翡翠台 | [翡翠台](https://iptv.hiper25.com/TVB/video.m3u8) |
 | 36 | 明珠台 | [明珠台](https://iptv.hiper25.com/Pearl/video.m3u8) |
-| 37 | 澳門澳視 | [澳門澳視](https://iptv.hiper25.com/TDM/video.m3u8) |
+| 37 | 澳门澳视 | [澳门澳视](https://iptv.hiper25.com/TDM/video.m3u8) |
 | 38 | 北京卫视 | [北京卫视](http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/1.m3u8) |
 | 39 | 湖南卫视 | [湖南卫视](http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/1.m3u8) |
 | 40 | 东方卫视 | [东方卫视](http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/1.m3u8) |
@@ -285,4 +285,4 @@
 | 279 | 茶友频道 | [茶友频道](rtp://239.3.1.165:8001) |
 | 280 | 快乐垂钓 | [快乐垂钓](rtp://239.3.1.164:8001) |
 
-Updated at **Sun Mar 31 2024 10:15:11 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Mar 31 2024 12:26:21 GMT+0000 (Coordinated Universal Time)**
