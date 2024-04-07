@@ -89,7 +89,7 @@
 | 83 | [BD]之江纪录 | [BD 之江纪录](https://epg.pw/stream/496628986e817c55a7027c61b5158a810b7ecca4fa8dd386fc11c1504a8f0195.m3u8) |
 | 84 | [HD]云南都市 | [HD 云南都市](https://epg.pw/stream/873548802d8fadd57ea9b40402a41c5803ee1c5143b516b8cb636f02a12fe2b6.m3u8) |
 | 85 | [VGA]五星体育[ipv6] | [VGA 五星体育 ipv6](https://epg.pw/stream/031acdbb137226f0c022242be1f31a039d40acf487f2c4b6fa6b40d6eb55f3f4.m3u8) |
-| 86 | [HD]珲春新闻综合 | [HD 珲春新闻综合](https://epg.pw/stream/fda444a770245fbced13c1292344da143a4ba42d98de269c5614119a78435716.m3u8) |
+| 86 | [SD]珲春新闻综合 | [SD 珲春新闻综合](https://epg.pw/stream/fda444a770245fbced13c1292344da143a4ba42d98de269c5614119a78435716.m3u8) |
 | 87 | [SD]保定生活健康 | [SD 保定生活健康](https://epg.pw/stream/9709bbb793efe3c91b9a1902efefd0b8f3261f2d58da5f192ab4a9ca920904c7.m3u8) |
 | 88 | [SD]优漫卡通[ipv6] | [SD 优漫卡通 ipv6](https://epg.pw/stream/57e3fc6914792be5173e3d60559c5e54f9adc80cccf70eaf6994660d3b10297c.m3u8) |
 | 89 | [BD]内蒙古少儿频道 | [BD 内蒙古少儿频道](https://epg.pw/stream/fd7f26799bc50c13550838d171c838132e948eaada65dc928f0a741cc3569cb3.m3u8) |
@@ -446,4 +446,4 @@
 | 440 | [BD]黑龙新闻法治[ipv6] | [BD 黑龙新闻法治 ipv6](https://epg.pw/stream/08e8dc836a9f361c4c530b31e91fb863e7d3f974cdf9d38126038200f007d3ca.m3u8) |
 | 441 | [HD]点掌财经 | [HD 点掌财经](https://epg.pw/stream/a438b7c61aa6f89a563fdfc6728289c739620c234c00a7f2cb2f0b1355a926ed.m3u8) |
 
-Updated at **Sun Apr 07 2024 04:19:39 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Apr 07 2024 06:18:19 GMT+0000 (Coordinated Universal Time)**
