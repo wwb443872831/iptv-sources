@@ -129,4 +129,4 @@
 | 123 | 百视通体育6 | [百视通体育6](https://itv.lat/tv/live.php?&line=1&id=sport6) |
 | 124 | 百视通体育7 | [百视通体育7](https://itv.lat/tv/live.php?&line=1&id=sport7) |
 
-Updated at **Wed Apr 10 2024 10:17:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Apr 10 2024 12:28:13 GMT+0000 (Coordinated Universal Time)**
