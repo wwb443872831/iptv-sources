@@ -176,8 +176,8 @@
 | 170 | Tastemade | [Tastemade](https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8) |
 | 171 | MovieSphere | [MovieSphere](https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8) |
 | 172 | Travelxp | [Travelxp](https://i.mjh.nz/SamsungTVPlus/ATBA1000005P4.m3u8) |
-| 173 | The Lego Channel | [The Lego Channel](https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8) |
-| 174 | The Guardian | [The Guardian](https://i.mjh.nz/SamsungTVPlus/GBAJ2400003DD.m3u8) |
-| 175 | NexUp Live Comedy | [NexUp Live Comedy](https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8) |
+| 173 | The Guardian | [The Guardian](https://i.mjh.nz/SamsungTVPlus/GBAJ2400003DD.m3u8) |
+| 174 | The Lego Channel | [The Lego Channel](https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8) |
+| 175 | NextUp Live Comedy | [NextUp Live Comedy](https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8) |
 
-Updated at **Wed Apr 10 2024 06:20:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Apr 10 2024 08:22:04 GMT+0000 (Coordinated Universal Time)**
