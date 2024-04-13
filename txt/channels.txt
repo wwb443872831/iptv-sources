@@ -287,7 +287,7 @@ Movies,#genre#
 [BD]hbo family (east) us,https://epg.pw/stream/104bdb81b12cb7fca728b0f61f3e9b014cc81b200420d5b049f28a56a4767263.m3u8
 [BD]HBO FAMILY USA,https://epg.pw/stream/2a2fe89715a302bab6274c63f8b920279fd690728a5c191de5cda10b3e1edc19.ctv
 [BD]hbo hd,https://epg.pw/stream/45da6dd2e8207334bc7c9b0d6f688cdd11da8c1e3cc2d53302e641ec3372da58.m3u8
-[BD]HBO Hits,https://epg.pw/stream/1fcce3c619a72f2ca98c5015508ddde1735aad4030da1f94a1caf43f4f5a9598.ctv
+[HD]HBO HITS,https://epg.pw/stream/627491c90b6898e61063ea8514328bfa0a839fdbfa69a0fcb524ebe8f9e7d6cf.ctv
 [BD]hbo signature (east) us,https://epg.pw/stream/54809efd6841b1d0ee0caeefe0d75647277344ff1c7d0f4840c7863123369265.m3u8
 [BD]HBO Signature,https://epg.pw/stream/b04d10d5b1b876c49b553e91ab4c0f467ef77480ce196f3e64ff3404519a6b80.ctv
 [HD]HBOSIGNATUREUSA,https://epg.pw/stream/c35cd6d7f88fe2a82c058311daf5fcc0fb88b7cf4e65ad1749208300989138bc.ctv
@@ -1832,7 +1832,7 @@ News,#genre#
 Kids,#genre#
 [HD]3abn,https://epg.pw/stream/325d72328c939779e2ec3eeda6c7e64276bfae816b19c0a755c990499e155127.m3u8
 [VGA]animax,https://epg.pw/stream/8959c648275f5c9b5d29364c7797ce88802775c745d9c726ccee1773f599496d.m3u8
-[HD]ANIMAX.,https://epg.pw/stream/0c28cd29139adcd1df57ece3ef2b1067d91b0dbfa1ae4e5ff0210b33d496ad58.ctv
+[HD]ANIMAX.,https://epg.pw/stream/56da5f60777797e5cc1c02ae8e784c4564e0d448e232964e435ae32cf961abad.ctv
 [HD]Animax,https://epg.pw/stream/7fb1922fe4e118e61336144d8e252043918d533c7dc60a184bb005281141ba5a.ctv
 [HD]pluto tv anime all day (720p),https://epg.pw/stream/c57102ef6665bb24e8b9a01143ab1e9e2bd6c2da5340c1b154468f4d9572db59.m3u8
 [SD]india news,https://epg.pw/stream/10ea8880452f4697b82dbeec3465460c3afa780bb3565639f309268c8a5e5cf4.m3u8
@@ -3054,72 +3054,6 @@ Bestv赛事6,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001154
 家家购物,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001163/index.m3u8
 家有购物,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001244/index.m3u8
 快乐购,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001368/index.m3u8
-央视,#genre#
-CCTV-1 综合,https://pi.0472.org/live/cctv1.m3u8?token=240411
-CCTV-2 财经,https://pi.0472.org/live/cctv2.m3u8?token=240411
-CCTV-3 综艺,https://pi.0472.org/live/cctv3.m3u8?token=240411
-CCTV-4 国际,https://pi.0472.org/live/cctv4.m3u8?token=240411
-CCTV-5 体育,https://pi.0472.org/live/cctv5.m3u8?token=240411
-CCTV-5+ 体育赛事,https://pi.0472.org/live/cctv5p.m3u8?token=240411
-CCTV-6 电影,https://pi.0472.org/live/cctv6.m3u8?token=240411
-CCTV-7 国防军事,https://pi.0472.org/live/cctv7.m3u8?token=240411
-CCTV-8 电视剧,https://pi.0472.org/live/cctv8.m3u8?token=240411
-CCTV-9 记录,https://pi.0472.org/live/cctv9.m3u8?token=240411
-CCTV-10 科教,https://pi.0472.org/live/cctv10.m3u8?token=240411
-CCTV-11 戏曲,https://pi.0472.org/live/cctv11.m3u8?token=240411
-CCTV-12 社会与法,https://pi.0472.org/live/cctv12.m3u8?token=240411
-CCTV-13 新闻,https://pi.0472.org/live/cctv13.m3u8?token=240411
-CCTV-14 少儿,https://pi.0472.org/live/cctv14.m3u8?token=240411
-CCTV-15 音乐,https://pi.0472.org/live/cctv15.m3u8?token=240411
-CCTV-16 奥林匹克,https://pi.0472.org/live/cctv16.m3u8?token=240411
-CCTV-16 奥林匹克4K,https://pi.0472.org/live/cctv16-4k.m3u8?token=240411
-CCTV-17 农业农村,https://pi.0472.org/live/cctv17.m3u8?token=240411
-CCTV-4K 超高清,https://pi.0472.org/live/cctv4k.m3u8?token=240411
-CCTV-8K 超高清,https://pi.0472.org/live/cctv8k.m3u8?token=240411
-CCTV兵器科技,https://pi.0472.org/live/bqkj.m3u8?token=240411
-CCTV第一剧场,https://pi.0472.org/live/dyjc.m3u8?token=240411
-CCTV怀旧剧场,https://pi.0472.org/live/hjjc.m3u8?token=240411
-CCTV风云剧场,https://pi.0472.org/live/fyjc.m3u8?token=240411
-CCTV风云音乐,https://pi.0472.org/live/fyyy.m3u8?token=240411
-CCTV风云足球,https://pi.0472.org/live/fyzq.m3u8?token=240411
-CCTV电视指南,https://pi.0472.org/live/dszn.m3u8?token=240411
-CCTV女性时尚,https://pi.0472.org/live/nxss.m3u8?token=240411
-CCTV央视文化精品,https://pi.0472.org/live/whjp.m3u8?token=240411
-CCTV世界地理,https://pi.0472.org/live/sjdl.m3u8?token=240411
-CCTV高尔夫网球,https://pi.0472.org/live/gefwq.m3u8?token=240411
-CCTV央视台球,https://pi.0472.org/live/ystq.m3u8?token=240411
-CCTV卫生健康,https://pi.0472.org/live/wsjk.m3u8?token=240411
-CGTN英语,https://pi.0472.org/live/cgtn.m3u8?token=240411
-CGTN纪录,https://pi.0472.org/live/cgtnjl.m3u8?token=240411
-CGTN西语,https://pi.0472.org/live/cgtne.m3u8?token=240411
-CGTN法语,https://pi.0472.org/live/cgtnf.m3u8?token=240411
-CGTN阿语,https://pi.0472.org/live/cgtna.m3u8?token=240411
-CGTN俄语,https://pi.0472.org/live/cgtnr.m3u8?token=240411
-
-卫视,#genre#
-北京卫视,https://pi.0472.org/live/bjws.m3u8?token=240411
-东方卫视,https://pi.0472.org/live/dfws.m3u8?token=240411
-天津卫视,https://pi.0472.org/live/tjws.m3u8?token=240411
-重庆卫视,https://pi.0472.org/live/cqws.m3u8?token=240411
-黑龙江卫视,https://pi.0472.org/live/hljws.m3u8?token=240411
-辽宁卫视,https://pi.0472.org/live/lnws.m3u8?token=240411
-河北卫视,https://pi.0472.org/live/hbws.m3u8?token=240411
-山东卫视,https://pi.0472.org/live/sdws.m3u8?token=240411
-安徽卫视,https://pi.0472.org/live/ahws.m3u8?token=240411
-河南卫视,https://pi.0472.org/live/hnws.m3u8?token=240411
-湖北卫视,https://pi.0472.org/live/hubws.m3u8?token=240411
-湖南卫视,https://pi.0472.org/live/hunws.m3u8?token=240411
-江西卫视,https://pi.0472.org/live/jxws.m3u8?token=240411
-江苏卫视,https://pi.0472.org/live/jsws.m3u8?token=240411
-浙江卫视,https://pi.0472.org/live/zjws.m3u8?token=240411
-东南卫视,https://pi.0472.org/live/dnws.m3u8?token=240411
-广东卫视,https://pi.0472.org/live/gdws.m3u8?token=240411
-深圳卫视,https://pi.0472.org/live/szws.m3u8?token=240411
-广西卫视,https://pi.0472.org/live/gxws.m3u8?token=240411
-贵州卫视,https://pi.0472.org/live/gzws.m3u8?token=240411
-四川卫视,https://pi.0472.org/live/scws.m3u8?token=240411
-新疆卫视,https://pi.0472.org/live/xjws.m3u8?token=240411
-海南卫视,https://pi.0472.org/live/hinws.m3u8?token=240411
 General,#genre#
 1+1 (1080p),https://ythls.armelin.one/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
 1Almere TV (720p),https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
