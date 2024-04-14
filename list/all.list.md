@@ -677,7 +677,7 @@
 | 671 | [VGA]animetv | [VGA animetv](https://epg.pw/stream/ccfd14419763f0813d46582fd5d6007a3c1e3501cb2d108e50b5a8ea62791e5e.m3u8) |
 | 672 | [VGA]ant1 cyprus | [VGA ant1 cyprus](https://epg.pw/stream/3622f1a0b2d458e256380a4f705ebe603627b05a0c5df6c988635a8f8ec11108.m3u8) |
 | 673 | [HD]antena 1 | [HD antena 1](https://epg.pw/stream/21d0ed1230c83efdab2ed36f3df0e3192d8148cc167153d1af17f64b28886470.m3u8) |
-| 674 | [BD]antv | [BD antv](https://epg.pw/stream/2cd9bc64279bee99f4a7d28632e82e19056aaed54bd08b830dbff9bb980b7f85.m3u8) |
+| 674 | [VGA]antv | [VGA antv](https://epg.pw/stream/3ecebb77c29170b671790b0e813cae979af09398c957d07c0850a7d8888692c4.m3u8) |
 | 675 | [BD]ard | [BD ard](https://epg.pw/stream/1d3073138b0dc0fb0dbbfeef03a234e16227959606454de0151a654adf46ca9c.m3u8) |
 | 676 | [BD]arena 3 sport | [BD arena 3 sport](https://epg.pw/stream/78017019278796f5c14c93b08d148831fb32a307bc7fc02edfde79c2038609b6.m3u8) |
 | 677 | [BD]arirangtv | [BD arirangtv](https://epg.pw/stream/894cdb50e0ca598eb8f69c7bf96b9fd6bb0e9fc551e90703d1602ce11e151288.m3u8) |
@@ -2333,4 +2333,4 @@
 | 2327 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 | 2328 | [BD]연합뉴스tv | [BD 연합뉴스tv](https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8) |
 
-Updated at **Sun Apr 14 2024 03:16:33 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Apr 14 2024 04:40:22 GMT+0000 (Coordinated Universal Time)**
