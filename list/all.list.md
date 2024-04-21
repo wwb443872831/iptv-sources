@@ -2362,4 +2362,4 @@
 | 2356 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 | 2357 | [BD]연합뉴스tv | [BD 연합뉴스tv](https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8) |
 
-Updated at **Sat Apr 20 2024 22:14:37 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Apr 21 2024 01:12:24 GMT+0000 (Coordinated Universal Time)**
