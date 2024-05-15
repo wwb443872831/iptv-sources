@@ -23,7 +23,7 @@
 | 17 | [BD]beach tv myrtle beach & the grand strand | [BD beach tv myrtle beach & the grand strand](https://epg.pw/stream/5d4a300b5857c8b363814c704aeb1f5c8101fdc10c25e148c6b9da6a90edcba9.m3u8) |
 | 18 | [HD]denver 8 tv | [HD denver 8 tv](https://epg.pw/stream/fe88b66619c9223b5ef5df90619d9b6265b05f6985179788611beaefdcc77931.m3u8) |
 | 19 | [BD]russia 1 | [BD russia 1](https://epg.pw/stream/525f7799ec8bb5970559f378fc296cbc2a0161799a1cc758fda9919030d32a8b.m3u8) |
-| 20 | [HD]tv rivne 1 | [HD tv rivne 1](https://epg.pw/stream/0e94f8c96cdf1ee6d7c7b1d81c5a41346f5a7ffe748b9ed3211f8b4461bf455c.m3u8) |
+| 20 | [VGA]tv rivne 1 | [VGA tv rivne 1](https://epg.pw/stream/0e94f8c96cdf1ee6d7c7b1d81c5a41346f5a7ffe748b9ed3211f8b4461bf455c.m3u8) |
 | 21 | [HD]jitv jogja | [HD jitv jogja](https://epg.pw/stream/30a92b2eb7ba3b203fc7cd4d9fcece6aa0c8ad25333e8fb6bd6e033249836b00.m3u8) |
 | 22 | [HD]geordie shore italy | [HD geordie shore italy](https://epg.pw/stream/3d19ef3f0430d500ef4b1602e7c76ecd449c53800bde350445a3f6267bd74ad5.m3u8) |
 | 23 | [HD]canal 24 horas | [HD canal 24 horas](https://epg.pw/stream/2977bda3b9a76a236999966469423689081263e135ffb3597945071b7ade4bc8.m3u8) |
@@ -1110,7 +1110,7 @@
 | 1104 | [HD]star channel 3 | [HD star channel 3](https://epg.pw/stream/d5be925db554f89fd5faae1df741e0b5d155bcbc48e545c9295e611f26b24959.m3u8) |
 | 1105 | [HD]star (720p) | [HD star (720p)](https://epg.pw/stream/f24adf3ae738b4720ff1599714fc3ba70607c0f3ceea78303f37d5b4aa1dcf0d.m3u8) |
 | 1106 | [BD]studio universal hd | [BD studio universal hd](https://epg.pw/stream/8ab1902ff8467408b107ee36e59937ccbc2291177d6de37a2c179f9b5453e0f0.ctv) |
-| 1107 | [HD]istv | [HD istv](https://epg.pw/stream/17df60c7176900a6638d68427be5484424b7de8bafdb2403e4c02a0b77a0239f.m3u8) |
+| 1107 | [SD]stv | [SD stv](https://epg.pw/stream/3ee504695cdd55a45eecf744740c8f81a8d8e690860f3199a5a33bcce7a477b6.ctv) |
 | 1108 | [HD]astro supersport 1_ stl | [HD astro supersport 1_ stl](https://epg.pw/stream/2ee3a82ea3a2c2b159fef24e6bfbd38ce7102a445f1e62c8108069b348fd34d4.ctv) |
 | 1109 | [HD]tastemade deutschland (720p) | [HD tastemade deutschland (720p)](https://epg.pw/stream/372cec4602bcfa4de18c42f1f3782bd24a0cf2d1a0f8576c107ad162780349e4.m3u8) |
 | 1110 | [HD]abai tv | [HD abai tv](https://epg.pw/stream/01d6c88a4a3c095dd372c6587ad2c84ac282394364c55452999cad6411088071.m3u8) |
@@ -2028,4 +2028,4 @@
 | 2022 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 | 2023 | [BD]연합뉴스tv | [BD 연합뉴스tv](https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8) |
 
-Updated at **Wed May 15 2024 20:19:12 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed May 15 2024 22:18:11 GMT+0000 (Coordinated Universal Time)**
