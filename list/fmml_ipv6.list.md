@@ -4,16 +4,16 @@
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
-| 1 | CCTV-1 综合 | [CCTV-1 综合](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8) |
-| 2 | CCTV-2 财经 | [CCTV-2 财经](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8) |
-| 3 | CCTV-3 综艺 | [CCTV-3 综艺](http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8) |
+| 1 | CCTV-1 综合 | [CCTV-1 综合](http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/1.m3u8) |
+| 2 | CCTV-2 财经 | [CCTV-2 财经](http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8) |
+| 3 | CCTV-3 综艺 | [CCTV-3 综艺](http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/1.m3u8) |
 | 4 | CCTV-4 中文国际 | [CCTV-4 中文国际](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8) |
-| 5 | CCTV-5 体育 | [CCTV-5 体育](http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8) |
-| 6 | CCTV-5+ 体育赛事 | [CCTV-5+ 体育赛事](http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225507/index.m3u8) |
-| 7 | CCTV-6 电影 | [CCTV-6 电影](http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8) |
-| 8 | CCTV-7 国防军事 | [CCTV-7 国防军事](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8) |
-| 9 | CCTV-8 电视剧 | [CCTV-8 电视剧](http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8) |
-| 10 | CCTV-9 纪录 | [CCTV-9 纪录](http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8) |
+| 5 | CCTV-5 体育 | [CCTV-5 体育](http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010145/1.m3u8) |
+| 6 | CCTV-5+ 体育赛事 | [CCTV-5+ 体育赛事](http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/1.m3u8) |
+| 7 | CCTV-6 电影 | [CCTV-6 电影](http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010214/1.m3u8) |
+| 8 | CCTV-7 国防军事 | [CCTV-7 国防军事](http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010215/1.m3u8) |
+| 9 | CCTV-8 电视剧 | [CCTV-8 电视剧](http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010216/1.m3u8) |
+| 10 | CCTV-9 纪录 | [CCTV-9 纪录](http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010217/1.m3u8) |
 | 11 | CCTV-10 科教 | [CCTV-10 科教](http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225677/index.m3u8) |
 | 12 | CCTV-11 戏曲 | [CCTV-11 戏曲](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8) |
 | 13 | CCTV-12 社会与法 | [CCTV-12 社会与法](http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8) |
@@ -75,7 +75,7 @@
 | 69 | 卡酷少儿 | [卡酷少儿](http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8) |
 | 70 | 金鹰卡通 | [金鹰卡通](http://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8) |
 | 71 | 金鹰纪实 | [金鹰纪实](http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4766929BESTVSMGSMG/index.m3u8?m3u8_level=2) |
-| 72 | 茶友频道 | [茶友频道](http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226808/index.m3u8) |
+| 72 | 茶友频道 | [茶友频道](http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729d8aca53/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRIdUCZxTtaM%2Bza0L7mJjkPMmnEhAf%2Bi68sKjzRCbPoTU0E%2B6Pia2CkRtxgPs8Tmw7I) |
 | 73 | 快乐垂钓 | [快乐垂钓](http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729b6002c4/index.m3u8?m3u8_level=2) |
 | 74 | 哒啵赛事 | [哒啵赛事](http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8) |
 | 75 | 哒啵电竞 | [哒啵电竞](http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281) |
@@ -124,11 +124,17 @@
 | 118 | 浙江民生 | [浙江民生](https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8) |
 | 119 | 浙江经济 | [浙江经济](https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8) |
 | 120 | 浙江钱江 | [浙江钱江](https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8) |
-| 121 | CGTN英语 | [CGTN英语](http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2) |
-| 122 | CGTN记录 | [CGTN记录](http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?m3u8_level=2) |
-| 123 | CGTN俄语 | [CGTN俄语](http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638071d299009/index.m3u8?m3u8_level=2) |
-| 124 | CGTN法语 | [CGTN法语](http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806fb631afe/index.m3u8?m3u8_level=2) |
-| 125 | CGTN西语 | [CGTN西语](http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f81c8eb5/index.m3u8?m3u8_level=2) |
-| 126 | CGTN阿语 | [CGTN阿语](http://livear.cgtn.com/1000a/prog_index.m3u8) |
+| 121 | 内蒙新闻 | [内蒙新闻](https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800) |
+| 122 | 内蒙经济 | [内蒙经济](https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800) |
+| 123 | 内蒙少儿 | [内蒙少儿](https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800) |
+| 124 | 内蒙文体 | [内蒙文体](https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800) |
+| 125 | 内蒙农牧 | [内蒙农牧](https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800) |
+| 126 | 蒙语卫视 | [蒙语卫视](https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880) |
+| 127 | CGTN英语 | [CGTN英语](http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2) |
+| 128 | CGTN记录 | [CGTN记录](http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?m3u8_level=2) |
+| 129 | CGTN俄语 | [CGTN俄语](http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638071d299009/index.m3u8?m3u8_level=2) |
+| 130 | CGTN法语 | [CGTN法语](http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806fb631afe/index.m3u8?m3u8_level=2) |
+| 131 | CGTN西语 | [CGTN西语](http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f81c8eb5/index.m3u8?m3u8_level=2) |
+| 132 | CGTN阿语 | [CGTN阿语](http://livear.cgtn.com/1000a/prog_index.m3u8) |
 
-Updated at **Wed May 15 2024 01:11:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed May 15 2024 02:31:31 GMT+0000 (Coordinated Universal Time)**
