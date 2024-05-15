@@ -508,7 +508,7 @@
 | 502 | [BD]pro tv news (1080p) | [BD pro tv news (1080p)](https://epg.pw/stream/ad3458a7730205e492d0bd0fefe005ceeaf73e74e91afa3611dd8236634339af.m3u8) |
 | 503 | [HD]euronews | [HD euronews](https://epg.pw/stream/1fea3b77534dbe1dc8cd996e0dcf934cff93a8d7ef1b4e69cdda3b15b1505d75.m3u8) |
 | 504 | [HD]euronews greek | [HD euronews greek](https://epg.pw/stream/d9ead41a0aa16c62e269007e77e6e80e4811bff14dc70d0eafd21cbd19efdc65.m3u8) |
-| 505 | [VGA]euronews | [VGA euronews](https://epg.pw/stream/30ba0a20b028ab44a76b19a5bb65ae52c6a0828821f746ce8eeb8c35ec034905.m3u8) |
+| 505 | [HD]euronews | [HD euronews](https://epg.pw/stream/30ba0a20b028ab44a76b19a5bb65ae52c6a0828821f746ce8eeb8c35ec034905.m3u8) |
 | 506 | [HD]euronews español | [HD euronews español](https://epg.pw/stream/2ea9ab407416dd7c05d75df5a7622aceb1c52ea045c984543455a7f59196bec0.m3u8) |
 | 507 | [HD]euronews english | [HD euronews english](https://epg.pw/stream/63ea86a01926017a8ef84abb2a3ce1fe31f5ce3c791dbcb4cde08a1602f005a0.m3u8) |
 | 508 | [HD]euronews português | [HD euronews português](https://epg.pw/stream/c6d3f410b0c5de912d41fb66e31ec22ff1ad39df6de26a714f763c96d4251425.m3u8) |
@@ -604,7 +604,7 @@
 | 598 | [BD]hbo family | [BD hbo family](https://epg.pw/stream/13bd8face5219b2990302cbc9c356639be35c19e2ef2f1025d2b1b24fac8ba07.m3u8) |
 | 599 | [BD]HBO Family | [BD HBO Family](https://epg.pw/stream/70062a29b9d40fee1d78bf83ea5ccde1f30b4b3be1804ff0dd668788fbc04c8c.ctv) |
 | 600 | [BD]hbo hd | [BD hbo hd](https://epg.pw/stream/5162df290b130096aac06875e8870f5098057e8f613d06e9106934581bfc402f.ctv) |
-| 601 | [SD]hbo hits tree | [SD hbo hits tree](https://epg.pw/stream/6a9d6485a532bf89d1e2125c76436bf8c1593c268f57ac64603dd6f875445321.ctv) |
+| 601 | [SD]hbo hits tree | [SD hbo hits tree](https://epg.pw/stream/ffa44ccdae9bc3ed8a25e565e1e95490d810ec4427a0d741176ad3dad22e3539.ctv) |
 | 602 | [VGA]plus | [VGA plus](https://epg.pw/stream/38d270a6b5979a0523aedca5ad02e0b2a72c0266259cc7f586f944ffe7398006.m3u8) |
 | 603 | [HD]hbo signature | [HD hbo signature](https://epg.pw/stream/dcb0c69b53eba7e7df96f497171131058977a48e74040c35e526d1f1b9ec813a.m3u8) |
 | 604 | [BD]HBO Signature | [BD HBO Signature](https://epg.pw/stream/b04d10d5b1b876c49b553e91ab4c0f467ef77480ce196f3e64ff3404519a6b80.ctv) |
@@ -1462,7 +1462,7 @@
 | 1456 | [HD]wild 'n out | [HD wild 'n out](https://epg.pw/stream/e7e7652d293b746926d18357cf094d94d6ef36789fe21a50676795885cc07d6d.m3u8) |
 | 1457 | [HD]workpoint tv | [HD workpoint tv](https://epg.pw/stream/7743045788634f547e973fb89641b9024095f5bf888924ec3d252284576cb84c.m3u8) |
 | 1458 | [HD]world fishing network | [HD world fishing network](https://epg.pw/stream/d618b2a068034ddd92efd5c9acf263575a62a9fb9a00ad6f73f7ebdb10deb9c0.m3u8) |
-| 1459 | [VGA]world poker tour | [VGA world poker tour](https://epg.pw/stream/c1b792fe98f2c9f6538d05bbd623e33732e290386bc85b76aa7f37ae148337b3.m3u8) |
+| 1459 | [HD]world poker tour | [HD world poker tour](https://epg.pw/stream/c1b792fe98f2c9f6538d05bbd623e33732e290386bc85b76aa7f37ae148337b3.m3u8) |
 | 1460 | [HD]yemen tv | [HD yemen tv](https://epg.pw/stream/5a9db609878db7a87f4e4c5b9b004de64bd078fe620a2cc1bb864653f7896ffd.ctv) |
 | 1461 | [HD]es tv (720p) | [HD es tv (720p)](https://epg.pw/stream/863c88d689c26f8458a1e66a3f59399d12c37977e4dfeb65d4285cb6ed7e896a.m3u8) |
 | 1462 | [BD]ytn2 (720p) [not 24/7] | [BD ytn2 (720p)  not 24/7](https://epg.pw/stream/fcfe7c81b8795f17623d3a927c93b96f24d4058fd59ed5413c9da1a314d40ba2.m3u8) |
@@ -2028,4 +2028,4 @@
 | 2022 | [BD]국악방송 | [BD 국악방송](https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8) |
 | 2023 | [BD]연합뉴스tv | [BD 연합뉴스tv](https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8) |
 
-Updated at **Wed May 15 2024 18:20:58 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed May 15 2024 20:19:12 GMT+0000 (Coordinated Universal Time)**
