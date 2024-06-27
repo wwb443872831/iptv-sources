@@ -1,4 +1,4 @@
-# List for **qwerttvv/Beijing-IPTV IPTV Mobile**
+# List for **qwerttvv/Beijing-IPTV IPTV Mobile**(Rollback)
 
 > M3U: [q_bj_iptv_mobile.m3u](/q_bj_iptv_mobile.m3u), TXT: [q_bj_iptv_mobile.txt](/txt/q_bj_iptv_mobile.txt)
 
@@ -151,4 +151,4 @@
 | 145 | 音乐现场 | [音乐现场](http://192.168.123.1:23234/rtp/228.1.1.151:4120) |
 | 146 | 魅力时尚 | [魅力时尚](http://192.168.123.1:23234/rtp/228.1.1.86:9012) |
 
-Updated at **Wed Jun 26 2024 00:42:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 27 2024 00:42:41 GMT+0000 (Coordinated Universal Time)**

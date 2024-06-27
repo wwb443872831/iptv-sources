@@ -1,4 +1,4 @@
-# List for **qwerttvv/Beijing-IPTV IPTV Unicom**
+# List for **qwerttvv/Beijing-IPTV IPTV Unicom**(Rollback)
 
 > M3U: [q_bj_iptv_unicom.m3u](/q_bj_iptv_unicom.m3u), TXT: [q_bj_iptv_unicom.txt](/txt/q_bj_iptv_unicom.txt)
 
@@ -136,4 +136,4 @@
 | 130 | 音乐现场 | [音乐现场](http://192.168.123.1:23234/rtp/239.3.1.70:4120) |
 | 131 | 魅力时尚 | [魅力时尚](http://192.168.123.1:23234/rtp/239.3.1.196:9012) |
 
-Updated at **Wed Jun 26 2024 00:42:26 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jun 27 2024 00:42:41 GMT+0000 (Coordinated Universal Time)**
