@@ -33,7 +33,7 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | fanmingming/live domainv6 | [fmml_dv6.m3u](/fmml_dv6.m3u) <br> [fmml_dv6.txt](/txt/fmml_dv6.txt) | [List for fanmingming/live domainv6](/list/fmml_dv6.list) | update failed | - |
 | fanmingming/live ipv6 | [fmml_ipv6.m3u](/fmml_ipv6.m3u) <br> [fmml_ipv6.txt](/txt/fmml_ipv6.txt) | [List for fanmingming/live ipv6](/list/fmml_ipv6.list) | update failed | - |
 | fanmingming/live v6 | [fmml_v6.m3u](/fmml_v6.m3u) <br> [fmml_v6.txt](/txt/fmml_v6.txt) | [List for fanmingming/live v6](/list/fmml_v6.list) | update failed | - |
-| YueChan-Live IPTV | [ycl_iptv.m3u](/ycl_iptv.m3u) <br> [ycl_iptv.txt](/txt/ycl_iptv.txt) | [List for YueChan-Live IPTV](/list/ycl_iptv.list) | update failed | - |
+| YueChan-Live IPTV | [ycl_iptv.m3u](/ycl_iptv.m3u) <br> [ycl_iptv.txt](/txt/ycl_iptv.txt) | [List for YueChan-Live IPTV](/list/ycl_iptv.list) | 100 | ✅ |
 | YanG-1989 Gather | [y_g.m3u](/y_g.m3u) <br> [y_g.txt](/txt/y_g.txt) | [List for YanG-1989 Gather](/list/y_g.list) | update failed | - |
 | iptv.org All | [o_all.m3u](/o_all.m3u) <br> [o_all.txt](/txt/o_all.txt) | [List for iptv.org All](/list/o_all.list) | update failed | - |
 | iptv.org China | [o_cn.m3u](/o_cn.m3u) <br> [o_cn.txt](/txt/o_cn.txt) | [List for iptv.org China](/list/o_cn.list) | update failed | - |
@@ -58,10 +58,10 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | 112114.xyz | [112114_xyz.xml](/epg/112114_xyz.xml) | - |
 | fanmingming/live | [fmml.xml](/epg/fmml.xml) | update failed |
 | 51zmt.top | [51zmt.xml](/epg/51zmt.xml) | - |
-| 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | - |
+| 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | update failed |
 | 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | - |
 
-Updated at **Sat May 24 2025 00:57:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun May 25 2025 01:05:34 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
