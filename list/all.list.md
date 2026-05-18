@@ -23,16 +23,15 @@
 | 17 | [HD]momo综合 | [HD momo综合](rtmp://f13h.mine.nu/sat/tv761) |
 | 18 | [BD]黔南 | [BD 黔南](rtmp://tv.qntv.net/channellive/ch1) |
 | 19 | [BD]cartoon head tv 5 | [BD cartoon head tv 5](rtmp://vkvsd254.okcdn.ru/playback/13579930184561?stkn=ZNzANBd1DgzBAnlORAm2BoUCCTtMVMrjyruaxwiXSoeOvZXk9ciYjkgomnoAjIshsv2j7U6rfJhC&uid=0&sp=uid,sp&sig=vlibqm4nyu) |
-| 20 | [VGA]中天新闻 | [VGA 中天新闻](rtmp://home.aceimage.cn/live/xiangjiaoge-ztxw) |
-| 21 | [HD]中视 | [HD 中视](rtmp://f13h.mine.nu/sat/tv091) |
-| 22 | [HD]内江新闻 | [HD 内江新闻](rtmp://njzb.scnj.tv:1938/live/xwzh_xwzh800) |
-| 23 | [HD]台视 | [HD 台视](rtmp://f13h.mine.nu:1935/sat/tv071) |
-| 24 | [HD]东森超视 | [HD 东森超视](rtmp://f13h.mine.nu/sat/tv331) |
-| 25 | [HD]民视 | [HD 民视](rtmp://f13h.mine.nu/sat/tv051) |
-| 26 | [HD]纬来日本 | [HD 纬来日本](rtmp://f13h.mine.nu/sat/tv771) |
-| 27 | [HD]纬来育乐 | [HD 纬来育乐](rtmp://f13h.mine.nu/sat/tv701) |
-| 28 | [HD]纬来体育 | [HD 纬来体育](rtmp://f13h.mine.nu/sat/tv721) |
-| 29 | [HD]华视 | [HD 华视](rtmp://f13h.mine.nu/sat/tv111) |
-| 30 | [HD]非凡新闻 | [HD 非凡新闻](rtmp://f13h.mine.nu/sat/tv581) |
+| 20 | [HD]中视 | [HD 中视](rtmp://f13h.mine.nu/sat/tv091) |
+| 21 | [HD]内江新闻 | [HD 内江新闻](rtmp://njzb.scnj.tv:1938/live/xwzh_xwzh800) |
+| 22 | [HD]台视 | [HD 台视](rtmp://f13h.mine.nu:1935/sat/tv071) |
+| 23 | [HD]东森超视 | [HD 东森超视](rtmp://f13h.mine.nu/sat/tv331) |
+| 24 | [HD]民视 | [HD 民视](rtmp://f13h.mine.nu/sat/tv051) |
+| 25 | [HD]纬来日本 | [HD 纬来日本](rtmp://f13h.mine.nu/sat/tv771) |
+| 26 | [HD]纬来育乐 | [HD 纬来育乐](rtmp://f13h.mine.nu/sat/tv701) |
+| 27 | [HD]纬来体育 | [HD 纬来体育](rtmp://f13h.mine.nu/sat/tv721) |
+| 28 | [HD]华视 | [HD 华视](rtmp://f13h.mine.nu/sat/tv111) |
+| 29 | [HD]非凡新闻 | [HD 非凡新闻](rtmp://f13h.mine.nu/sat/tv581) |
 
-Updated at **Sun May 17 2026 02:12:44 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon May 18 2026 02:34:43 GMT+0000 (Coordinated Universal Time)**
