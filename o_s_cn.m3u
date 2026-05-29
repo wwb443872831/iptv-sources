@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AndoTV.cn@SD",Ando TV (1080p)
+http://play.kankanlive.com/live/1711956137852982.m3u8
+#EXTINF:-1 tvg-id="AnshunComprehensiveNewsChannel.cn@SD",Anshun Comprehensive News Channel
+https://hplayer1.juyun.tv/camera/154379194.m3u8
+#EXTINF:-1 tvg-id="",Beijing Traffic Radio TV
+http://123.56.24.28:1935/live/fm1039/96K/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="",Beijing Youth Radio
+http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="BingtuanSatelliteTV.cn@SD",Bingtuan Satellite TV
+http://49.113.179.174:4022/udp/238.125.4.13:5140
+#EXTINF:-1 tvg-id="BreadTV.cn@SD",Bread TV面包台 (720p)
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 tvg-id="BRTVKakuChildrensChannel.cn@SD",BRTV Kaku Childrens Channel
+http://49.113.179.174:4022/udp/238.125.2.216:5140
+#EXTINF:-1 tvg-id="BRTVScienceEducationChannel.cn@SD",BRTV Science & Education Channel
+http://49.113.179.174:4022/udp/238.125.3.121:5140
+#EXTINF:-1 tvg-id="BeijingSatelliteTV.cn@HD",BRTV 北京卫视 (1080p)
+http://go.bkpcp.top/mg/bjws
+#EXTINF:-1 tvg-id="BeijingSatelliteTV.cn@SD",BRTV 北京卫视
+http://ivi.bupt.edu.cn/hls/btv1.m3u8
