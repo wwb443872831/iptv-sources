@@ -15,4 +15,4 @@
 | 9 | BRTV 北京卫视 (1080p) | [BRTV 北京卫视 (1080p)](http://go.bkpcp.top/mg/bjws) |
 | 10 | BRTV 北京卫视 | [BRTV 北京卫视](http://ivi.bupt.edu.cn/hls/btv1.m3u8) |
 
-Updated at **Sun May 31 2026 02:39:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jun 01 2026 02:48:56 GMT+0000 (Coordinated Universal Time)**
