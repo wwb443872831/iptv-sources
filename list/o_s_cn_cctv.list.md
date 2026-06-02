@@ -20,4 +20,4 @@
 | 14 | CCTV-Culture of Quality (1080p) | [CCTV-Culture of Quality (1080p)](http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub) |
 | 15 | CCTV-Storm Football (1080p) | [CCTV-Storm Football (1080p)](http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub) |
 
-Updated at **Mon Jun 01 2026 02:48:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 02 2026 02:46:15 GMT+0000 (Coordinated Universal Time)**
