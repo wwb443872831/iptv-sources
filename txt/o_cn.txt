@@ -41,14 +41,6 @@ Jiangxi Economy & Life Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_
 Entertainment,#genre#
 CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
 
-Sports,#genre#
-CCTV-5 (1080p),http://192.151.150.154/live/cctv5hd.m3u8
-CCTV-5+ (720p),http://192.151.150.154/live/cctv5p.m3u8
-CCTV-16 (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
-CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
-CCTV-Golf & Tennis (1080p),http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-CCTV-Storm Football (1080p),http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
-
 Movies,#genre#
 CCTV-6 (1080p),http://198.204.240.250:82/live/cctv6.m3u8
 CCTV-Storm Theater (1080p),http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
@@ -83,6 +75,12 @@ CCTV-Health (1080p),http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 CCTV-Women's Fashion (1080p),http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 Jilin City Channel,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8
 Jilin Lifestyle Channel,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8
+
+Sports,#genre#
+CCTV-16 (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+CCTV-Golf & Tennis (1080p),http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+CCTV-Storm Football (1080p),http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 
 Education;Outdoor,#genre#
 CCTV-17 (1080p),http://74.91.26.218:82/live/cctv17hd.m3u8
