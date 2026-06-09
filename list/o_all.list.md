@@ -4341,4 +4341,4 @@
 | 4335 | Футбол (720p) | [Футбол (720p)](http://31.148.48.15/Futbol_HD/index.m3u8) |
 | 4336 | Херсон Плюс (576p) | [Херсон Плюс (576p)](http://46.175.163.130/ks_plus/index.m3u8) |
 
-Updated at **Mon Jun 08 2026 02:46:46 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jun 09 2026 02:13:44 GMT+0000 (Coordinated Universal Time)**
