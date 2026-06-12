@@ -18,10 +18,10 @@
 | 12 | CCTV-2 (720p) | [CCTV-2 (720p)](http://74.91.26.218:82/live/cctv2hd.m3u8) |
 | 13 | CCTV-3 (720p) | [CCTV-3 (720p)](http://74.91.26.218:82/live/cctv3hd.m3u8) |
 | 14 | CCTV-4K (1080p) | [CCTV-4K (1080p)](http://198.204.240.250:82/live/cctv4k.m3u8) |
-| 15 | CCTV-6 (1080p) | [CCTV-6 (1080p)](http://198.204.240.250:82/live/cctv6.m3u8) |
+| 15 | CCTV-6 (1080p) | [CCTV-6 (1080p)](http://69.30.245.50/live/cctv6.m3u8) |
 | 16 | CCTV-7 (720p) | [CCTV-7 (720p)](http://74.91.26.218:82/live/cctv7hd.m3u8) |
 | 17 | CCTV-8 (720p) | [CCTV-8 (720p)](http://74.91.26.218:82/live/cctv8hd.m3u8) |
-| 18 | CCTV-8K (1080p) | [CCTV-8K (1080p)](http://198.204.240.250:82/live/cctv8k.m3u8) |
+| 18 | CCTV-8K (1080p) | [CCTV-8K (1080p)](http://192.151.150.154/live/cctv8k.m3u8) |
 | 19 | CCTV-9 (576i) | [CCTV-9 (576i)](https://xykt-fix.github.io/Y77.m3u8) |
 | 20 | CCTV-10 (720p) | [CCTV-10 (720p)](http://74.91.26.218:82/live/cctv10hd.m3u8) |
 | 21 | CCTV-11 (720p) | [CCTV-11 (720p)](http://74.91.26.218:82/live/cctv11hd.m3u8) |
@@ -50,7 +50,7 @@
 | 44 | Guangzhou TV | [Guangzhou TV](https://tencentplaybusiness.gztv.com/live/zonghes.m3u8) |
 | 45 | Harbin Comprehensive News Channel | [Harbin Comprehensive News Channel](https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594) |
 | 46 | Harbin Movie Channel | [Harbin Movie Channel](https://stream.hrbtv.net/yspd/playlist.m3u8) |
-| 47 | Hebei TV (2160p) | [Hebei TV (2160p)](https://event.pull.hebtv.com:443/live/live101.m3u8) |
+| 47 | Hebei TV (2160p) | [Hebei TV (2160p)](https://event.pull.hebtv.com/live/live101.m3u8) |
 | 48 | Home Plus | [Home Plus](https://homeplushls.wns.live/hls/stream.m3u8) |
 | 49 | Hunan TV (2160p) | [Hunan TV (2160p)](http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8) |
 | 50 | Jiangxi Children's Channel | [Jiangxi Children's Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8) |
@@ -65,4 +65,4 @@
 | 59 | Liangshan TV [Not 24/7] | [Liangshan TV  Not 24/7](http://118.122.2.29:9999/hls/47/index.m3u8) |
 | 60 | Nanchang News & Generalist Channel | [Nanchang News & Generalist Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8) |
 
-Updated at **Thu Jun 11 2026 02:47:13 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Jun 12 2026 02:43:46 GMT+0000 (Coordinated Universal Time)**
