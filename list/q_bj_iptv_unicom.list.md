@@ -136,4 +136,4 @@
 | 130 | 嘉佳卡通 | [嘉佳卡通](http://192.168.123.1:23234/rtp/239.3.1.147:9268) |
 | 131 | 山东教育 | [山东教育](http://192.168.123.1:23234/rtp/239.3.1.52:4120) |
 
-Updated at **Sat Jun 27 2026 02:27:40 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jun 28 2026 02:40:03 GMT+0000 (Coordinated Universal Time)**
