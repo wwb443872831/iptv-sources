@@ -6416,4 +6416,4 @@
 | 6410 | 黑龙江卫 (1080p) | [黑龙江卫 (1080p)](http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv) |
 | 6411 | 黑龙江卫视 (2160p) | [黑龙江卫视 (2160p)](http://118.81.195.79:9003/hls/31/index.m3u8) |
 
-Updated at **Sun Jun 28 2026 02:40:04 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jun 29 2026 02:40:43 GMT+0000 (Coordinated Universal Time)**

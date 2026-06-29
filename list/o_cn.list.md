@@ -65,4 +65,4 @@
 | 59 | Liangshan TV [Not 24/7] | [Liangshan TV  Not 24/7](http://118.122.2.29:9999/hls/47/index.m3u8) |
 | 60 | Nanchang News & Generalist Channel | [Nanchang News & Generalist Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8) |
 
-Updated at **Sun Jun 28 2026 02:40:03 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jun 29 2026 02:40:41 GMT+0000 (Coordinated Universal Time)**
