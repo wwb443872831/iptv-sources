@@ -4,10 +4,10 @@
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
-| 1 | 免费订阅：请勿贩卖... | [免费订阅：请勿贩卖...](https://epg.yang-1989.eu.org/v/302.mp4) |
-| 2 | 维护时间：2025-1-15#佛系维护... | [维护时间：2025-1-15#佛系维护...](https://epg.yang-1989.eu.org/v/301.mp4) |
-| 3 | 维护内容：维护 Gather「删除 •IPV6 源」 | [维护内容：维护 Gather「删除 •IPV6 源」](https://epg.yang-1989.eu.org/v/302.mp4) |
-| 4 | 公告说明：IPV6 暂无 | [公告说明：IPV6 暂无](https://epg.yang-1989.eu.org/v/301.mp4) |
+| 1 | 免费订阅：请勿贩卖... | [免费订阅：请勿贩卖...](https://material.yang-1989.xyz/v/302.mp4) |
+| 2 | 维护时间：2025-1-15#佛系维护... | [维护时间：2025-1-15#佛系维护...](https://material.yang-1989.xyz/v/301.mp4) |
+| 3 | 维护内容：维护 Gather「删除 •IPV6 源」 | [维护内容：维护 Gather「删除 •IPV6 源」](https://material.yang-1989.xyz/v/302.mp4) |
+| 4 | 公告说明：IPV6 暂无 | [公告说明：IPV6 暂无](https://material.yang-1989.xyz/v/301.mp4) |
 | 5 | 晴彩广场舞「移动」 | [晴彩广场舞「移动」](http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989) |
 | 6 | 晴彩少年「移动」 | [晴彩少年「移动」](http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989) |
 | 7 | 晴彩竞技「移动」 | [晴彩竞技「移动」](http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989) |
@@ -134,4 +134,4 @@
 | 128 | 猫和老鼠「动漫」 | [猫和老鼠「动漫」](https://cdn-3.ttvb.eu.org/huya/11352879) |
 | 129 | 中华小当家「动漫」 | [中华小当家「动漫」](https://cdn-3.ttvb.eu.org/huya/11342413) |
 
-Updated at **Fri Jul 03 2026 02:05:55 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Jul 04 2026 02:03:52 GMT+0000 (Coordinated Universal Time)**
