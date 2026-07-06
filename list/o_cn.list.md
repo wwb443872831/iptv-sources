@@ -47,22 +47,23 @@
 | 41 | CETV1 (576p) | [CETV1 (576p)](http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV) |
 | 42 | CETV2 (576p) | [CETV2 (576p)](http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV) |
 | 43 | Chifeng Comprehensive News Chanel | [Chifeng Comprehensive News Chanel](http://play1-qk.nmtv.cn/live/1735546697341033.m3u8) |
-| 44 | Guangzhou TV | [Guangzhou TV](https://tencentplaybusiness.gztv.com/live/zonghes.m3u8) |
-| 45 | Harbin Comprehensive News Channel | [Harbin Comprehensive News Channel](https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594) |
-| 46 | Harbin Movie Channel | [Harbin Movie Channel](https://stream.hrbtv.net/yspd/playlist.m3u8) |
-| 47 | Hebei TV (2160p) | [Hebei TV (2160p)](https://event.pull.hebtv.com/live/live101.m3u8) |
-| 48 | Home Plus | [Home Plus](https://homeplushls.wns.live/hls/stream.m3u8) |
-| 49 | Hunan TV (2160p) | [Hunan TV (2160p)](http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8) |
-| 50 | Jiangxi Children's Channel | [Jiangxi Children's Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8) |
-| 51 | Jiangxi City Channel | [Jiangxi City Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8) |
-| 52 | Jiangxi Economy & Life Channel | [Jiangxi Economy & Life Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8) |
-| 53 | Jiangxi Movie Channel | [Jiangxi Movie Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8) |
-| 54 | Jiangxi Public & Agriculture Channel | [Jiangxi Public & Agriculture Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.m3u8) |
-| 55 | Jilin City Channel | [Jilin City Channel](https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8) |
-| 56 | Jilin Lifestyle Channel | [Jilin Lifestyle Channel](https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8) |
-| 57 | Jilin Movie Channel | [Jilin Movie Channel](https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8) |
-| 58 | Jilin Rural Channel | [Jilin Rural Channel](https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8) |
-| 59 | Liangshan TV [Not 24/7] | [Liangshan TV  Not 24/7](http://118.122.2.29:9999/hls/47/index.m3u8) |
-| 60 | Nanchang News & Generalist Channel | [Nanchang News & Generalist Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8) |
+| 44 | CND Film Middle School Channel | [CND Film Middle School Channel](http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8) |
+| 45 | Guangzhou TV | [Guangzhou TV](https://tencentplaybusiness.gztv.com/live/zonghes.m3u8) |
+| 46 | Harbin Comprehensive News Channel | [Harbin Comprehensive News Channel](https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594) |
+| 47 | Harbin Movie Channel | [Harbin Movie Channel](https://stream.hrbtv.net/yspd/playlist.m3u8) |
+| 48 | Hebei TV (2160p) | [Hebei TV (2160p)](https://event.pull.hebtv.com/live/live101.m3u8) |
+| 49 | Home Plus | [Home Plus](https://homeplushls.wns.live/hls/stream.m3u8) |
+| 50 | Hunan TV (2160p) | [Hunan TV (2160p)](http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8) |
+| 51 | Jiangxi Children's Channel | [Jiangxi Children's Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8) |
+| 52 | Jiangxi City Channel | [Jiangxi City Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8) |
+| 53 | Jiangxi Economy & Life Channel | [Jiangxi Economy & Life Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8) |
+| 54 | Jiangxi Movie Channel | [Jiangxi Movie Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8) |
+| 55 | Jiangxi Public & Agriculture Channel | [Jiangxi Public & Agriculture Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.m3u8) |
+| 56 | Jilin City Channel | [Jilin City Channel](https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8) |
+| 57 | Jilin Lifestyle Channel | [Jilin Lifestyle Channel](https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8) |
+| 58 | Jilin Movie Channel | [Jilin Movie Channel](https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8) |
+| 59 | Jilin Rural Channel | [Jilin Rural Channel](https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8) |
+| 60 | Liangshan TV [Not 24/7] | [Liangshan TV  Not 24/7](http://118.122.2.29:9999/hls/47/index.m3u8) |
+| 61 | Nanchang News & Generalist Channel | [Nanchang News & Generalist Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8) |
 
-Updated at **Sun Jul 05 2026 02:12:12 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jul 06 2026 02:24:03 GMT+0000 (Coordinated Universal Time)**
