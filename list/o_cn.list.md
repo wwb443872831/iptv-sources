@@ -47,7 +47,7 @@
 | 41 | CETV1 (576p) | [CETV1 (576p)](http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV) |
 | 42 | CETV2 (576p) | [CETV2 (576p)](http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV) |
 | 43 | Chifeng Comprehensive News Chanel | [Chifeng Comprehensive News Chanel](http://play1-qk.nmtv.cn/live/1735546697341033.m3u8) |
-| 44 | CND Film Middle School Channel | [CND Film Middle School Channel](http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8) |
+| 44 | CND Film Middle School Channel | [CND Film Middle School Channel](http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?A=&E=&K=&P=&S=&U=) |
 | 45 | Guangzhou TV | [Guangzhou TV](https://tencentplaybusiness.gztv.com/live/zonghes.m3u8) |
 | 46 | Harbin Comprehensive News Channel | [Harbin Comprehensive News Channel](https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594) |
 | 47 | Harbin Movie Channel | [Harbin Movie Channel](https://stream.hrbtv.net/yspd/playlist.m3u8) |
@@ -153,4 +153,4 @@
 | 147 | 鹤壁新闻综合 (480p) [Not 24/7] | [鹤壁新闻综合 (480p)  Not 24/7](http://pili-live-hls.hebitv.com/hebi/hebi.m3u8) |
 | 148 | 黑龙江卫视 (2160p) | [黑龙江卫视 (2160p)](http://118.81.195.79:9003/hls/31/index.m3u8) |
 
-Updated at **Mon Jul 13 2026 01:56:45 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 14 2026 01:43:38 GMT+0000 (Coordinated Universal Time)**
