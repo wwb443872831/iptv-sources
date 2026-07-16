@@ -66,7 +66,7 @@
 | 60 | Liangshan TV [Not 24/7] | [Liangshan TV  Not 24/7](http://118.122.2.29:9999/hls/47/index.m3u8) |
 | 61 | Nanchang News & Generalist Channel | [Nanchang News & Generalist Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8) |
 | 62 | Nei Monggol TV (1080i) [Not 24/7] | [Nei Monggol TV (1080i)  Not 24/7](http://play1-qk.nmtv.cn/live/1769652018126032.m3u8) |
-| 63 | Nei Monggol TV 2 Mongolian Culture Channel | [Nei Monggol TV 2 Mongolian Culture Channel](http://1.24.190.98:10080/hls/40/index.m3u8) |
+| 63 | Nei Monggol TV 2 Mongolian Culture Channel (1080i) [Not 24/7] | [Nei Monggol TV 2 Mongolian Culture Channel (1080i)  Not 24/7](http://play1-qk.nmtv.cn/live/1769652109096027.m3u8) |
 | 64 | QTV-1 | [QTV-1](http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8) |
 | 65 | QTV-2 | [QTV-2](http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8) |
 | 66 | QTV-3 | [QTV-3](http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8) |
@@ -153,4 +153,4 @@
 | 147 | 鹤壁新闻综合 (480p) [Not 24/7] | [鹤壁新闻综合 (480p)  Not 24/7](http://pili-live-hls.hebitv.com/hebi/hebi.m3u8) |
 | 148 | 黑龙江卫视 (2160p) | [黑龙江卫视 (2160p)](http://118.81.195.79:9003/hls/31/index.m3u8) |
 
-Updated at **Wed Jul 15 2026 01:29:34 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Jul 16 2026 01:49:49 GMT+0000 (Coordinated Universal Time)**
