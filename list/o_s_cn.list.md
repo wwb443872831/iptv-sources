@@ -25,4 +25,4 @@
 | 19 | CCTV-9 (576i) | [CCTV-9 (576i)](https://xykt-fix.github.io/Y77.m3u8) |
 | 20 | CCTV-10 (720p) | [CCTV-10 (720p)](http://74.91.26.218:82/live/cctv10hd.m3u8) |
 
-Updated at **Mon Jul 20 2026 03:01:25 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Jul 21 2026 01:51:42 GMT+0000 (Coordinated Universal Time)**
