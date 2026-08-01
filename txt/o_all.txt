@@ -577,7 +577,7 @@ CVA TV (480p) [Not 24/7],http://190.124.161.21:8086/cvatv/live.m3u8
 CVN TV,https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8
 CVTV Channel 192 (1080p),https://livestream.telvue.com/cvtv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 CVTV Channel 194 (1080p),https://livestream.telvue.com/cvtv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-CW (720p),https://gpuserver3.tier1streams.com/CW/index.m3u8
+CW (1080p),https://messi.damitv.st/papi/ts/cw-usa/playlist.m3u8
 Đà Nẵng TV1 (1080p) [Not 24/7],https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
 Đà Nẵng TV2 (1080p) [Not 24/7],https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
 Del Pueblo TV [Not 24/7],https://vdopanel.jlahozconsulting.com:3869/hybrid/play.m3u8
@@ -873,6 +873,7 @@ Little Guyana TV (1080p),https://video1.getstreamhosting.com:1936/8122/8122/play
 Littleton 8 TV (Littleton CO) (1080p),https://ch8.littletongov.org/live-2/live/live.m3u8
 Litus TV (720p),https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
 LOE TV (720p),https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8
+Lombardia TV,https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
 Lompoc TAP TV Channel 24 (720p),https://livestream.telvue.com/lompoccmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 Lompoc TAP TV Channel 25 (720p),https://livestream.telvue.com/lompoccmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 Longino TV,https://cloud2.streaminglivehd.com:1936/longinotv-1/longinotv-1/playlist.m3u8
@@ -1314,11 +1315,11 @@ Telefe Interior (720p),http://200.91.32.158:8080/telefehdvalle/index.m3u8
 Telefuturo (480p) [Not 24/7],http://190.122.104.210:5080/LiveApp/streams/tfuturo.m3u8
 Telemetro (720p),http://181.78.121.15:8000/play/a001/index.m3u8
 Telemetro TV [Not 24/7],https://streamunoapp.com:3366/live/telemetrolive.m3u8
-Telemundo (720p),http://170.254.17.2:80/TELEMUNDO/index.m3u8
+Telemundo (1080p),http://45.190.13.8/TelemundoHD/index.m3u8
 Telemundo Al Dia,https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
 Telemundo Internacional (1080p),http://138.121.15.230:9002/TELEMUNDO/index.m3u8
 Telemundo Internacional Central America (1080p),http://190.60.46.156:8089/TELEMUNDO/index.m3u8
-Telemundo West (720p),http://181.119.108.43:9001/play/a044/index.m3u8
+Telemundo West (1080p),https://messi.damitv.st/papi/ts/telemundo-usa/playlist.m3u8
 Telenord 8 (1080p) [Not 24/7],https://fox.hostlagarto.com:8081/telenord8/playlist.m3u8
 Telenord 10 (720p) [Not 24/7],https://fox.hostlagarto.com:8081/telenord10/playlist.m3u8
 Telenord 12 (720p) [Not 24/7],https://fox.hostlagarto.com:8081/telenord12/playlist.m3u8
@@ -1770,6 +1771,7 @@ Canal 3 Formosa,https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8
 Canal 3 La Pampa (1080p),https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 Canal 3 Las Heras (720p),https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 Canal 3 Pinamar,http://intelincloud01.com.ar/hls/cn3/index.m3u8
+Canal 4 Esquel,https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 Canal 4 Jujuy,https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 Canal 4 Mancha Centro (720p) [Not 24/7],https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
 Canal 4 Posadas (576p),https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
@@ -3021,7 +3023,7 @@ Xtreme Outdoor by HISTORY,https://jmp2.uk/plu-6000a6f4c3f8550008fc9b91.m3u8
 Xtreme Outdoor Presented by HISTORY (720p),https://dxagbr7yc4m1d.cloudfront.net/v1/aenetworks_skills_thrills_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 Y'a Que La Vérité Qui Compte La Chaîne (1080p),https://rakutenaa-fastmedia-yaquelaverite-rakuten-81p2x.amagi.tv/playlist/rakutenAA-fastmedia-yaquelaverite-rakuten/playlist.m3u8
 Yahoo! Sports Network (1080p),https://d7vulbd7rxo7j.cloudfront.net/Yahoo_Sports_Network.m3u8
-Yazd,https://ncdn.telewebion.ir/taban/live/playlist.m3u8
+Yazd TV,http://89.45.60.82/0.ts
 Yemen Today TV (480p),https://video.yementdy.tv/hls/yementoday.m3u8
 Yemen TV (480p),https://live.yementv.tv/memfs/c8fe49a3-b1ca-4d14-9d78-498e8bad4f76_fast_output_0.m3u8
 Zee Nung (1080p),https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
@@ -4904,7 +4906,7 @@ Adhyatm TV (720p),https://mumbai-edge.smartplaytv.in/AdhyatmTV/index.m3u8
 Adoram TV (720p),https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8
 Agape TV (720p),https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 Aghapy TV (1080p) [Not 24/7],https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
-Ahlulbayt TV (1080p) [Not 24/7],https://cdn5.iqsat.net/iqb02/35fae546b99b61a038d52353487e8190.sdp/playlist.m3u8
+Ahlulbayt TV (1080p),https://cd198.anystream.uk:8082/hls/abtv3ng/index.m3u8
 Ahsan TV,https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
 Akaal Channel (396p),https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
 Al Sunnah Al Nabawiyah TV (1080p),https://aloula-redirect.vercel.app/6/playlist.m3u8
@@ -5057,7 +5059,7 @@ Ishwar Bhakti TV (720p),https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive
 Islam Channel (576p) [Not 24/7],https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
 Islam Channel Urdu (576p),https://live-islamtv-urdu.simplestreamcdn.com/live13/islamtv_urdu/bitrate1.isml/live.m3u8
 It Is Written TV (1080p),https://itiswrittentv.akamaized.net/xR8gyATuHMVx69u9G79DXnpNRL/playlist.m3u8
-It's Supernatural! Network (ISN Network) (1080p),https://content.uplynk.com/channel/fbc0f835332e476397b12216f9042f78.m3u8
+It's Supernatural! Network (1080p),https://content.uplynk.com/channel/b880a791bf95426d917a509e0c44796a.m3u8
 Izzah TV (480p),https://streaming.radiosalamjambi.com/izzahtv.m3u8
 Jaya TV (480p),https://edge3-moblive.yuppcdn.net/drm/smil:jayamagatvdrm.smil/index.m3u8
 JBN Canal 39 (720p) [Not 24/7],https://hdbox.chunklistv.com/live?stream=jbn39
@@ -5469,7 +5471,7 @@ Multivisión Sports (720p) [Not 24/7],https://stream.digitalgt.com:3605/live/mul
 N Sports (1080p),https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
 NESN (720p),http://23.237.104.106:8080/USA_NESN/index.m3u8
 NFL Channel (1080p),https://pb-we3ltka9xobj6.akamaized.net/master.m3u8
-NFL Network (720p),http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
+NFL Network (1080p),https://messi.damitv.st/papi/ts/nflnetwork-usa/playlist.m3u8
 NHL Network (1080p),https://nhl-firetv.amagi.tv/playlist.m3u8
 NHRA TV (1080p),https://d265y4sk8257lt.cloudfront.net/nh.m3u8
 Okko Futbol (1080p),http://stream.mcquack.net/491/index.m3u8
@@ -6099,6 +6101,11 @@ Ishtar TV (1080p),https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
 Documentary;Entertainment,#genre#
 Jail,https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8
 
+Culture;Religious,#genre#
+JTBS Classic (480p),https://jtbsclassic.dpdns.org/live.m3u8
+Sanskar TV (1080p),https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
+Telepace 2 (1080p),https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8
+
 Animation;Entertainment,#genre#
 Kanade (1080p),https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
 
@@ -6210,10 +6217,6 @@ RiC (1080p),https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
 
 Entertainment;Interactive,#genre#
 RMC Life (1080p),http://145.239.5.177/333/index.m3u8
-
-Culture;Religious,#genre#
-Sanskar TV (1080p),https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
-Telepace 2 (1080p),https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8
 
 Music;Religious,#genre#
 Spirit TV (720p) [Not 24/7],https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
