@@ -39,7 +39,7 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 纪实人文 (1080p),http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
 西安丝路 (404p) [Not 24/7],http://stream2.xiancity.cn/xatv5/playlist.m3u8
 重庆卫视 (1080p),http://118.81.195.79:9003/hls/22/index.m3u8
-青海卫视 (1080p),http://live.geermurmt.com/qhws/sd/live.m3u8
+青海卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
 高台电视台 (1080p),http://117.156.28.119/270000001111/1110000146/index.m3u8
 
 News,#genre#
@@ -47,7 +47,7 @@ Anshun Comprehensive News Channel,https://hplayer1.juyun.tv/camera/154379194.m3u
 CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 CCTV-13 (1080p),http://go.bkpcp.top/mg/cctv13
-CCTV-13 (1080p),https://cdn3.163189.xyz/163189/cctv13
+CCTV-13 (720p),http://74.91.26.218:82/live/cctv13hd.m3u8
 Chifeng Comprehensive News Chanel,http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
 Harbin Comprehensive News Channel,https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
 Lanzhou Comprehensive News Channel,https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
@@ -77,9 +77,7 @@ Liangshan TV [Not 24/7],http://118.122.2.29:9999/hls/47/index.m3u8
 Nanchang News & Generalist Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8
 QTV-4,http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 QTV-5,http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
-Shaanxi Satelital TV,http://stream.snrtv.com/sxbc-star-cdxWY0.m3u8
 Siping TV,http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
-STV City,http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1
 TV BRICS Chinese (1080p),https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist.m3u8
 东方卫视 (2160p),http://118.81.195.79:9003/hls/23/index.m3u8
 云南卫视 (1080p),https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
@@ -88,7 +86,6 @@ TV BRICS Chinese (1080p),https://chibrics.mediacdn.ru/cdn/brics/chinese/playlist
 和政电视台,http://117.156.28.119/270000001111/1110000149/index.m3u8
 山东卫视 (720p),http://125.210.152.18:9090/live/SDWSHD_H265.m3u8
 广西卫视 (576p),http://118.81.195.79:9003/hls/27/index.m3u8
-房山电视台 (576p),https://live.funhillrm.com/2/playlist.m3u8
 江苏公共 (576p),http://183.207.248.71/gitv/live1/G_JSGG/G_JSGG
 江苏城市 (576p),http://183.207.248.71/gitv/live1/G_JSCS/G_JSCS
 滁州市广播电视台 公共频道 (400p),http://live.cztv.cc:85/live/ggpd.m3u8
@@ -180,12 +177,6 @@ Jilin Rural Channel,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b
 
 Kids;Lifestyle,#genre#
 QTV-6,http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
-
-Culture;Education,#genre#
-Shanghai Education Television Station,http://223.166.234.114:7777/tsfile/live/1033_1.m3u8
-
-General;News,#genre#
-STV News and General,http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1
 
 Weather,#genre#
 中国气象 (576p) [Not 24/7],http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
