@@ -133,24 +133,23 @@
 | 127 | 滁州市广播电视台 公共频道 (400p) | [滁州市广播电视台 公共频道 (400p)](http://live.cztv.cc:85/live/ggpd.m3u8) |
 | 128 | 滁州市广播电视台 新闻综合频道 (1080p) | [滁州市广播电视台 新闻综合频道 (1080p)](http://live.cztv.cc:85/live/xwpd.m3u8) |
 | 129 | 滁州科教 (450p) | [滁州科教 (450p)](http://183.167.193.45:1935/live/cztvkj/playlist.m3u8) |
-| 130 | 甘肃卫视 (576p) | [甘肃卫视 (576p)](http://118.81.195.79:9003/hls/25/index.m3u8) |
-| 131 | 白城新闻综合 | [白城新闻综合](https://stream2.jlntv.cn/baicheng1/sd/live.m3u8) |
-| 132 | 纪实人文 (1080p) | [纪实人文 (1080p)](http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8) |
-| 133 | 萍乡新闻综合 (576p) [Not 24/7] | [萍乡新闻综合 (576p)  Not 24/7](http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8) |
-| 134 | 西安丝路 (404p) [Not 24/7] | [西安丝路 (404p)  Not 24/7](http://stream2.xiancity.cn/xatv5/playlist.m3u8) |
-| 135 | 西安商务资讯 (180p) [Not 24/7] | [西安商务资讯 (180p)  Not 24/7](http://stream2.xiancity.cn/xatv3/playlist.m3u8) |
-| 136 | 贵州卫视 (576p) | [贵州卫视 (576p)](http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU) |
-| 137 | 辽宁卫视 (1080p) | [辽宁卫视 (1080p)](http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8) |
-| 138 | 酒泉新闻综合 (576p) | [酒泉新闻综合 (576p)](http://117.156.28.119/270000001111/1110000001/index.m3u8) |
-| 139 | 重庆卫视 (1080p) | [重庆卫视 (1080p)](http://118.81.195.79:9003/hls/22/index.m3u8) |
-| 140 | 金鹰卡通 (576p) | [金鹰卡通 (576p)](http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8) |
-| 141 | 长沙女性 | [长沙女性](http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8) |
-| 142 | 长沙政法 | [长沙政法](http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8) |
-| 143 | 长沙新闻 | [长沙新闻](http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8) |
-| 144 | 青海卫视 (576p) | [青海卫视 (576p)](http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8) |
-| 145 | 风尚购物 (1080p) | [风尚购物 (1080p)](http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw) |
-| 146 | 高台电视台 (1080p) | [高台电视台 (1080p)](http://117.156.28.119/270000001111/1110000146/index.m3u8) |
-| 147 | 鹤壁新闻综合 (480p) [Not 24/7] | [鹤壁新闻综合 (480p)  Not 24/7](http://pili-live-hls.hebitv.com/hebi/hebi.m3u8) |
-| 148 | 黑龙江卫视 (2160p) | [黑龙江卫视 (2160p)](http://118.81.195.79:9003/hls/31/index.m3u8) |
+| 130 | 白城新闻综合 | [白城新闻综合](https://stream2.jlntv.cn/baicheng1/sd/live.m3u8) |
+| 131 | 纪实人文 (1080p) | [纪实人文 (1080p)](http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8) |
+| 132 | 萍乡新闻综合 (576p) [Not 24/7] | [萍乡新闻综合 (576p)  Not 24/7](http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8) |
+| 133 | 西安丝路 (404p) [Not 24/7] | [西安丝路 (404p)  Not 24/7](http://stream2.xiancity.cn/xatv5/playlist.m3u8) |
+| 134 | 西安商务资讯 (180p) [Not 24/7] | [西安商务资讯 (180p)  Not 24/7](http://stream2.xiancity.cn/xatv3/playlist.m3u8) |
+| 135 | 贵州卫视 (576p) | [贵州卫视 (576p)](http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU) |
+| 136 | 辽宁卫视 (1080p) | [辽宁卫视 (1080p)](http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8) |
+| 137 | 酒泉新闻综合 (576p) | [酒泉新闻综合 (576p)](http://117.156.28.119/270000001111/1110000001/index.m3u8) |
+| 138 | 重庆卫视 (1080p) | [重庆卫视 (1080p)](http://118.81.195.79:9003/hls/22/index.m3u8) |
+| 139 | 金鹰卡通 (576p) | [金鹰卡通 (576p)](http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8) |
+| 140 | 长沙女性 | [长沙女性](http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8) |
+| 141 | 长沙政法 | [长沙政法](http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8) |
+| 142 | 长沙新闻 | [长沙新闻](http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8) |
+| 143 | 青海卫视 (576p) | [青海卫视 (576p)](http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8) |
+| 144 | 风尚购物 (1080p) | [风尚购物 (1080p)](http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw) |
+| 145 | 高台电视台 (1080p) | [高台电视台 (1080p)](http://117.156.28.119/270000001111/1110000146/index.m3u8) |
+| 146 | 鹤壁新闻综合 (480p) [Not 24/7] | [鹤壁新闻综合 (480p)  Not 24/7](http://pili-live-hls.hebitv.com/hebi/hebi.m3u8) |
+| 147 | 黑龙江卫视 (2160p) | [黑龙江卫视 (2160p)](http://118.81.195.79:9003/hls/31/index.m3u8) |
 
-Updated at **Wed Aug 12 2026 01:10:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Aug 13 2026 01:12:23 GMT+0000 (Coordinated Universal Time)**
