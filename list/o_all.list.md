@@ -6064,4 +6064,4 @@
 | 6058 | Футбол (720p) | [Футбол (720p)](http://31.148.48.15/Futbol_HD/index.m3u8) |
 | 6059 | Херсон Плюс (576p) | [Херсон Плюс (576p)](http://46.175.163.130/ks_plus/index.m3u8) |
 
-Updated at **Mon Aug 17 2026 00:43:25 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Aug 18 2026 00:42:44 GMT+0000 (Coordinated Universal Time)**
