@@ -126,7 +126,7 @@
 | 120 | 浙江卫视 (1080p) | [浙江卫视 (1080p)](http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8) |
 | 121 | 滁州市广播电视台 公共频道 (400p) | [滁州市广播电视台 公共频道 (400p)](http://live.cztv.cc:85/live/ggpd.m3u8) |
 | 122 | 滁州市广播电视台 新闻综合频道 (1080p) | [滁州市广播电视台 新闻综合频道 (1080p)](http://live.cztv.cc:85/live/xwpd.m3u8) |
-| 123 | 滁州科教 (450p) | [滁州科教 (450p)](http://183.167.193.45:1935/live/cztvkj/playlist.m3u8) |
+| 123 | 滁州市广播电视台 科教频道 (400p) | [滁州市广播电视台 科教频道 (400p)](http://live.cztv.cc:85/live/sjpd.m3u8) |
 | 124 | 白城新闻综合 | [白城新闻综合](https://stream2.jlntv.cn/baicheng1/sd/live.m3u8) |
 | 125 | 纪实人文 (1080p) | [纪实人文 (1080p)](http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8) |
 | 126 | 萍乡新闻综合 (576p) [Not 24/7] | [萍乡新闻综合 (576p)  Not 24/7](http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u8) |
@@ -145,4 +145,4 @@
 | 139 | 鹤壁新闻综合 (480p) [Not 24/7] | [鹤壁新闻综合 (480p)  Not 24/7](http://pili-live-hls.hebitv.com/hebi/hebi.m3u8) |
 | 140 | 黑龙江 (1080p) | [黑龙江 (1080p)](http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8) |
 
-Updated at **Tue Aug 18 2026 00:42:43 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Aug 19 2026 00:43:07 GMT+0000 (Coordinated Universal Time)**
