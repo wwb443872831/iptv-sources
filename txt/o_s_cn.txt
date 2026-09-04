@@ -1,0 +1,24 @@
+Undefined,#genre#
+Ando TV (1080p),http://play.kankanlive.com/live/1711956137852982.m3u8
+Anhui TV,https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
+Anshun Comprehensive News Channel,https://hplayer1.juyun.tv/camera/154379194.m3u8
+Beijing Traffic Radio TV,http://123.56.24.28:1935/live/fm1039/96K/tzwj_video.m3u8
+Beijing Youth Radio,http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
+Bread TV面包台 (720p),https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+BRTV Kaku Childrens Channel,http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
+BRTV 北京卫视 (1080p),http://go.bkpcp.top/mg/bjws
+BRTV 北京卫视,http://ivi.bupt.edu.cn/hls/btv1.m3u8
+CCTV-1 (1080p),http://69.30.245.50/live/cctv1.m3u8
+CCTV-1 (720p),http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV-2 (720p),http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV-4 Asia (720p),http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
+CCTV-5+,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
+CCTV-6 (1080p),http://69.30.245.50/live/cctv6.m3u8
+CCTV-6,https://live.eac-news.com/CCTV/streams/cctv6.m3u8
+CCTV-7 (720p),http://74.91.26.218:82/live/cctv7hd.m3u8
+CCTV-8 (720p),http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV-8K (1080p),http://192.151.150.154/live/cctv8k.m3u8
+CCTV-9 (576i),https://xykt-fix.github.io/Y77.m3u8
+CCTV-10 (720p),http://74.91.26.218:82/live/cctv10hd.m3u8
