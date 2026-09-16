@@ -5350,4 +5350,4 @@
 | 5344 | Футбол (720p) | [Футбол (720p)](http://31.148.48.15/Futbol_HD/index.m3u8) |
 | 5345 | Херсон Плюс (576p) | [Херсон Плюс (576p)](http://46.175.163.130/ks_plus/index.m3u8) |
 
-Updated at **Tue Sep 15 2026 02:38:18 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Sep 16 2026 02:32:57 GMT+0000 (Coordinated Universal Time)**
