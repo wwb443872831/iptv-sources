@@ -4,8 +4,8 @@
 
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
-| 1 | [BD]cctv-8 | [BD cctv-8](https://stream1.freetv.fun/2e306ebe387de83590a676b156f6db16f86d4c598cb04b945d3a9deb2a2f5f68.m3u8) |
-| 2 | [BD]cctv-11戏曲 | [BD cctv-11戏曲](https://stream1.freetv.fun/30d304ab7f1c2c8a609f96902e0346ae3e5b24d212d4fbcd20f7933bc45e6eb8.m3u8) |
+| 1 | [HD]cctv-8 | [HD cctv-8](https://stream1.freetv.fun/2e306ebe387de83590a676b156f6db16f86d4c598cb04b945d3a9deb2a2f5f68.m3u8) |
+| 2 | [HD]cctv-11戏曲 | [HD cctv-11戏曲](https://stream1.freetv.fun/30d304ab7f1c2c8a609f96902e0346ae3e5b24d212d4fbcd20f7933bc45e6eb8.m3u8) |
 | 3 | [SD]cctv1 | [SD cctv1](https://stream1.freetv.fun/4a250dafef7349ead704088bec3993f3cd3b2cdcb604f23bbf700da31434fa08.m3u8) |
 | 4 | [BD]cctv10 | [BD cctv10](https://stream1.freetv.fun/8164e2a1c34b3c2a2ac146c5ef0a8b64e509a3ab92e1c9a78a83a6ba51b9b636.m3u8) |
 | 5 | [HD]cctv11 | [HD cctv11](https://stream1.freetv.fun/5617304ea25f76d83957d5012276580a73df55d2617a82014ce8938123aac348.m3u8) |
@@ -19,7 +19,7 @@
 | 13 | [SD]cctv3 | [SD cctv3](https://stream1.freetv.fun/69b32a02f457aef2313a9c8b862b27072c81c9bf7915fe23409b18c1e270d349.m3u8) |
 | 14 | [BD]cctv4 | [BD cctv4](https://stream1.freetv.fun/964a51445ff33a4d13e786b28b01992fa55022cfc28c81c5f24497d1131a5d18.m3u8) |
 | 15 | [BD]cctv4 | [BD cctv4](https://stream1.freetv.fun/2d775dbe18822cdac5a52a92edf587ac88cdebdcb14b310e254c376cce5f44d2.m3u8) |
-| 16 | [BD]cctv-4k高清 | [BD cctv-4k高清](https://stream1.freetv.fun/97bab3282cd3ea4310f8ef47b318248903617cca7be625f8f98733c863e5f284.m3u8) |
+| 16 | [BD]cctv-4k高清 | [BD cctv-4k高清](https://stream1.freetv.fun/3e114eb804b86080fa2e6509a0066c094e4ff2111f837859dc107f31dabb23de.m3u8) |
 | 17 | [BD]cctv-4中文国际 | [BD cctv-4中文国际](https://stream1.freetv.fun/eeac560cb2db13aa0ea2094ca16c2fde31ce7b721769652b927d23ff56e9dee4.m3u8) |
 | 18 | [VGA]cctv4中文国际 | [VGA cctv4中文国际](https://stream1.freetv.fun/8a07250a04529fe52772a7995691f04a3153bf67960964ad6a63dd6cc7878659.ctv) |
 | 19 | [BD]cctv5 | [BD cctv5](https://stream1.freetv.fun/8ca3e123a0d74e87f21a305af77f712600ac07ae33200d2c5c017f8d01751f36.m3u8) |
@@ -78,7 +78,7 @@
 | 72 | [VGA]宿迁新闻综合 | [VGA 宿迁新闻综合](https://stream1.freetv.fun/47622133a41c5d7df9c66f953ced7d21219ff584e45366c0a77e04400b058969.ctv) |
 | 73 | [BD]宁夏卫视 | [BD 宁夏卫视](https://stream1.freetv.fun/c3a22585493b5fbb62ab4b873bbf60ce767e779781bf178117fcf0918e2de201.m3u8) |
 | 74 | [BD]宁波新闻综合 | [BD 宁波新闻综合](https://stream1.freetv.fun/5eee88e93c5b7681cfbae7b627b7cd4cfd90bed45a87eb8290a933f15ad81aca.m3u8) |
-| 75 | [HD]山东卫视 | [HD 山东卫视](https://stream1.freetv.fun/6ae72c2ed9e03972d255c19be7f49c4731d8c51bfd1dfc150e73a2d7a132235d.m3u8) |
+| 75 | [HD]山东卫视 | [HD 山东卫视](https://stream1.freetv.fun/3b97ca6daa3a8451a385b7db783b1c5622e979ec500532a2ff7145e99e78fab5.ctv) |
 | 76 | [BD]山西卫视 | [BD 山西卫视](https://stream1.freetv.fun/2f538e8c3c3dc60b99799fb3331f5f05b5a9c3c574544b4178a57a7de78f6884.m3u8) |
 | 77 | [SD]岭南戏曲 | [SD 岭南戏曲](https://stream1.freetv.fun/d765215aa01852928728857a458ce41ae3c5c04fa90622dc587c840dbcd33fb6.m3u8) |
 | 78 | [BD]广德新闻综合 | [BD 广德新闻综合](https://stream1.freetv.fun/d4687ff6210363da3bdebe8d1dabcbb0a553eac58b88e2fa793a456e8c709c76.ctv) |
@@ -99,7 +99,7 @@
 | 93 | [BD]广东体育 | [BD 广东体育](https://stream1.freetv.fun/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8) |
 | 94 | [BD]广东体育 | [BD 广东体育](https://stream1.freetv.fun/1b51eaf416ee4be8045ce160c21c2b956788a652e03c78ea0db462d925c09459.m3u8) |
 | 95 | [BD]广西综艺旅游 | [BD 广西综艺旅游](https://stream1.freetv.fun/daf3dbf6d04bf3379c9219793315c3160019d47e28323281ac04e53c4372d579.m3u8) |
-| 96 | [HD]广西卫视 | [HD 广西卫视](https://stream1.freetv.fun/769f22146852e78af58e6a25a46ca80a48e35ccb700ac75e8ab42a72473ba60c.ctv) |
+| 96 | [HD]广西卫视 | [HD 广西卫视](https://stream1.freetv.fun/3899ee96bfc51a8e53baa9d48c86b9b9a52907112fffcb33e94df2c05cc02d3c.ctv) |
 | 97 | [BD]延边卫视 | [BD 延边卫视](https://stream1.freetv.fun/d2ea3a364fa453b29060ebccb5a06a1941755859c0182ab0f071473c08738fc2.m3u8) |
 | 98 | [BD]揭阳综合高清 | [BD 揭阳综合高清](https://stream1.freetv.fun/d49d41d9ceb97e07341c1579705a77c11628092576082ca219be9f79cc35c612.ctv) |
 | 99 | [BD]新疆卫视 | [BD 新疆卫视](https://stream1.freetv.fun/ff50600dd45b1b1656f2f7535c04f361a6e8c33606e19dbc9b0316bd173f9408.m3u8) |
@@ -110,7 +110,7 @@
 | 104 | [BD]东方卫视 | [BD 东方卫视](https://stream1.freetv.fun/83c3a916916d31715425b6e333fa1bc61dd7401ec2e546e2e62e0dacdeac543a.m3u8) |
 | 105 | [HD]东莞新闻综合 | [HD 东莞新闻综合](https://stream1.freetv.fun/f1d20f3c5cef5eafd9c816bec781027fb28accf44dd0f3421ab35728914aecfa.m3u8) |
 | 106 | [VGA]东莞综合 | [VGA 东莞综合](https://stream1.freetv.fun/d8e73ca102368276e14bb06176fea0d69be787f785677be0e005362b3467d3c4.m3u8) |
-| 107 | [BD]汕尾综合高清 | [BD 汕尾综合高清](https://stream1.freetv.fun/d29f0e32508e86e8984f07d065a8a2372d51962ac8234a83b750958a43ba7748.ctv) |
+| 107 | [BD]汕尾综合高清 | [BD 汕尾综合高清](https://stream1.freetv.fun/8ac1d2758ec3ab0aa1ee8c5633bda3a613cbe85f73c3fb188ebb799f98f1e6db.ctv) |
 | 108 | [BD]汕头生活高清 | [BD 汕头生活高清](https://stream1.freetv.fun/61fa28af24b2c2e5518954a50e0e9e743682c6ceafab6dfd7a5c12ee780ea748.ctv) |
 | 109 | [BD]汕头综合高清 | [BD 汕头综合高清](https://stream1.freetv.fun/dd32f6d2ef2242ba2c4fcfb92531fa34b0fe4cdcedbacd33bfac1f47d60978ad.ctv) |
 | 110 | [BD]浙江公共新闻 | [BD 浙江公共新闻](https://stream1.freetv.fun/d1c3b4513b9de5c1602cce87e243474a66546d88b2f61b0f8e39aad40ff198b7.m3u8) |
@@ -176,6 +176,6 @@
 | 170 | [HD]云南都市 | [HD 云南都市](https://stream1.freetv.fun/c7f89783268c13760aff864a0e464360ea9335ac3ef8a5ef52a354d7fd305ef2.m3u8) |
 | 171 | [VGA]盐城新闻综合 | [VGA 盐城新闻综合](https://stream1.freetv.fun/ee730abf7f00cf19da98b49f0f8cfe02c2c6a9ce62eaa9b1e3a5ba0510bc4168.ctv) |
 | 172 | [HD]溧水新闻综合 | [HD 溧水新闻综合](https://stream1.freetv.fun/1a079c059eb130d33f8a0b23c616b77e1390d13bed99002dda920d83163b8808.ctv) |
-| 173 | [BD]黑龙江卫视 | [BD 黑龙江卫视](https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.m3u8) |
+| 173 | [HD]黑龙江视 | [HD 黑龙江视](https://stream1.freetv.fun/528283ee39bbe8287dd6eb3ce1ae0e404eca1d20caecd4038d62967a25de026e.ctv) |
 
-Updated at **Thu Sep 17 2026 02:36:43 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Sep 18 2026 02:24:16 GMT+0000 (Coordinated Universal Time)**
