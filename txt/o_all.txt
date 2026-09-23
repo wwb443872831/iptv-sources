@@ -2334,9 +2334,8 @@ Acasa HD,http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6988/index.m3u8
 Acasa Gold,http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6945/index.m3u8
 Ace TV (480p),https://c.streamhoster.com/link/hls/W5s3fS/inLo5pcsHjo/iqg9wps0m1x_5/playlist.m3u8
 Ace TV KCKS-LD (720p),https://2-fss-1.streamhoster.com/pl_154/amlst:205432-2055980/playlist.m3u8
-America's Next Top Model (Germany),https://jmp2.uk/plu-686cd84603ad75cfd132d672.m3u8
-America's Next Top Model (United States),https://jmp2.uk/plu-68757c45759366af05b3b199.m3u8
-America's Next Top Model (United States) CA,https://jmp2.uk/plu-68679fc6bb46d0bdd38ac9a4.m3u8
+America's Next Top Model,https://jmp2.uk/plu-68757c45759366af05b3b199.m3u8
+America's Next Top Model CA,https://jmp2.uk/plu-68679fc6bb46d0bdd38ac9a4.m3u8
 American Crime Channel,https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
 Amrita TV (720p),https://ddash74r36xqp.cloudfront.net/master.m3u8
 An Giang TV 2 (1080p),https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
@@ -2377,9 +2376,8 @@ Best of The Drew Barrymore Show (Sweden) DK,https://jmp2.uk/plu-62beb692cda2b100
 Best of The Drew Barrymore Show (Sweden) NO,https://jmp2.uk/plu-630478cfdb5a4a0007ec255e.m3u8
 Best of The Drew Barrymore Show (United States),https://jmp2.uk/plu-6310cbee5a8ad300070fdb7c.m3u8
 BET Classics Pluto TV,https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8
-BET Pluto TV (Germany),https://jmp2.uk/plu-604f8f8622166000071a929f.m3u8
-BET Pluto TV (United States),https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8
-BET Pluto TV (United States) BR,https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8
+BET Pluto TV,https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8
+BET Pluto TV BR,https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8
 Beyond the Gates,https://jmp2.uk/plu-687ff00ff6bc08130f16ab81.m3u8
 Bialogardzka Telewizja Kablowa (1080p),https://bsmbialogard.pl/live/index.m3u8
 Big Brother,https://jmp2.uk/plu-6661f11a41af6400080e90d8.m3u8
@@ -2682,9 +2680,6 @@ Series,#genre#
 Acapulco Shore,https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
 Acapulco Shore US,https://jmp2.uk/plu-64dab1f835425100080e1e7b.m3u8
 Afra Series,https://afrashls.wns.live/hls/stream.m3u8
-America's Next Top Model (Sweden),https://jmp2.uk/plu-6464cdcaee6a2f000822a7a8.m3u8
-America's Next Top Model (Sweden) DK,https://jmp2.uk/plu-6464cc595a0cd500088c7749.m3u8
-America's Next Top Model (Sweden) NO,https://jmp2.uk/plu-6464cd7c7cb4b100086c71c9.m3u8
 Ana y los 7,https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8
 Andromeda,https://jmp2.uk/plu-6850335b5965a2fd49f7e36d.m3u8
 Andromeda Italy (720p),https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8
@@ -2703,10 +2698,8 @@ BBC Drama (1080p),https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amag
 BET,https://jmp2.uk/plu-61c187ef1efe1b0007571711.m3u8
 BET DK,https://jmp2.uk/plu-61c1939b8929e40007ff6382.m3u8
 BET NO,https://jmp2.uk/plu-61dd5bf8db0b8e00080804ff.m3u8
-Beverly Hills 90210 (Germany),https://jmp2.uk/plu-60afb576053df900076fa2f0.m3u8
-Beverly Hills 90210 (United States),https://jmp2.uk/plu-5f4d83e0a382c00007bc02e7.m3u8
-Blue Bloods (Germany),https://jmp2.uk/plu-66f55a9a747bfa0008521859.m3u8
-Blue Bloods (United States),https://jmp2.uk/plu-61b3b8c645b45d0007a9bb8d.m3u8
+Beverly Hills 90210,https://jmp2.uk/plu-5f4d83e0a382c00007bc02e7.m3u8
+Blue Bloods,https://jmp2.uk/plu-61b3b8c645b45d0007a9bb8d.m3u8
 Bull,https://jmp2.uk/plu-6964b9e19bf57be1537fc7d7.m3u8
 Bull DK,https://jmp2.uk/plu-6964b982ca459f9b939da8e6.m3u8
 Bull NO,https://jmp2.uk/plu-6964b9b97d2afdec4f9390f6.m3u8
@@ -2726,7 +2719,7 @@ Dating Naked UK DK,https://jmp2.uk/plu-692edc78d52ea9e4858cf78f.m3u8
 Dating Naked UK NO,https://jmp2.uk/plu-692edcff77f0147d69f19498.m3u8
 Diff'rent Strokes Arnold,https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
 Drama Channel (1080p),https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
-Dynasty (United States),https://jmp2.uk/plu-64d1606b4c5ed80008e3b8b9.m3u8
+Dynasty,https://jmp2.uk/plu-64d1606b4c5ed80008e3b8b9.m3u8
 El Comisario,https://jmp2.uk/plu-60c343007bcabe0007242aa6.m3u8
 El encantador de perros,https://jmp2.uk/plu-60e45687313c5f0007bc8e94.m3u8
 Europa Europa (1080p),https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
@@ -2769,11 +2762,8 @@ Los archivos del FBI,https://jmp2.uk/plu-5f1acbed25948a0007ffbe65.m3u8
 Los Asesinatos de Midsomer,https://jmp2.uk/plu-5f1aca8310a30e00074fab92.m3u8
 Louis La Brocante,https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8
 Love & Hip Hop,https://jmp2.uk/plu-5d51ddf0369acdb278dfb05e.m3u8
-MacGyver (Germany),https://jmp2.uk/plu-6245ccd0c6cdb800074632e4.m3u8
-MacGyver (Germany) GB,https://jmp2.uk/plu-68503d585965a2fd49fc2f0b.m3u8
 Maraya (1080p),https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
 Married with Children,https://jmp2.uk/plu-66bb3212fe11e5000883ea6b.m3u8
-Matlock (Germany),https://jmp2.uk/plu-6850426e53d981d1fdb0d966.m3u8
 Matlock (United States),https://jmp2.uk/plu-60f754f98185580007eb0754.m3u8
 Matlock (United States) CA,https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8
 Medium (Sweden),https://jmp2.uk/plu-68f0f642a25ba0aab3e64e66.m3u8
@@ -3537,8 +3527,7 @@ Balapan International (1080p),https://live-3.otcnet.ru/Balapan/index.m3u8
 Bob Esponja (720p),https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
 Bob Esponja Calca Quadrada (720p),https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
 Bob Esponja Pantalones Cuadrados (720p),https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
-Bob l'eponge (Germany) (720p),https://jmp2.uk/plu-5ffc8c345822750007e167de.m3u8
-Bob l'eponge (United States) (720p),https://jmp2.uk/plu-66588931a3865300085ca800.m3u8
+Bob l'eponge (720p),https://jmp2.uk/plu-66588931a3865300085ca800.m3u8
 Bolajon (576p),https://stream8.cinerama.uz/1007/playlist.m3u8
 Box Kids TV (720p),http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
 Canal Infantil (1080p),http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalinfantil/playlist.m3u8
@@ -3614,12 +3603,10 @@ Nickelodeon Classics (720p),https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
 Nickelodeon en espanol,https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
 Nickelodeon Junior (1080p),http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 Nickelodeon Latin America (1080p),http://15.204.246.24:8080/NickHD/index.m3u8
-Nickelodeon Teen (Germany) (720p),https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8
-Nickelodeon Teen (United States) (720p),https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
-Nickelodeon Teen (United States) LatAm (720p),https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
-Nickelodeon Toons (Germany) (720p),https://jmp2.uk/plu-5ede448d3d50590007a4419e.m3u8
-Nickelodeon Toons (United States) (720p),https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
-Nickelodeon Toons (United States) LatAm (720p),https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
+Nickelodeon Teen (720p),https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
+Nickelodeon Teen LatAm (720p),https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
+Nickelodeon Toons (720p),https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
+Nickelodeon Toons LatAm (720p),https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
 Nicktoons (Czech Republic),http://88.212.15.19/live/test_nicktoons/playlist.m3u8
 Nicktoons CIS (1080p),https://stream8.cinerama.uz/1502/playlist.m3u8
 Niki Junior (1080p),http://stream.mcquack.net/262/index.m3u8
@@ -4656,7 +4643,6 @@ Anime Vision (1080p),https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815
 Anime Vision Classics (1080p),https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 Anime x HIDIVE,https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8
 Aniplus Asia (720p),https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
-Daria (Germany),https://jmp2.uk/plu-6683b680efa2a10008e8a393.m3u8
 Geekdot (720p),https://stream.ichibantv.com:3764/hybrid/play.m3u8
 Placid (1080p) [Not 24/7],https://toy.vcdn.fyi/placid/index.m3u8
 Sonic TV (720p),https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2260
@@ -4756,12 +4742,10 @@ Comedy Central Roast,https://jmp2.uk/plu-6641fd41b18d700008e7e2b8.m3u8
 Comedy Dynamics (1080p),https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
 Comedy Play (576i),https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
 Comedy TV,http://31.146.5.178:8087/play/a00b/index.m3u8
-Daria (United States),https://jmp2.uk/plu-62d0895ebe7a970008785244.m3u8
+Daria,https://jmp2.uk/plu-62d0895ebe7a970008785244.m3u8
 Distrito Comedia (1080p),http://181.119.66.28:8081/DISTRITO-COMEDIA/index.m3u8
-Frasier (Germany),https://jmp2.uk/plu-62cebf042ffc6d0007c4e59a.m3u8
 Frasier: Beruhmte Gaste,https://jmp2.uk/plu-6790fa9e1cfc4aa96dfadcef.m3u8
-Funny AF (Germany),https://jmp2.uk/plu-65a6a5e90c7ff50008cb9815.m3u8
-Funny AF (United States),https://jmp2.uk/plu-580e87ff497c73ba2f321dd3.m3u8
+Funny AF,https://jmp2.uk/plu-580e87ff497c73ba2f321dd3.m3u8
 Gagsnetwork (576p),http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
 GEM Comedy,https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
 HAHA TV,https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8
@@ -4800,10 +4784,6 @@ Battlestar Galactica,https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8
 Bolt (Russia) (576p),http://hls127.freeott.top:8080/Bolt/video.m3u8
 Ebony TV by Lionsgate (1080p),https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
 Medium (Germany),https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8
-Mission Impossible (Germany),https://jmp2.uk/plu-634fe5afece2e60007c9d8b8.m3u8
-Mission Impossible (Germany) FR,https://jmp2.uk/plu-6671b21ffc3a46000857fe75.m3u8
-Mission Impossible (Germany) GB,https://jmp2.uk/plu-62ab579258cb950007811aad.m3u8
-Mission Impossible (Germany) IT,https://jmp2.uk/plu-65cb77853ba51e00084cba02.m3u8
 More TV Sci-fi,https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8
 OuterSphere (1080p),https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
 Rawhide (United States),https://jmp2.uk/plu-634f307c7a068e00072c9982.m3u8
@@ -4829,8 +4809,6 @@ Becker (Sweden),https://jmp2.uk/plu-672e16f5daad7f0008929a0d.m3u8
 Becker (Sweden) DK,https://jmp2.uk/plu-672e157d7d5da5000812872d.m3u8
 Becker (Sweden) NO,https://jmp2.uk/plu-672e1634e482950008c759a5.m3u8
 Cin Cin,https://jmp2.uk/plu-65cb78b83a116800079e2e35.m3u8
-Dynasty (Germany),https://jmp2.uk/plu-65cb76ea11ced70008206b66.m3u8
-Dynasty (Germany) GB,https://jmp2.uk/plu-622f48de713e510007f85808.m3u8
 Happy Days (Sweden),https://jmp2.uk/plu-654a52254d6d8f00084eacfc.m3u8
 Happy Days (Sweden) DK,https://jmp2.uk/plu-654a4e29ab05240008a18625.m3u8
 Happy Days (Sweden) NO,https://jmp2.uk/plu-654a508d986ad20008a456a5.m3u8
@@ -4985,9 +4963,8 @@ Business;Series,#genre#
 CNBC-e,https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 
 Animation;Comedy,#genre#
-Comedy Central South Park (Germany),https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8
-Comedy Central South Park (United States),https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
-Comedy Central South Park (United States) LatAm,https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
+Comedy Central South Park,https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
+Comedy Central South Park LatAm,https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8
 South Park (Germany),https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
 South Park (Germany) GB,https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8
 South Park (Germany) IT,https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8
