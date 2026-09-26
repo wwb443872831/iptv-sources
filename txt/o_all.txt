@@ -26,7 +26,7 @@ AXN CEE Bulgary,http://85.11.144.9:4222/AXN
 AXN Latin America (1080p),http://138.121.15.230:9002/AXN/index.m3u8
 AXN Latin America Chile (1080p),https://cdn1tlinkgo.tlink.cl/axnhd/index.m3u8
 AXN Latin America Mexico,http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
-AXN Latin America South,http://45.228.235.116:8000/play/a0iy/index.m3u8
+AXN Latin America South (1080p),http://181.78.12.119:16123/play/ch46/index.m3u8
 Bhojpuri Cinema (720p),https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 BIZ Cinema (1080p),https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
 Bravo Farsi TV (360p),https://bravoohls.wns.live/hls/stream.m3u8
@@ -560,6 +560,7 @@ Channel One (Russia) HD (720p),https://edge1.1internet.tv/dash-live2/streams/1tv
 Channel One CIS (576p),https://fs.uplink.kz/perviy_kanal_sng/mono.m3u8?token=onlinetv
 Channel One Eurasia (576p),https://fs.uplink.kz/perviy_kanal_evrasia/mono.m3u8?token=onlinetv
 Channel-16 (406p) [Not 24/7],http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
+Chaozhou Public Channel,http://113.64.146.48:1688/hls/4/index.m3u8
 Charapa TV (720p),https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8
 Charoen Cable 37 TV,http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 CHCO-TV (720p),https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
@@ -2178,7 +2179,7 @@ Noticias 16 (720p) [Not 24/7],https://edge.essastream.com/noticias16/playlist.m3
 Noticias RCN (720p),https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
 Noticiero 90 Minutos (1080p),https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8
 Novyny.Live,rtmp://95.67.11.153/klive/stream
-NTN24 (576p),http://181.78.8.199:8000/play/a0a6/index.m3u8
+NTN24 (720p),http://181.78.12.119:16123/play/ch80/index.m3u8
 ntv (720p),https://protokolldns.xyz/ntv.l.i.v.e5547892023/index.m3u8
 Observator News (360p),https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 Obshchestvennoe Nezavisimoe Televidenie (576p),http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
@@ -2491,7 +2492,7 @@ Mult i muzyka (576p),http://hls127.freeott.top:8080/Mult_Muzika/video.m3u8
 Multilandia (576p),https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv
 My Kidz (720p),https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 Nickelodeon (Germany),https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
-Nicktoons (United States) (720p),http://41.205.93.154/NICKTOONS/index.m3u8
+Nicktoons (United States) (1080p),https://sra72yz.s.gy/NICKTOONS_HD.m3u8
 Nicktoons (United States) CA,https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
 Niki Junior (1080p),http://stream.mcquack.net/262/index.m3u8
 Niki Kids (1080p),http://stream.mcquack.net/271/index.m3u8
@@ -3275,12 +3276,13 @@ Movies;Series,#genre#
 50 Cent Action (720p),https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
 Amedia Hit (1080p),http://stream.mcquack.net/162/index.m3u8
 Amedia Premium (720p),http://31.148.48.15/Amedia_Premium_HD/index.m3u8
+AXN Asia Philippines (576p),https://sra72yz.s.gy/AXN_ASIA_PHILIPPINES.m3u8
 AXN Asia Taiwan (1080p),http://125.227.210.55:4050/VideoInput/play.ts
 AXN Asia Thailand (720p),http://58.8.186.128:10007/bysid/2814
 Bonanza,https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
 Bonanza CA,https://jmp2.uk/plu-696e647b07ea70192d49f6a5.m3u8
 Classic Movie Westerns,https://jmp2.uk/plu-61f33318210549000806a530.m3u8
-HBO Hits (720p),http://tvsen7.aynascope.net/hbo2/index.m3u8
+HBO Drama (1080p),https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8
 HBO Hits East HD (720p),http://4.30.180.36:8420/hbo2/index.m3u8?token=test
 HBO Movies (720p),http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 Nashe HD (1080p),http://str2.iptvhd.ru:8080/Nashe_HD/index.m3u8
