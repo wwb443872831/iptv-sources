@@ -4692,4 +4692,4 @@
 | 4686 | Zoom (Colombia) (1080p) | [Zoom (Colombia) (1080p)](http://138.121.15.230:9002/ZOOM/index.m3u8) |
 | 4687 | Zoom (India) (720p) | [Zoom (India) (720p)](https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8) |
 
-Updated at **Fri Oct 02 2026 03:18:02 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Oct 03 2026 03:03:57 GMT+0000 (Coordinated Universal Time)**

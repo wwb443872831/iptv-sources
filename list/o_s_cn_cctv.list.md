@@ -20,4 +20,4 @@
 | 14 | CCTV-Women's Fashion (1080p) | [CCTV-Women's Fashion (1080p)](http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub) |
 | 15 | CCTV-World Geography (1080p) | [CCTV-World Geography (1080p)](http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub) |
 
-Updated at **Fri Oct 02 2026 03:18:01 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Oct 03 2026 03:03:56 GMT+0000 (Coordinated Universal Time)**
