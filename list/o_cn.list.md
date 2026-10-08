@@ -64,51 +64,52 @@
 | 58 | CND Film Discovery Channel (576p) | [CND Film Discovery Channel (576p)](http://125.210.152.18:9090/live/FXZL_750.m3u8) |
 | 59 | CND Film Middle School Channel | [CND Film Middle School Channel](http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?A=&E=&K=&P=&S=&U=) |
 | 60 | Documentary Humanities Channel (1080p) | [Documentary Humanities Channel (1080p)](http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8) |
-| 61 | Dragon TV International | [Dragon TV International](https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8) |
-| 62 | Dunhuang TV (1080p) | [Dunhuang TV (1080p)](http://117.156.28.119/270000001111/1110000028/index.m3u8) |
-| 63 | Fengshang Shopping Channel (1080p) | [Fengshang Shopping Channel (1080p)](http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw) |
-| 64 | Fujian Comprehensive Channel | [Fujian Comprehensive Channel](http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88) |
-| 65 | Golden Eagle Cartoon (576p) | [Golden Eagle Cartoon (576p)](http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8) |
-| 66 | Guangdong Satellite TV | [Guangdong Satellite TV](https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8) |
-| 67 | Guangxi Variety & Travel Channel | [Guangxi Variety & Travel Channel](http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0) |
-| 68 | Guangzhou TV | [Guangzhou TV](https://tencentplaybusiness.gztv.com/live/zonghes.m3u8) |
-| 69 | Guizhou TV (576p) | [Guizhou TV (576p)](http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU) |
-| 70 | Harbin Comprehensive News Channel | [Harbin Comprehensive News Channel](https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594) |
-| 71 | Harbin Movie Channel | [Harbin Movie Channel](https://stream.hrbtv.net/yspd/playlist.m3u8) |
-| 72 | Hebei TV (2160p) | [Hebei TV (2160p)](https://event.pull.hebtv.com/live/live101.m3u8) |
-| 73 | Hebi News Channel (480p) [Not 24/7] | [Hebi News Channel (480p)  Not 24/7](http://pili-live-hls.hebitv.com/hebi/hebi.m3u8) |
-| 74 | Heilongjiang TV (1080p) | [Heilongjiang TV (1080p)](http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8) |
-| 75 | Hezheng TV | [Hezheng TV](http://117.156.28.119/270000001111/1110000149/index.m3u8) |
-| 76 | High Channel TV (1080p) | [High Channel TV (1080p)](http://117.156.28.119/270000001111/1110000146/index.m3u8) |
-| 77 | HomePlus | [HomePlus](https://homeplushls.wns.live/hls/stream.m3u8) |
-| 78 | Hunan News Channel | [Hunan News Channel](http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8) |
-| 79 | Hunan Politics & Law Channel | [Hunan Politics & Law Channel](http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8) |
-| 80 | Hunan TV (2160p) | [Hunan TV (2160p)](http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8) |
-| 81 | Hunan Womens Channel | [Hunan Womens Channel](http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8) |
-| 82 | Jiangsu City Channel (576p) | [Jiangsu City Channel (576p)](http://183.207.248.71/gitv/live1/G_JSCS/G_JSCS) |
-| 83 | Jiangsu Educational Channel (576p) | [Jiangsu Educational Channel (576p)](http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8) |
-| 84 | Jiangsu Movie Channel (576p) | [Jiangsu Movie Channel (576p)](http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8) |
-| 85 | Jiangsu Public & News Channel (576p) | [Jiangsu Public & News Channel (576p)](http://183.207.248.71/gitv/live1/G_JSGG/G_JSGG) |
-| 86 | Jiangsu Satellite TV (1080p) | [Jiangsu Satellite TV (1080p)](http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8) |
-| 87 | Jiangsu Sports & Leisure Channel (576p) | [Jiangsu Sports & Leisure Channel (576p)](http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY) |
-| 88 | Jiangsu Variety Channel (576p) [Not 24/7] | [Jiangsu Variety Channel (576p)  Not 24/7](http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY) |
-| 89 | Jiangxi Children's Channel | [Jiangxi Children's Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8) |
-| 90 | Jiangxi City Channel | [Jiangxi City Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8) |
-| 91 | Jiangxi Economy & Life Channel | [Jiangxi Economy & Life Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8) |
-| 92 | Jiangxi Movie Channel | [Jiangxi Movie Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8) |
-| 93 | Jiangxi Public & Agriculture Channel | [Jiangxi Public & Agriculture Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.m3u8) |
-| 94 | Jiangxi TV (1080p) | [Jiangxi TV (1080p)](http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8) |
-| 95 | Jilin City Channel | [Jilin City Channel](https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8) |
-| 96 | Jilin Lifestyle Channel | [Jilin Lifestyle Channel](https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8) |
-| 97 | Jilin Movie Channel | [Jilin Movie Channel](https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8) |
-| 98 | Jilin Rural Channel | [Jilin Rural Channel](https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8) |
-| 99 | Jiuquan TV News Comprehensive Channel (576p) | [Jiuquan TV News Comprehensive Channel (576p)](http://117.156.28.119/270000001111/1110000001/index.m3u8) |
-| 100 | Kangba TV | [Kangba TV](http://110.185.237.164:8888/hls/30/index.m3u8) |
-| 101 | Lanzhou Comprehensive News Channel | [Lanzhou Comprehensive News Channel](https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8) |
-| 102 | Lanzhou Culture & Tourism Channel | [Lanzhou Culture & Tourism Channel](https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8) |
-| 103 | Liangshan TV [Not 24/7] | [Liangshan TV  Not 24/7](http://118.122.2.29:9999/hls/47/index.m3u8) |
-| 104 | Liaoning TV (1080p) | [Liaoning TV (1080p)](http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8) |
-| 105 | Nanchang News & Generalist Channel | [Nanchang News & Generalist Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8) |
-| 106 | Nei Monggol TV 2 Mongolian Culture Channel | [Nei Monggol TV 2 Mongolian Culture Channel](http://1.24.190.98:10080/hls/40/index.m3u8) |
+| 61 | Dongguan Comprehensive News Channel | [Dongguan Comprehensive News Channel](https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8) |
+| 62 | Dragon TV International | [Dragon TV International](https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8) |
+| 63 | Dunhuang TV (1080p) | [Dunhuang TV (1080p)](http://117.156.28.119/270000001111/1110000028/index.m3u8) |
+| 64 | Fengshang Shopping Channel (1080p) | [Fengshang Shopping Channel (1080p)](http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw) |
+| 65 | Fujian Comprehensive Channel | [Fujian Comprehensive Channel](http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88) |
+| 66 | Golden Eagle Cartoon (576p) | [Golden Eagle Cartoon (576p)](http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8) |
+| 67 | Guangdong Satellite TV | [Guangdong Satellite TV](https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8) |
+| 68 | Guangxi Variety & Travel Channel | [Guangxi Variety & Travel Channel](http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0) |
+| 69 | Guangzhou TV | [Guangzhou TV](https://tencentplaybusiness.gztv.com/live/zonghes.m3u8) |
+| 70 | Guizhou TV (576p) | [Guizhou TV (576p)](http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU) |
+| 71 | Harbin Comprehensive News Channel | [Harbin Comprehensive News Channel](https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594) |
+| 72 | Harbin Movie Channel | [Harbin Movie Channel](https://stream.hrbtv.net/yspd/playlist.m3u8) |
+| 73 | Hebei TV (2160p) | [Hebei TV (2160p)](https://event.pull.hebtv.com/live/live101.m3u8) |
+| 74 | Hebi News Channel (480p) [Not 24/7] | [Hebi News Channel (480p)  Not 24/7](http://pili-live-hls.hebitv.com/hebi/hebi.m3u8) |
+| 75 | Heilongjiang TV (1080p) | [Heilongjiang TV (1080p)](http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8) |
+| 76 | Hezheng TV | [Hezheng TV](http://117.156.28.119/270000001111/1110000149/index.m3u8) |
+| 77 | High Channel TV (1080p) | [High Channel TV (1080p)](http://117.156.28.119/270000001111/1110000146/index.m3u8) |
+| 78 | HomePlus | [HomePlus](https://homeplushls.wns.live/hls/stream.m3u8) |
+| 79 | Hunan News Channel | [Hunan News Channel](http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8) |
+| 80 | Hunan Politics & Law Channel | [Hunan Politics & Law Channel](http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8) |
+| 81 | Hunan TV (2160p) | [Hunan TV (2160p)](http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8) |
+| 82 | Hunan Womens Channel | [Hunan Womens Channel](http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8) |
+| 83 | Jiangsu City Channel (576p) | [Jiangsu City Channel (576p)](http://183.207.248.71/gitv/live1/G_JSCS/G_JSCS) |
+| 84 | Jiangsu Educational Channel (576p) | [Jiangsu Educational Channel (576p)](http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8) |
+| 85 | Jiangsu Movie Channel (576p) | [Jiangsu Movie Channel (576p)](http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8) |
+| 86 | Jiangsu Public & News Channel (576p) | [Jiangsu Public & News Channel (576p)](http://183.207.248.71/gitv/live1/G_JSGG/G_JSGG) |
+| 87 | Jiangsu Satellite TV (1080p) | [Jiangsu Satellite TV (1080p)](http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8) |
+| 88 | Jiangsu Sports & Leisure Channel (576p) | [Jiangsu Sports & Leisure Channel (576p)](http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY) |
+| 89 | Jiangsu Variety Channel (576p) [Not 24/7] | [Jiangsu Variety Channel (576p)  Not 24/7](http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY) |
+| 90 | Jiangxi Children's Channel | [Jiangxi Children's Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8) |
+| 91 | Jiangxi City Channel | [Jiangxi City Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8) |
+| 92 | Jiangxi Economy & Life Channel | [Jiangxi Economy & Life Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8) |
+| 93 | Jiangxi Movie Channel | [Jiangxi Movie Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8) |
+| 94 | Jiangxi Public & Agriculture Channel | [Jiangxi Public & Agriculture Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.m3u8) |
+| 95 | Jiangxi TV (1080p) | [Jiangxi TV (1080p)](http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8) |
+| 96 | Jilin City Channel | [Jilin City Channel](https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8) |
+| 97 | Jilin Lifestyle Channel | [Jilin Lifestyle Channel](https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8) |
+| 98 | Jilin Movie Channel | [Jilin Movie Channel](https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8) |
+| 99 | Jilin Rural Channel | [Jilin Rural Channel](https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8) |
+| 100 | Jiuquan TV News Comprehensive Channel (576p) | [Jiuquan TV News Comprehensive Channel (576p)](http://117.156.28.119/270000001111/1110000001/index.m3u8) |
+| 101 | Kangba TV | [Kangba TV](http://110.185.237.164:8888/hls/30/index.m3u8) |
+| 102 | Lanzhou Comprehensive News Channel | [Lanzhou Comprehensive News Channel](https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8) |
+| 103 | Lanzhou Culture & Tourism Channel | [Lanzhou Culture & Tourism Channel](https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8) |
+| 104 | Liangshan TV [Not 24/7] | [Liangshan TV  Not 24/7](http://118.122.2.29:9999/hls/47/index.m3u8) |
+| 105 | Liaoning TV (1080p) | [Liaoning TV (1080p)](http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8) |
+| 106 | Nanchang News & Generalist Channel | [Nanchang News & Generalist Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8) |
+| 107 | Nei Monggol TV 2 Mongolian Culture Channel | [Nei Monggol TV 2 Mongolian Culture Channel](http://1.24.190.98:10080/hls/40/index.m3u8) |
 
-Updated at **Wed Oct 07 2026 03:29:03 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Oct 08 2026 03:43:36 GMT+0000 (Coordinated Universal Time)**
