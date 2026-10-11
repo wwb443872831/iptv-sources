@@ -101,4 +101,4 @@
 | 95 | 少儿动画 | [少儿动画](rtp://239.3.1.199:9000) |
 | 96 | 动画高清 | [动画高清](rtp://239.3.1.80:4120) |
 
-Updated at **Sat Oct 10 2026 03:32:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Oct 11 2026 03:05:10 GMT+0000 (Coordinated Universal Time)**
