@@ -112,4 +112,4 @@
 | 106 | Nanchang News & Generalist Channel | [Nanchang News & Generalist Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8) |
 | 107 | Nei Monggol TV 2 Mongolian Culture Channel | [Nei Monggol TV 2 Mongolian Culture Channel](http://1.24.190.98:10080/hls/40/index.m3u8) |
 
-Updated at **Mon Oct 19 2026 02:32:54 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Oct 20 2026 02:45:31 GMT+0000 (Coordinated Universal Time)**
