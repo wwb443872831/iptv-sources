@@ -50,6 +50,7 @@ Guizhou TV (576p),http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU
 Hebei TV (2160p),https://event.pull.hebtv.com/live/live101.m3u8
 Heilongjiang TV (1080p),http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8
 Hezheng TV,http://117.156.28.119/270000001111/1110000149/index.m3u8
+Hunan Economy Channel,https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
 Jiangsu City Channel (576p),http://183.207.248.71/gitv/live1/G_JSCS/G_JSCS
 Jiangsu Public & News Channel (576p),http://183.207.248.71/gitv/live1/G_JSGG/G_JSGG
 Jiangxi City Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8
@@ -112,7 +113,7 @@ CND Film Discovery Channel (576p),http://125.210.152.18:9090/live/FXZL_750.m3u8
 
 Music,#genre#
 CCTV-11 (720p),http://74.91.26.218:82/live/cctv11hd.m3u8
-CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
+CCTV-15 (720p),http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV-Storm Music (1080p),http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 
 Lifestyle,#genre#
