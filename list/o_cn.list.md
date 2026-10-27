@@ -22,7 +22,7 @@
 | 16 | CCTV-2 (720p) | [CCTV-2 (720p)](http://74.91.26.218:82/live/cctv2hd.m3u8) |
 | 17 | CCTV-3 (720p) | [CCTV-3 (720p)](http://74.91.26.218:82/live/cctv3hd.m3u8) |
 | 18 | CCTV-4K HD (1080p) | [CCTV-4K HD (1080p)](http://198.204.240.250:82/live/cctv4k.m3u8) |
-| 19 | CCTV-5+ | [CCTV-5+](https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8) |
+| 19 | CCTV-5+ (1080p) | [CCTV-5+ (1080p)](https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p) |
 | 20 | CCTV-6 | [CCTV-6](https://live.eac-news.com/CCTV/streams/cctv6.m3u8) |
 | 21 | CCTV-6 HD (1080p) | [CCTV-6 HD (1080p)](http://69.30.245.50/live/cctv6.m3u8) |
 | 22 | CCTV-7 (720p) | [CCTV-7 (720p)](http://74.91.26.218:82/live/cctv7hd.m3u8) |
@@ -113,4 +113,4 @@
 | 107 | Nanchang News & Generalist Channel | [Nanchang News & Generalist Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8) |
 | 108 | Nei Monggol TV 2 Mongolian Culture Channel | [Nei Monggol TV 2 Mongolian Culture Channel](http://1.24.190.98:10080/hls/40/index.m3u8) |
 
-Updated at **Mon Oct 26 2026 02:27:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Oct 27 2026 03:02:32 GMT+0000 (Coordinated Universal Time)**

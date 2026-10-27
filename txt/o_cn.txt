@@ -73,7 +73,7 @@ CCTV-3 (720p),http://74.91.26.218:82/live/cctv3hd.m3u8
 Jiangsu Variety Channel (576p) [Not 24/7],http://183.207.248.71/gitv/live1/G_JSZY/G_JSZY
 
 Sports,#genre#
-CCTV-5+,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
+CCTV-5+ (1080p),https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
 CCTV-16 HD (1080p),http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 CCTV-Golf & Tennis (1080p),http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
