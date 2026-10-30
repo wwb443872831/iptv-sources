@@ -104,13 +104,14 @@
 | 98 | Jilin Lifestyle Channel | [Jilin Lifestyle Channel](https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8) |
 | 99 | Jilin Movie Channel | [Jilin Movie Channel](https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8) |
 | 100 | Jilin Rural Channel | [Jilin Rural Channel](https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8) |
-| 101 | Jiuquan TV News Comprehensive Channel (576p) | [Jiuquan TV News Comprehensive Channel (576p)](http://117.156.28.119/270000001111/1110000001/index.m3u8) |
-| 102 | Kangba TV | [Kangba TV](http://110.185.237.164:8888/hls/30/index.m3u8) |
-| 103 | Lanzhou Comprehensive News Channel | [Lanzhou Comprehensive News Channel](https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8) |
-| 104 | Lanzhou Culture & Tourism Channel | [Lanzhou Culture & Tourism Channel](https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8) |
-| 105 | Liangshan TV [Not 24/7] | [Liangshan TV  Not 24/7](http://118.122.2.29:9999/hls/47/index.m3u8) |
-| 106 | Liaoning TV (1080p) | [Liaoning TV (1080p)](http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8) |
-| 107 | Nanchang News & Generalist Channel | [Nanchang News & Generalist Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8) |
-| 108 | Nei Monggol TV 2 Mongolian Culture Channel | [Nei Monggol TV 2 Mongolian Culture Channel](http://1.24.190.98:10080/hls/40/index.m3u8) |
+| 101 | Jingmen Comprehensive News Channel | [Jingmen Comprehensive News Channel](https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036) |
+| 102 | Jiuquan TV News Comprehensive Channel (576p) | [Jiuquan TV News Comprehensive Channel (576p)](http://117.156.28.119/270000001111/1110000001/index.m3u8) |
+| 103 | Kangba TV | [Kangba TV](http://110.185.237.164:8888/hls/30/index.m3u8) |
+| 104 | Lanzhou Comprehensive News Channel | [Lanzhou Comprehensive News Channel](https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8) |
+| 105 | Lanzhou Culture & Tourism Channel | [Lanzhou Culture & Tourism Channel](https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8) |
+| 106 | Liangshan TV [Not 24/7] | [Liangshan TV  Not 24/7](http://118.122.2.29:9999/hls/47/index.m3u8) |
+| 107 | Liaoning TV (1080p) | [Liaoning TV (1080p)](http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8) |
+| 108 | Nanchang News & Generalist Channel | [Nanchang News & Generalist Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8) |
+| 109 | Nei Monggol TV 2 Mongolian Culture Channel | [Nei Monggol TV 2 Mongolian Culture Channel](http://1.24.190.98:10080/hls/40/index.m3u8) |
 
-Updated at **Thu Oct 29 2026 03:39:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Oct 30 2026 03:42:37 GMT+0000 (Coordinated Universal Time)**

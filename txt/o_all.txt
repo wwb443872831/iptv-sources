@@ -2663,6 +2663,7 @@ Jai Maharashtra (576p),https://d1msejlow1t3l4.cloudfront.net/fta/jaimaharashtra/
 Janam TV (576p),https://mumt03.tangotv.in/Dsly5z3HJANAMTV/index.m3u8
 Janta TV (1080p),https://live.jswk.online/IK_RTPM/live/index.m3u8
 Jantantra TV (576p),https://mumt05.tangotv.in/87NeALx2JANTANTRA/index.m3u8
+Jingmen Comprehensive News Channel,https://stream.jmtv.com.cn/xwzh/sd/live.m3u8?_upt=341f4b8e1791883036
 Jiuquan TV News Comprehensive Channel (576p),http://117.156.28.119/270000001111/1110000001/index.m3u8
 JKN 18 (1080p),https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
 Khabar Fast (576p),https://mumt04.tangotv.in/m18aqlK4KHABARFAST/index.m3u8
@@ -3160,7 +3161,6 @@ Nuevo Tiempo (720p) [Not 24/7],https://stream.live.novotempo.com/tv/smil:tvnuevo
 Nuevo Tiempo TV,https://streamtv.novotempo.com/CDN-TV-ES/smil:tvnuevotiempo.smil/playlist.m3u8
 Oasis TV (Colombia) (720p) [Not 24/7],https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
 OM TV (576p),https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8
-Omega (720p),https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiJkM2NlZTBhY2RmYTlkNWUzMTQ1MzMyMjk4Y2FlNGQ1YiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzg1NTYxNzEyLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.mbhyruuIdBBCY-HxJTyLdG3OH1nvFFuzwhBGEainaCV5EkRv20p22JUd-x8yzyghm_X-soPuxO_h_lf6aSsxQz1qMCQ8ZGcN_GVRW8j2Tv3hRJTj_DQnxk0s5LXmrQCkUo1szfCNjkOaa062r3x5qL1-kZ5fKDRnSBpGJyx_H6G1SHOTzlTd9mGggrZ3aH7Omuu1vKDHvxE-C0oN0KpgjO0oht5DM9ClTtXB1Wabu0mqfYRGXBpuBHhAn7hvDOxHTlWrtTUMcUXv5uQ-oXyfLCqHHFk_CV2TUUq6lmO6sIC93EeZrBWFQJr_t32xGMJpgOhfxjaL39B5XeUYypzAGQ/manifest/video.m3u8
 Parole di Vita (1080p),https://stream.paroledivita.org/paroledivita.m3u8
 Payame Aramesh TV (720p),https://hls.keshishhamid.live/hls/stream.m3u8
 Payvand TV (Iran) (720p) [Not 24/7],https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
@@ -3944,6 +3944,7 @@ TEN Canal 10 (720p) [Not 24/7],https://raw.githubusercontent.com/BellezaEmporium
 Tendencias Prime (720p),https://v4.tustreaming.cl/tendenciastv/index.m3u8
 The Hill TV (1080p),https://amg01312-cw-amg01312c15-firetv-us-3444.playouts.now.amagi.tv/playlist.m3u8
 The Nanny,https://jmp2.uk/plu-6391cef9edb23c0008598cee.m3u8
+Tipik (1080p),http://41.205.93.154/TIPIK/index.m3u8
 Tirol TV (720p) [Not 24/7],https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
 TIS TV (720p),https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
 Tisza TV (576p) [Not 24/7],https://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8
