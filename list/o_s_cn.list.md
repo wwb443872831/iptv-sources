@@ -19,7 +19,7 @@
 | 13 | CCTV-3 (720p) | [CCTV-3 (720p)](http://74.91.26.218:82/live/cctv3hd.m3u8) |
 | 14 | CCTV-4 Asia (720p) | [CCTV-4 Asia (720p)](http://74.91.26.218:82/live/cctv4hd.m3u8) |
 | 15 | CCTV-4K (1080p) | [CCTV-4K (1080p)](http://198.204.240.250:82/live/cctv4k.m3u8) |
-| 16 | CCTV-5+ | [CCTV-5+](https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8) |
+| 16 | CCTV-5+ (1080p) | [CCTV-5+ (1080p)](https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p) |
 | 17 | CCTV-6 (1080p) | [CCTV-6 (1080p)](http://69.30.245.50/live/cctv6.m3u8) |
 | 18 | CCTV-6 | [CCTV-6](https://live.eac-news.com/CCTV/streams/cctv6.m3u8) |
 | 19 | CCTV-7 (720p) | [CCTV-7 (720p)](http://74.91.26.218:82/live/cctv7hd.m3u8) |
@@ -28,4 +28,4 @@
 | 22 | CCTV-9 (576i) | [CCTV-9 (576i)](https://xykt-fix.github.io/Y77.m3u8) |
 | 23 | CCTV-10 (720p) | [CCTV-10 (720p)](http://74.91.26.218:82/live/cctv10hd.m3u8) |
 
-Updated at **Wed Nov 04 2026 04:03:45 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Nov 05 2026 04:25:26 GMT+0000 (Coordinated Universal Time)**
