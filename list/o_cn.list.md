@@ -64,14 +64,14 @@
 | 58 | CND Film Discovery Channel (576p) | [CND Film Discovery Channel (576p)](http://125.210.152.18:9090/live/FXZL_750.m3u8) |
 | 59 | CND Film Middle School Channel | [CND Film Middle School Channel](http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?A=&E=&K=&P=&S=&U=) |
 | 60 | Documentary Humanities Channel (1080p) | [Documentary Humanities Channel (1080p)](http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8) |
-| 61 | Dongguan Comprehensive News Channel | [Dongguan Comprehensive News Channel](https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8) |
+| 61 | Dongguan Comprehensive News Channel | [Dongguan Comprehensive News Channel](http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv) |
 | 62 | Dragon TV International | [Dragon TV International](https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8) |
 | 63 | Dunhuang TV (1080p) | [Dunhuang TV (1080p)](http://117.156.28.119/270000001111/1110000028/index.m3u8) |
 | 64 | Fengshang Shopping Channel (1080p) | [Fengshang Shopping Channel (1080p)](http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw) |
-| 65 | Fujian Comprehensive Channel | [Fujian Comprehensive Channel](http://120.39.52.202:5140/%E7%A6%8F%E5%BB%BA%E7%BB%BC%E5%90%88) |
+| 65 | Fujian Comprehensive Channel | [Fujian Comprehensive Channel](http://120.39.52.202:5140/福建综合) |
 | 66 | Golden Eagle Cartoon (576p) | [Golden Eagle Cartoon (576p)](http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8) |
 | 67 | Guangdong Satellite TV | [Guangdong Satellite TV](https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8) |
-| 68 | Guangxi Variety & Travel Channel | [Guangxi Variety & Travel Channel](http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0) |
+| 68 | Guangxi Variety & Travel Channel | [Guangxi Variety & Travel Channel](http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1) |
 | 69 | Guangzhou TV | [Guangzhou TV](https://tencentplaybusiness.gztv.com/live/zonghes.m3u8) |
 | 70 | Guizhou TV (576p) | [Guizhou TV (576p)](http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU) |
 | 71 | Harbin Comprehensive News Channel | [Harbin Comprehensive News Channel](https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594) |
@@ -114,4 +114,4 @@
 | 108 | Nanchang News & Generalist Channel | [Nanchang News & Generalist Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8) |
 | 109 | Nei Monggol TV 2 Mongolian Culture Channel | [Nei Monggol TV 2 Mongolian Culture Channel](http://1.24.190.98:10080/hls/40/index.m3u8) |
 
-Updated at **Thu Nov 05 2026 04:25:25 GMT+0000 (Coordinated Universal Time)**
+Updated at **Fri Nov 06 2026 04:23:10 GMT+0000 (Coordinated Universal Time)**
