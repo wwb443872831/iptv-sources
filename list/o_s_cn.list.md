@@ -5,7 +5,7 @@
 | No.  | Channel Name | Source |
 | --- | ------------ | --- |
 | 1 | Ando TV (1080p) | [Ando TV (1080p)](http://play.kankanlive.com/live/1711956137852982.m3u8) |
-| 2 | Anhui TV | [Anhui TV](https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8) |
+| 2 | Anhui TV (1080p) | [Anhui TV (1080p)](https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8) |
 | 3 | Anshun Comprehensive News Channel | [Anshun Comprehensive News Channel](https://hplayer1.juyun.tv/camera/154379194.m3u8) |
 | 4 | Beijing Traffic Radio TV | [Beijing Traffic Radio TV](http://123.56.24.28:1935/live/fm1039/96K/tzwj_video.m3u8) |
 | 5 | Beijing Youth Radio | [Beijing Youth Radio](http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8) |
@@ -28,4 +28,4 @@
 | 22 | CCTV-9 (576i) | [CCTV-9 (576i)](https://xykt-fix.github.io/Y77.m3u8) |
 | 23 | CCTV-10 (720p) | [CCTV-10 (720p)](http://74.91.26.218:82/live/cctv10hd.m3u8) |
 
-Updated at **Tue Nov 17 2026 05:51:01 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Nov 18 2026 05:17:02 GMT+0000 (Coordinated Universal Time)**

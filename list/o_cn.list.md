@@ -7,7 +7,7 @@
 | 1 | ABN China (720p) | [ABN China (720p)](https://mediaserver.abnvideos.com/streams/abnchina.m3u8) |
 | 2 | Ando TV (1080p) | [Ando TV (1080p)](http://play.kankanlive.com/live/1711956137852982.m3u8) |
 | 3 | Angel TV Chinese (720p) | [Angel TV Chinese (720p)](https://janya-digimix.akamaized.net/vglive-sk-999451/chinese/ngrp:angelchinese_all/playlist.m3u8) |
-| 4 | Anhui TV | [Anhui TV](https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8) |
+| 4 | Anhui TV (1080p) | [Anhui TV (1080p)](https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8) |
 | 5 | Anshun Comprehensive News Channel | [Anshun Comprehensive News Channel](https://hplayer1.juyun.tv/camera/154379194.m3u8) |
 | 6 | Baicheng TV | [Baicheng TV](https://stream2.jlntv.cn/baicheng1/sd/live.m3u8) |
 | 7 | Beijing Satellite TV [Not 24/7] | [Beijing Satellite TV  Not 24/7](http://ivi.bupt.edu.cn/hls/btv1.m3u8) |
@@ -114,4 +114,4 @@
 | 108 | Nanchang News & Generalist Channel | [Nanchang News & Generalist Channel](https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8) |
 | 109 | Nei Monggol TV 2 Mongolian Culture Channel | [Nei Monggol TV 2 Mongolian Culture Channel](http://1.24.190.98:10080/hls/40/index.m3u8) |
 
-Updated at **Tue Nov 17 2026 05:51:01 GMT+0000 (Coordinated Universal Time)**
+Updated at **Wed Nov 18 2026 05:17:02 GMT+0000 (Coordinated Universal Time)**
