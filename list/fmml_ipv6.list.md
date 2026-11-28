@@ -87,4 +87,4 @@
 | 81 | CGTN西语 | [CGTN西语](https://0472.org/hls/cgtnx.m3u8) |
 | 82 | CGTN阿语 | [CGTN阿语](https://0472.org/hls/cgtna.m3u8) |
 
-Updated at **Fri Nov 27 2026 05:57:41 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Nov 28 2026 05:39:18 GMT+0000 (Coordinated Universal Time)**
